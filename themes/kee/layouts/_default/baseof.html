@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="{{ $.Site.LanguageCode | default "en" }}" dir="ltr" class="no-js">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+     {{/* NOTE: the Site's title, and if there is a page title, that is set too */}}
+    <title>{{ block "title" . }}{{ .Site.Title }} {{ with .Title }} | {{ . }}{{ end }}{{ end }}</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+
+    <link rel="shortcut icon" href='{{ "images/favicon.ico" | absURL }}' type="image/x-icon; charset=binary">
+    <link rel="icon" href='{{ "images/favicon.ico" | absURL }}' type="image/x-icon; charset=binary">
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+     {{ .Hugo.Generator }}
+      {{/* NOTE: For Production make sure you add `HUGO_ENV="production"` before your build command */}}
+      {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
+        <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+      {{ else }}
+        <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+      {{ end }}
+
+    <link rel="stylesheet" href='{{ "css/kee.css" | absURL }}' media="all" type="text/css" />
+
+    <script type="text/javascript" src='{{ "js/b.js" | absURL }}'></script>
+    <script type="text/javascript" src='{{ "js/a.js" | absURL }}'></script>
+
+    <script type="text/javascript">window.liveSettings={api_key:"0b84313a5cda4e8094f8020cc21d327a"}</script>
+    <script type="text/javascript" src="//cdn.transifex.com/live.js"></script>
+
+     {{ if .RSSLink }}
+      <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+      <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
+      {{ end }}
+
+      {{/* NOTE: These Hugo Internal Templates can be found starting at https://github.com/spf13/hugo/blob/master/tpl/tplimpl/template_embedded.go#L158 */}}
+      {{- template "_internal/opengraph.html" . -}}
+      {{- template "_internal/google_news.html" . -}}
+      {{- template "_internal/schema.html" . -}}
+      {{- template "_internal/twitter_cards.html" . -}}
+
+      {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
+        <script type="text/javascript">
+if (typeof(tw_gat) == 'object') {
+	tw_gat.debug(0)
+		.setAccount('UA-11743867-3')
+		.setDomainName('auto')
+		.setCrossDomains([])
+		.anonymizeIP(0)
+		.trackClientInfo(1)
+		.trackFlashVersion(1)
+		.trackPageTitle(1)
+		.trackExternals(0,'',[])
+		.trackEmails(0,'',Array)
+		.trackDownloads(0,'','{pathname}',{"\/":["doc","docx","pdf","xls","ppt","zip","gz","bz2","rar","txt","vsd","vxd","js","css","exe","wma","mov","avi","wmv","mp3","mp4"]})
+		.registerCustomDimensionsMetrics([])
+		.trackPageview("/about");
+	(function(){ var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = '//www.google-analytics.com/analytics.js'; ga.onload = function() { tw_gat.installTrackingHandlers(2); }; ga.onreadystatechange = function() { if (this.readyState in {'loaded': 1, 'complete': 1}) tw_gat.installTrackingHandlers(2); }; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);})();
+}
+</script>
+      {{ end }}
+  </head>
+
+<body>
+<div class="body-bg">
+    <div class="navbar navbar-default navbar-top navbar-has-image" role="navigation">
+    <div class="container">
+        <div class="navbar-header navbar-header-main">
+            
+                    <a class="navbar-brand navbar-brand-image" href="/">
+                        <img src='{{ "images/websiteHeader2014.png" | absURL }}' height="68" width="240" />
+                    </a>
+                
+            
+            <button type="button" class="navbar-toggle navbar-toggle-menu" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="glyphicon glyphicon-list"></span>
+                <span class="sr-only">Toggle navigation</span>
+            </button>
+            
+            <span class="navbar-header-border-bottom"></span>
+        </div>
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav navbar-main"><li><a href="news" title="News" >News<mark class="bar"></mark></a></li><li><a href="help" title="Help" >Help<mark class="bar"></mark></a></li></ul>
+        </div>
+    </div>
+</div>
+    
+    <div class="main-section">
+  	
+{{ block "main" . }}{{ end }}
+
+</div>
+    <div class="footer-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-4">
+                
+            </div>
+            <div class="col-sm-4">
+                
+            </div>
+            <div class="col-sm-4">
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="meta-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4 language">
+    	<a href="/about">About</a>&nbsp;|&nbsp;<a href="/privacy">Privacy and cookies</a>&nbsp;|&nbsp;<a href="/contact">Contact</a>
+            </div>
+            
+                <div class="col-md-8 copyright">
+                    <p><a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License - BY SA" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/80x15.png" height="15" width="80" /></a> &nbsp;© Chris Tomlinson</p>
+                </div>
+            
+        </div>
+    </div>
+</div>
+
+</div>
+<script src='{{ "js/c.js" | absURL }}' type="text/javascript"></script>
+
+	<script type="text/javascript">
+var __st_loadLate=true;
+		var switchTo5x=true;
+		$(window).load(function(){
+			setTimeout(function () {
+				$.ajax({
+					url: 'http://w.sharethis.com/button/buttons.js',
+					dataType: 'script',
+					success: function(){
+						stLight.options({
+							publisher: '5b437524-4c47-4339-bb48-dab12d972f2d',
+							onhover: false,
+							theme:'7'
+						});
+						stLight.domReady();
+					},
+					cache: true
+				});
+			},100 ); 
+		});
+		
+$('.downloadButton').click(function (event) { window.location = $(this).children(":first").children(":first").attr("href"); event.preventDefault(); });
+$('.instruction').click(function (event) { window.location = $(this).children(":first").attr("href"); event.preventDefault(); });
+	</script>
+
+</body>
+</html>
+
