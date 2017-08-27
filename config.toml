@@ -2,3 +2,6 @@ baseURL = "/"
 languageCode = "en-us"
 title = "Kee"
 theme = "kee"
+
+[permalinks]
+  news = "/:year/:month/:day/:slug/"
