@@ -1,6 +1,8 @@
 {{ define "main" }}
+  <h1>{{.Title}}</h1>
   <article class="">
     {{ .Content }}
-    456
   </article>
+  <div>News categorisation tags: {{ .Params.tags }}</div>
+  <div>Publish date: {{.Date.Format "2 January 2006"}}</div>
 {{ end }}
