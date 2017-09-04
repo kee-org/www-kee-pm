@@ -1,1 +1,79 @@
+# Redirects to external resources
+/help/help-build https://github.com/kee-org/
+/help/forum https://discussions.zoho.com/keefox
 
+# Very old news articles
+/2009/0-7-beta-released /2009/12/21/0.7-beta-released/
+/2010/kiss /2010/03/22/kiss/
+/2010/keepassrpc-plugin /2010/03/24/keepassrpc-plugin/
+/2010/firefox-3-0-support /2010/04/01/firefox-3.0-support/
+/2010/keefox-0-7-7-released /2010/07/17/keefox-0.7.7-released/
+/2010/keefox-0-8-beta-released /2010/07/29/keefox-0.8-beta-released/
+/2010/keefox-0-8-1-released /2010/07/31/keefox-0.8.1-released/
+/2010/keefox-0-8-4-beta-released /2010/10/16/keefox-0.8.4-beta-released/
+/2010/test-versions-now-available /2010/01/10/test-versions-now-available/
+/2010/new-development-snapshot-version-0-7-3 /2010/01/28/new-development-snapshot-version-0.7.3/
+/2010/keepassrpc-plugin-technical-overview /2010/12/02/keepassrpc-plugin-technical-overview/
+/2010/keepassrpc-security-and-authentication /2010/12/11/keepassrpc-security-and-authentication/
+/2010/keefox-0-8-5-experimental-version-released /2010/12/17/keefox-0.8.5-experimental-version-released/
+/2011/keefox-0-8-7-experimental-version-released /2011/02/27/keefox-0.8.7-experimental-version-released/
+/2011/keefox-0-8-8-experimental-version-released /2011/03/10/keefox-0.8.8-experimental-version-released/
+/2011/keefox-0-8-8-take-2 /2011/03/10/keefox-0.8.8---take-2/
+/2011/keefox-0-8-10-released /2011/03/21/keefox-0.8.10-released/
+/2011/keefox-0-8-12-experimental-version-released /2011/04/04/keefox-0.8.12-experimental-version-released/
+/2011/keefox-0-8-15-experimental-version-released /2011/04/13/keefox-0.8.15-experimental-version-released/
+/2011/subscribe-to-keefox-news-by-email /2011/05/09/subscribe-to-keefox-news-by-email/
+/2011/keefox-0-8-17-experimental-version-released /2011/05/15/keefox-0.8.17-experimental-version-released/
+/2011/keefox-0-8-19-experimental-version-released /2011/05/17/keefox-0.8.19-experimental-version-released/
+/2011/keefox-0-8-20-released /2011/05/21/keefox-0.8.20-released/
+/2011/translating-keefox /2011/08/17/translating-keefox/
+/2011/getting-started-tutorial-improved /2011/05/2011/getting-started-tutorial-improved/
+/2011/keefox-is-on-the-official-firefox-add-ons-website /2011/06/02/keefox-is-on-the-official-firefox-add-ons-website/
+/2011/keefox-0-8-21-released /2011/06/13/keefox-0.8.21-released/
+/2011/keefox-0-9-release-candidate-available /2011/08/01/keefox-0.9-release-candidate-available/
+/2011/keefox-0-9-3-released /2011/10/25/keefox-0.9.3-released/
+/2012/keepass-2-18-compatibility /2012/01/11/keepass-2.18-compatibility/
+/2012/tutorial-improved /2012/01/30/tutorial-improved/
+/2012/keefox-0-9-5-and-linuxmac-support /2012/03/14/keefox-0.9.5-and-linuxmac-support
+/2012/keefox-0-9-4-released /2012/02/04/keefox-0.9.4-released
+
+# previous site news format (migrated articles)
+/news/detail/2009/12/21/07-beta-released/ /2009/12/21/0.7-beta-released/
+/news/detail/2010/04/01/firefox-30-support/ /2010/04/01/firefox-3.0-support/
+/news/detail/2010/07/17/keefox-077-released/ /2010/07/17/keefox-0.7.7-released/
+/news/detail/2010/07/29/keefox-08-beta-released/ /2010/07/29/keefox-0.8-beta-released/
+/news/detail/2010/07/31/keefox-081-released/ /2010/07/31/keefox-0.8.1-released/
+/news/detail/2010/10/16/keefox-084-beta-released/ /2010/10/16/keefox-0.8.4-beta-released/
+/news/detail/2010/01/28/new-development-snapshot-version-073/ /2010/01/28/new-development-snapshot-version-0.7.3/
+/news/detail/2010/12/17/keefox-085-experimental-version-released/ /2010/12/17/keefox-0.8.5-experimental-version-released/
+/news/detail/2011/02/27/keefox-087-experimental-version-released/ /2011/02/27/keefox-0.8.7-experimental-version-released/
+/news/detail/2011/03/10/keefox-088-experimental-version-released/ /2011/03/10/keefox-0.8.8-experimental-version-released/
+/news/detail/2011/03/10/keefox-088---take-2/ /2011/03/10/keefox-0.8.8---take-2/
+/news/detail/2011/03/21/keefox-0810-released/ /2011/03/21/keefox-0.8.10-released/
+/news/detail/2011/04/04/keefox-0812-experimental-version-released/ /2011/04/04/keefox-0.8.12-experimental-version-released/
+/news/detail/2011/04/13/keefox-0815-experimental-version-released/ /2011/04/13/keefox-0.8.15-experimental-version-released/
+/news/detail/2011/05/15/keefox-0817-experimental-version-released/ /2011/05/15/keefox-0.8.17-experimental-version-released/
+/news/detail/2011/05/17/keefox-0819-experimental-version-released/ /2011/05/17/keefox-0.8.19-experimental-version-released/
+/news/detail/2011/05/21/keefox-0820-released/ /2011/05/21/keefox-0.8.20-released/
+/news/detail/2011/06/13/keefox-0821-released/ /2011/06/13/keefox-0.8.21-released/
+/news/detail/2011/08/01/keefox-09-release-candidate-available/ /2011/08/01/keefox-0.9-release-candidate-available/
+/news/detail/2011/10/25/keefox-093-released/ /2011/10/25/keefox-0.9.3-released/
+/news/detail/2012/01/11/keepass-218-compatibility/ /2012/01/11/keepass-2.18-compatibility/
+/news/detail/2012/03/14/keefox-095-and-linuxmac-support/ /2012/03/14/keefox-0.9.5-and-linuxmac-support/
+/news/detail/2012/02/04/keefox-094-released/ /2012/02/04/keefox-0.9.4-released/
+
+# slug rewrites for previous site news format (newer articles)
+/news/detail/2012/05/02/keefox-10 /2012/05/02/keefox-1.0
+/news/detail/2012/07/01/firefox-3x-support-ending /news/detail/2012/07/01/firefox-3.x-support-ending
+/news/detail/2014/05/01/new-look-for-keefox-14 /news/detail/2014/05/01/new-look-for-keefox-1.4
+/news/detail/2012/10/09/keefox-112-released /news/detail/2012/10/09/keefox-1.1.2-released
+/news/detail/2016/03/02/keefox-16 /news/detail/2016/03/02/keefox-1.6
+/news/detail/2016/03/02/keefox-15 /news/detail/2016/03/02/keefox-1.5
+
+# Catch-all for simple article slugs from earlier versions of news slug format
+/:year/:month:/:date/:slug  /:year/:month/:date/:slug
+/news/detail/:year/:month:/:date/:slug  /:year/:month/:date/:slug
+
+# Point all links to paged news indexes to top level news index
+/page/* /news/
+/news/page/* /news/
