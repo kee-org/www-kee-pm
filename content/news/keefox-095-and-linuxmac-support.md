@@ -1,5 +1,6 @@
 ---
 title: KeeFox 0.9.5 and Linux/Mac support
+slug: 'keefox-0.9.5-and-linuxmac-support'
 date: '2012-03-15T00:00:00+00:00'
 tags:
   - development
