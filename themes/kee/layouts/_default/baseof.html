@@ -129,26 +129,6 @@ if (typeof(tw_gat) == 'object') {
 <script src='{{ "js/c.js" | absURL }}' type="text/javascript"></script>
 
 	<script type="text/javascript">
-var __st_loadLate=true;
-		var switchTo5x=true;
-		$(window).load(function(){
-			setTimeout(function () {
-				$.ajax({
-					url: 'http://w.sharethis.com/button/buttons.js',
-					dataType: 'script',
-					success: function(){
-						stLight.options({
-							publisher: '5b437524-4c47-4339-bb48-dab12d972f2d',
-							onhover: false,
-							theme:'7'
-						});
-						stLight.domReady();
-					},
-					cache: true
-				});
-			},100 ); 
-		});
-		
 $('.downloadButton').click(function (event) { window.location = $(this).children(":first").children(":first").attr("href"); event.preventDefault(); });
 $('.instruction').click(function (event) { window.location = $(this).children(":first").attr("href"); event.preventDefault(); });
 	</script>
