@@ -1,6 +1,6 @@
 ---
 title: Win an Android tablet
-date: '2012-06-09T00:00:00+00:00'
+date: 2017-09-08T00:05:00+01:00
 tags:
   - keefox
   - news
@@ -14,3 +14,4 @@ tags:
 <p>The deadline is in two weeks. Full details and step by step instructions are available on the Mozilla add-ons blog:<br> <a href="http://blog.mozilla.org/addons/2012/04/24/tell-us-about-your-favorite-add-on-for-a-chance-to-win-one-of-three-android-tablets/" title="Go to http://blog.mozilla.org/addons/2012/04/24/tell-us-about-your-favorite-add-on-for-a-chance-to-win-one-of-three-android-tablets/" target="_blank" class="externlink">http://blog.mozilla.org/addons/2012/04/2 … nce-to-win-one-of-three-android-tablets/</a>
 </p>
 <p>Please remember that you can get in touch using the <a href="help/forum" title="Go to http://keefox.org/help/forum" class="externlink">support forum</a> to comment or suggest improvements so if you have something to say that might benefit from a reply please post it on the forum instead of (or as well as) in an add-on review. I try to keep on top of comments and questions in reviews but sometimes I just don’t see them.</p>
+
