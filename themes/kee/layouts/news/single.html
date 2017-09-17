@@ -3,6 +3,7 @@
   <article class="">
     {{ .Content }}
   </article>
-  <div>News categorisation tags: {{ .Params.tags }}</div>
-  <div>Publish date: {{.Date.Format "2 January 2006"}}</div>
+  <hr class="newsArticleMetaDivider" />
+  <div class="newsTags">Article categories: {{ .Params.tags }}</div>
+  <div class="newsPublishDate">Published on: {{.Date.Format "2 January 2006"}}</div>
 {{ end }}
