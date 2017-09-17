@@ -27,5 +27,5 @@ collections: # A list of collections the CMS should be able to edit
     fields:
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Date", name: "date", widget: "string"}
+      - {label: "Date", name: "date", widget: "datetime", format: "Y-MM-DDThh:mm:ssZ"}
       - {label: "Tags", name: "tags", widget: "tags"}
