@@ -1,8 +1,2 @@
-<h2>Kee will be awesome</h2>
-<p>Testing 123. Website under construction.</p>
-<ul>
-<li>Download</li>
-<li>Features</li>
-<li>Reviews</li>
-<li>OPEN SOURCE ADVANTAGE</li>
-</ul>
+<h2 style="margin-left:30px">Kee 2.0 is the new KeeFox</h2>
+<p style="margin-left:30px">Website under construction.</p>
