@@ -4,12 +4,12 @@ title: Privacy, cookie and licensing policy
 <p><strong>This policy applies only to the website<a href="#c185" title="Opens internal link in current window" class="internal-link">*</a>, NOT Kee itself.</strong><br> 
 </p>
 <h3>Data collection and retention</h3>
-<p>You can choose to submit your email address to the Feedburner subscription service (currently owned by Google) in order to receive notifications of updates on the Kee website - you may want to review their privacy policy when you sign up. Alternatively, you can receive update notifications via the RSS service - this also relies on feedburner but your use of the service is completely anonymous.
-</p>
+<p>This website does not collect any personal data.</p>
+
 <h3>Automatically collected data</h3>
 <p>As with the vast majority of web sites, the Kee website automatically logs information about every request made of it. This information is used for system administration, for bug tracking, and for producing anonymous usage statistics. The logged information may be kept indefinitely.
 </p>
-<p>Data may on occasion be passed to the administrators of other computer systems/networks to enable investigation of abuse, problems accessing this site or misconfiguration. Otherwise the logged information is not passed to any third party except if required by law.<br> 
+<p>This anonymous data may on occasion be passed to the administrators of other computer systems/networks to enable investigation of abuse, problems accessing this site or misconfiguration. Otherwise the logged information is not passed to any third party except if required by law.<br> 
 </p>
 <h3>Cookies</h3>
 <p>Cookies (small files stored on your computer’s hard drive) are not required by the Kee website directly but some third party services require their use.
