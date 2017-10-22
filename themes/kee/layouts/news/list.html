@@ -13,7 +13,8 @@
     <div class="latestSynopsis">{{.Params.Synopsis}}</div>
     <div class="latestDate">{{.Date.Format "2 January 2006"}}</div>
     {{ end }}
-    <h3>All news articles</h3>
+    <p>Note that future news articles will be posted to the new <a href="https://forum.kee.pm">community forum</a></p>
+    <h3>All archived news articles</h3>
         <ul class="newsArticles">
     <!-- Ranges through content/post/*.md -->
     {{ range .Data.Pages }}

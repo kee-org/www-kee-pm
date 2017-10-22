@@ -69,6 +69,7 @@
 /news/detail/2012/10/09/keefox-112-released /news/detail/2012/10/09/keefox-1.1.2-released
 /news/detail/2016/03/02/keefox-16 /news/detail/2016/03/02/keefox-1.6
 /news/detail/2016/03/02/keefox-15 /news/detail/2016/03/02/keefox-1.5
+/news/detail/2017/09/19/introducing-kee-20 /news/detail/2017/09/19/introducing-kee-2.0
 
 # Catch-all for simple article slugs from earlier versions of news slug format
 /:year/:month:/:date/:slug  /:year/:month/:date/:slug
