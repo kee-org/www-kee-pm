@@ -24,10 +24,8 @@
         <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
       {{ end }}
 
-    <link rel="stylesheet" href='{{ "css/kee.css" | absURL }}' media="all" type="text/css" />
-
-    <script type="text/javascript" src='{{ "js/b.js" | absURL }}'></script>
-    <script type="text/javascript" src='{{ "js/a.js" | absURL }}'></script>
+      <link rel="stylesheet" href='{{ "css/bootstrap.min.css" | absURL }}' media="all" type="text/css" />
+      <link rel="stylesheet" href='{{ "css/kee.css" | absURL }}' media="all" type="text/css" />
 
     <script type="text/javascript">window.liveSettings={api_key:"0b84313a5cda4e8094f8020cc21d327a"}</script>
     <script type="text/javascript" src="//cdn.transifex.com/live.js"></script>
@@ -44,50 +42,23 @@
       {{- template "_internal/twitter_cards.html" . -}}
 
       {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
-        <script type="text/javascript">
-if (typeof(tw_gat) == 'object') {
-	tw_gat.debug(0)
-		.setAccount('UA-11743867-3')
-		.setDomainName('auto')
-		.setCrossDomains([])
-		.anonymizeIP(0)
-		.trackClientInfo(1)
-		.trackFlashVersion(1)
-		.trackPageTitle(1)
-		.trackExternals(0,'',[])
-		.trackEmails(0,'',Array)
-		.trackDownloads(0,'','{pathname}',{"\/":["doc","docx","pdf","xls","ppt","zip","gz","bz2","rar","txt","vsd","vxd","js","css","exe","wma","mov","avi","wmv","mp3","mp4"]})
-		.registerCustomDimensionsMetrics([])
-		.trackPageview("/about");
-	(function(){ var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = '//www.google-analytics.com/analytics.js'; ga.onload = function() { tw_gat.installTrackingHandlers(2); }; ga.onreadystatechange = function() { if (this.readyState in {'loaded': 1, 'complete': 1}) tw_gat.installTrackingHandlers(2); }; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);})();
-}
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-108284341-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-108284341-2');
 </script>
       {{ end }}
   </head>
 
 <body>
 <div class="body-bg">
-    <div class="navbar navbar-default navbar-top navbar-has-image" role="navigation">
-    <div class="container">
-        <div class="navbar-header navbar-header-main">
-            
-                    <a class="navbar-brand navbar-brand-image" href="/">
-                        <img src='{{ "images/websiteHeader2014.png" | absURL }}' height="68" width="240" />
-                    </a>
-                
-            
-            <button type="button" class="navbar-toggle navbar-toggle-menu" data-toggle="collapse" data-target=".navbar-collapse">
-                <span class="glyphicon glyphicon-list"></span>
-                <span class="sr-only">Toggle navigation</span>
-            </button>
-            
-            <span class="navbar-header-border-bottom"></span>
-        </div>
-        <div class="navbar-collapse collapse">
-            <ul class="nav navbar-nav navbar-main"><li><a href="/news" title="News" >News<mark class="bar"></mark></a></li><li><a href="/help" title="Help" >Help<mark class="bar"></mark></a></li></ul>
-        </div>
+    <div class="header">
+        <a href="/"><img src='{{ "images/websiteHeader.png" | absURL }}' height="64" width="180" /></a>
     </div>
-</div>
     
     <div class="main-section">
   	
@@ -113,11 +84,11 @@ if (typeof(tw_gat) == 'object') {
 <div class="meta-section">
     <div class="container">
         <div class="row">
-            <div class="col-md-4 language">
-    	<a href="/policy">Privacy, cookies and licensing</a>&nbsp;|&nbsp;<a href="/contact">Contact</a>
+            <div class="col-md-6 language">
+    	<a href="/policy">Privacy, cookies and licensing</a>&nbsp;|&nbsp;<a href="/contact">Contact</a> | <a href="/news" title="News">News</a> | <a href="/help" title="Help">Help</a>
             </div>
             
-                <div class="col-md-8 copyright">
+                <div class="col-md-6 copyright">
                     <p><a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License - BY SA" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/80x15.png" height="15" width="80" /></a> &nbsp;© Chris Tomlinson</p>
                 </div>
             
@@ -126,12 +97,6 @@ if (typeof(tw_gat) == 'object') {
 </div>
 
 </div>
-<script src='{{ "js/c.js" | absURL }}' type="text/javascript"></script>
-
-	<script type="text/javascript">
-$('.downloadButton').click(function (event) { window.location = $(this).children(":first").children(":first").attr("href"); event.preventDefault(); });
-$('.instruction').click(function (event) { window.location = $(this).children(":first").attr("href"); event.preventDefault(); });
-	</script>
 
 </body>
 </html>
