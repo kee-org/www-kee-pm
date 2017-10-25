@@ -1,0 +1,38 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Content Manager</title>
+
+  <link rel="stylesheet" href="https://unpkg.com/netlify-cms@~0.4/dist/cms.css" />
+
+</head>
+<body>
+  <script src="https://unpkg.com/netlify-cms@~0.4/dist/cms.js"></script>
+  <script>
+var TagsControl = createClass({
+  handleChange: function(e) {
+    this.props.onChange(e.target.value.split(',').map((e) => e.trim()));
+  },
+
+  render: function() {
+    var value = this.props.value;
+    return h('input', { type: 'text', value: value ? value.join(', ') : '', onChange: this.handleChange });
+  }
+});
+
+var TagsPreview = createClass({
+  render: function() {
+    return h('ul', {},
+      this.props.value.map(function(val, index) {
+        return h('li', {key: index}, val);
+      })
+    );
+  }
+});
+
+CMS.registerWidget('tags', TagsControl, TagsPreview);
+</script>
+</body>
+</html>

@@ -1,0 +1,9 @@
+{{ define "main" }}
+  <h1>{{.Title}}</h1>
+  <article class="">
+    {{ .Content }}
+  </article>
+  <hr class="newsArticleMetaDivider" />
+  <div class="newsTags">Article categories: {{ .Params.tags }}</div>
+  <div class="newsPublishDate">Published on: {{.Date.Format "2 January 2006"}}</div>
+{{ end }}
