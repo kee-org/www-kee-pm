@@ -3,6 +3,9 @@
   publish = "public"
   command = "hugo"
 
+[context.production.environment]
+  HUGO_ENV = "production"
+
 [context.deploy-preview]
   command = "hugo --baseURL $DEPLOY_PRIME_URL"
 #  --buildDrafts --buildFuture might be useful one day?
