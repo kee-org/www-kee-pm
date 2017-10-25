@@ -16,14 +16,17 @@ tags:
 <p>We are still waiting on Mozilla (Firefox) to fix some critical bugs so our beta testing time will be very limited and we appreciate any help you can offer in the coming weeks - as previously announced, the current version of KeeFox 1.7.x will not work in Firefox 57 (14th November 2017). In the next week or two we hope to find that Kee 2.0 will work in Firefox 56 to ease the transition for all users.</p>
 
 <p>Keep an eye out for a new article soon with more information about when and how you can help test Kee before the official launch date.</p>
+<p>Update: Post created at <a href="https://forum.kee.pm/t/kee-2-0-beta-testing/27">https://forum.kee.pm/t/kee-2-0-beta-testing/27</a></p>
 
 <p>This is the first in a series of posts about the changes that are coming in the next couple of months. Future posts will cover at least the following topics:</p>
 
 <h3>New, changed and removed features</h3>
 <p>Kee 2.0 is the culmination of many years of work so I'm pleased that it will bring some notable improvements from KeeFox 1.7.2. Unfortunately, we are not able to bring along every feature from KeeFox.</p>
+<p>Update: Post created at <a href="https://forum.kee.pm/t/kee-2-0-features/28">https://forum.kee.pm/t/kee-2-0-features/28</a></p>
 
 <h3>New web sites</h3>
 <p>Some details are still pending but for now, please just note that the keefox.org website will soon be replaced with a site at <a href="https://www.kee.pm">https://www.kee.pm</a>. As usual, this might result in old news articles being resent to you (so keep an eye on the published date!). A new getting started tutorial and possibly a new help forum are also on the cards.</p>
+<p>Update: Post created at <a href="https://forum.kee.pm/t/new-website-and-community-forum/21">https://forum.kee.pm/t/new-website-and-community-forum/21</a></p>
 
 <h3>Thunderbird and other applications that connect to KeePassRPC</h3>
 <p>Again, we don't have all the details ironed out yet but it's worth noting that the latest version of KeePassRPC is the first example of an upgrade to KeePassRPC which is both backwards compatible with an older client (KeeFox 1.7.2) and delivered independently of KeeFox - upgrade instructions currently available at <a href="https://keefox.org/upgrade">keefox.org/upgrade</a></p>
