@@ -1,6 +1,17 @@
 # Redirects to external resources
 /help/help-build https://github.com/kee-org/
-/help/forum https://discussions.zoho.com/keefox
+/help/forum https://forum.kee.pm/t/help-and-support/24
+/help https://forum.kee.pm/t/help-and-support/24
+/migration https://forum.kee.pm/t/migrating-passwords-to-kee/26
+/migrate https://forum.kee.pm/t/migrating-passwords-to-kee/26
+/upgrade https://forum.kee.pm/t/upgrading-keepassrpc/22
+/install https://forum.kee.pm/t/installing-kee-instructions/23
+/download /
+/reviews /
+/features /
+/about /
+/privacy /policy
+/open-source-advantage /#osi
 
 # Very old news articles
 /2009/0-7-beta-released /2009/12/21/0.7-beta-released/
