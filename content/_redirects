@@ -83,8 +83,8 @@
 /news/detail/2017/09/19/introducing-kee-20 /news/detail/2017/09/19/introducing-kee-2.0
 
 # Catch-all for simple article slugs from earlier versions of news slug format
-/:year/:month:/:date/:slug  /:year/:month/:date/:slug
-/news/detail/:year/:month:/:date/:slug  /:year/:month/:date/:slug
+/:year/:month/:date/:slug  /:year/:month/:date/:slug
+/news/detail/:year/:month/:date/:slug  /:year/:month/:date/:slug
 
 # Point all links to paged news indexes to top level news index
 /page/* /news/
