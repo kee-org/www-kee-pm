@@ -31,15 +31,15 @@
 
 <h4 class="card-subtitle" style="margin:10px 0px;">Step 1) Install Kee</h4>
 
-<p class="card-text">For Firefox 56 and lower, install the earlier version of Kee, called <a href="https://addons.mozilla.org/en-US/firefox/addon/keefox/">KeeFox from the Mozilla add-ons website</a>. Please read the add-on description and then install it as you would any other add-on.</p>
-
-<p class="card-text">For Firefox 57 and higher, <a href="https://forum.kee.pm/t/kee-2-0-beta-testing/27">install Kee 2.0</a>.</p>
+<p class="card-text">Install Kee 2.0 from <a href="https://addons.mozilla.org/firefox/addon/keefox/">the Mozilla Firefox add-ons website</a>. Please read the "About this add-on" section and then install it as you would any other Firefox add-on.</p>
 
 <h4 class="card-subtitle" style="margin:10px 0px;">Beta version</h4>
 
 <!--<p>This version will usually be stable and contain new features and improvements more quickly than the stable version. In some cases the addon may not work as expected so this version is recommended for people that are confident using computers. For anyone that does want to help Kee get even better, subscribing to the beta channel is a very effective way to help because you will be able to alert us to any problems with new versions and prevent the majority of Kee users suffering.</p>-->
 
-<p><a href="https://addons.mozilla.org/en-US/firefox/addon/keefox/versions/beta">Find the latest Beta version on AMO</a> and install the add-on from there.</p>
+<p><a href="https://addons.mozilla.org/firefox/addon/keefox/versions/beta">Find the latest Beta version on AMO</a> and install the add-on from there.</p>
+
+<p><a href="https://chrome.google.com/webstore/detail/kee/mmhlniccooihdimnnjhamobppdhaolme">Beta version for Google Chrome now available</a></p>
 
 </div>
 </div>
