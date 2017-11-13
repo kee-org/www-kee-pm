@@ -57,7 +57,14 @@
 <body>
 <div class="body-bg">
     <div class="header">
-        <a href="/"><img src='{{ "images/websiteHeader.png" | absURL }}' height="64" width="180" /></a>
+        <div style="width: 200px; flex-grow: 1;">
+            <a href="/"><img src='{{ "images/websiteHeader.png" | absURL }}' height="64" width="180" /></a>
+        </div>
+        <div style="align-self: center;">
+            <a class="btn btn-success btn-large" href="https://paypal.me/luckyrat" target="_blank">
+            <img src="{{ "images/heart.svg" | absURL }}" style="vertical-align: baseline; width: 16px; margin-bottom: -2px;">
+            Donate</a>
+        </div>
     </div>
     
     <div class="main-section">

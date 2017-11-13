@@ -17,7 +17,7 @@ li.c,ul.reviews li{margin:15px 0px}
 .stars{background:url("/images/stars.png") no-repeat scroll left top transparent;display:inline-block;height:12px;margin:0px 5px 0px -68px;text-indent:-9999px;vertical-align:middle;width:63px}
 .stars.stars-4{background-position:-13px 0}
 
-.header {margin: 10px 5px;}
+.header {margin: 10px 5px; display: flex;}
 
 @media (max-width:991px){.header a img{max-height:32px;width:auto}
 }
