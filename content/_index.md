@@ -31,7 +31,7 @@
 
 <h4 class="card-subtitle" style="margin:10px 0px;">Step 1) Install Kee</h4>
 
-<p class="card-text">Install Kee 2.0 from <a href="https://addons.mozilla.org/firefox/addon/keefox/">the Mozilla Firefox add-ons website</a>. Please read the "About this add-on" section and then install it as you would any other Firefox add-on.</p>
+<p class="card-text">Install Kee from <a href="https://addons.mozilla.org/firefox/addon/keefox/">the Mozilla Firefox add-ons website</a>. Please read the "About this add-on" section and then install it as you would any other Firefox add-on.</p>
 
 <h4 class="card-subtitle" style="margin:10px 0px;">Beta version</h4>
 
