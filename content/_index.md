@@ -37,7 +37,7 @@
 
 <!--<p>This version will usually be stable and contain new features and improvements more quickly than the stable version. In some cases the addon may not work as expected so this version is recommended for people that are confident using computers. For anyone that does want to help Kee get even better, subscribing to the beta channel is a very effective way to help because you will be able to alert us to any problems with new versions and prevent the majority of Kee users suffering.</p>-->
 
-<p><a href="https://addons.mozilla.org/firefox/addon/keefox/versions/beta">Find the latest Beta version on AMO</a> and install the add-on from there.</p>
+<p><a href="https://github.com/kee-org/browser-addon/releases/latest">Go to the latest release on GitHub</a> and install the signed add-on from there.</p>
 
 <p><a href="https://chrome.google.com/webstore/detail/kee/mmhlniccooihdimnnjhamobppdhaolme">Beta version for Google Chrome now available</a></p>
 
