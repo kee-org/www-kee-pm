@@ -14,3 +14,9 @@
 # an active Deploy Preview will inherit these settings.
 [context.branch-deploy]
   command = "hugo --baseURL $DEPLOY_PRIME_URL"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+  Content-Security-Policy = "frame-ancestors 'none'"
+  X-Frame-Options = "DENY"
