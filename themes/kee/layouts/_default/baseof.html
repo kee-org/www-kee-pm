@@ -51,6 +51,50 @@
   gtag('config', 'UA-108284341-2');
 </script>
       {{ end }}
+
+      <!-- TODO: Enable only on production -->
+
+      <!-- execute before matomo if we can so we can track the page view as quickly as possible (relies on extra network request to load rid iframe and then async postmessage comms with that) -->
+<script>
+var onRandomIdRetrievedFromStorage = function(val, later) {
+    // We have no idea if the matomo tracker is ready 
+    // yet but we do know the _paq array will be there
+    if (val) {
+        _paq.push(["setUserId", val]);
+        _paq.push(["setCustomVariable", 1, "vtype", "known", "visit"]);
+    } else {
+        _paq.push(["setCustomVariable", 1, "vtype", "unknown", "visit"]);
+    }
+
+    if (later) {
+        _paq.push(['trackEvent', 'Account', 'SignIn', 'ExistingSession']);
+    } else {
+        _paq.push(['trackPageView']);
+        _paq.push(['enableLinkTracking']);
+        _paq.push(['enableHeartBeatTimer']);
+    }
+}
+</script>
+
+    <!-- don't defer cos we know we'll trigger a new network request after executing -->
+      <script async src='{{ "js/rid.js" | absURL }}'></script>
+<!-- Matomo -->
+<script type="text/javascript">
+    var _paq = _paq || [];
+    
+    (function() {
+      var u="https://matomo.kee.pm/";
+      _paq.push(["disableCookies"]);
+      _paq.push(['setTrackerUrl', u+'piwik.php']);
+      _paq.push(['setSiteId', '1']);
+      _paq.push(['discardHashTag', 'true']);
+      var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+      g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+    })();
+  </script>
+  <noscript><p><img src="https://matomo.kee.pm/piwik.php?idsite=1&amp;rec=1" style="border:0;" alt="" /></p></noscript>
+  <!-- End Matomo Code -->
+
   </head>
 
 <body>
