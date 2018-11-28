@@ -52,19 +52,21 @@ function crossDomainStorage(opts) {
 
     var _handleMessage = function (event) {
         if (event.origin === _origin) {
-            var data = JSON.parse(event.data);
-            if (typeof _requests[data.id] != 'undefined') {
-                if (typeof _requests[data.id].callback === 'function') {
-                    _requests[data.id].callback(data.key, data.value);
+            try {
+                var data = JSON.parse(event.data);
+                if (typeof _requests[data.id] != 'undefined') {
+                    if (typeof _requests[data.id].callback === 'function') {
+                        _requests[data.id].callback(data.key, data.value);
+                    }
+                    delete _requests[data.id];
+                } else if (data.type === 'onSet' && data.key === 'randomId') {
+                    console.log("Updated: " + data.value);
+                    // if not set, we can't recover - caller needs to fix the parent page script
+                    if (window.onRandomIdRetrievedFromStorage) {
+                        window.onRandomIdRetrievedFromStorage(data.value, true);
+                    }
                 }
-                delete _requests[data.id];
-            } else if (data.type === 'onSet' && data.key === 'randomId') {
-                console.log("Updated: " + data.value);
-                // if not set, we can't recover - caller needs to fix the parent page script
-                if (window.onRandomIdRetrievedFromStorage) {
-                    window.onRandomIdRetrievedFromStorage(data.value, true);
-                }
-            }
+            } catch (e) {}
         }
     }
 
