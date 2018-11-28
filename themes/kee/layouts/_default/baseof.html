@@ -83,16 +83,17 @@ var onRandomIdRetrievedFromStorage = function(val, later) {
     var _paq = _paq || [];
     
     (function() {
-      var u="https://matomo.kee.pm/";
+      var u="https://matomo.kee.pm/js/";
       _paq.push(["disableCookies"]);
-      _paq.push(['setTrackerUrl', u+'piwik.php']);
+      _paq.push(['setTrackerUrl', u]);
+      _paq.push(['setAPIUrl', u]);
       _paq.push(['setSiteId', '1']);
       _paq.push(['discardHashTag', 'true']);
       var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-      g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+      g.type='text/javascript'; g.async=true; g.defer=true; g.src=u; s.parentNode.insertBefore(g,s);
     })();
   </script>
-  <noscript><p><img src="https://matomo.kee.pm/piwik.php?idsite=1&amp;rec=1" style="border:0;" alt="" /></p></noscript>
+  <noscript><p><img src="https://matomo.kee.pm/js/?idsite=1&amp;rec=1" style="border:0;" alt="" /></p></noscript>
   <!-- End Matomo Code -->
 
   </head>
