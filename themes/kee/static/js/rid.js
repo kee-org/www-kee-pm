@@ -153,7 +153,7 @@ function crossDomainStorage(opts) {
     return cdstorage;
 }
 
-document.addEventListener("DOMContentLoaded", function () {
+var startup = function () {
     cdstorage = crossDomainStorage({
         origin: "https://rid.kee.pm", 
         path: "/index.html"
@@ -167,4 +167,10 @@ document.addEventListener("DOMContentLoaded", function () {
             window.onRandomIdRetrievedFromStorage(value, false);
         }
     });
-});
+};
+
+if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", startup);
+} else {
+    startup();
+}
