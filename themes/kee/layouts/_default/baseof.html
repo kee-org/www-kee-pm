@@ -16,88 +16,94 @@
     <meta name="theme-color" content="#ffffff">
 
     <meta name="viewport" content="width=device-width,minimum-scale=1">
-     {{ .Hugo.Generator }}
-      {{/* NOTE: For Production make sure you add `HUGO_ENV="production"` before your build command */}}
-      {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
-        <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
-      {{ else }}
-        <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
-      {{ end }}
+    {{ .Hugo.Generator }}
+    {{/* NOTE: For Production make sure you add `HUGO_ENV="production"` before your build command */}}
+    {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
+    <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    {{ else }}
+    <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+    {{ end }}
 
-      <link rel="stylesheet" href='{{ "css/bootstrap.min.css" | absURL }}' media="all" type="text/css" />
-      <link rel="stylesheet" href='{{ "css/kee.css" | absURL }}' media="all" type="text/css" />
+    <link rel="stylesheet" href='{{ "css/bootstrap.min.css" | absURL }}' media="all" type="text/css" />
+    <link rel="stylesheet" href='{{ "css/kee.css" | absURL }}' media="all" type="text/css" />
 
     <script type="text/javascript">window.liveSettings={api_key:"0b84313a5cda4e8094f8020cc21d327a"}</script>
 
-     {{ if .RSSLink }}
-      <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
-      <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
-      {{ end }}
+    {{ if .RSSLink }}
+    <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+    <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
+    {{ end }}
 
-      {{/* NOTE: These Hugo Internal Templates can be found starting at https://github.com/spf13/hugo/blob/master/tpl/tplimpl/template_embedded.go#L158 */}}
-      {{- template "_internal/opengraph.html" . -}}
-      {{- template "_internal/google_news.html" . -}}
-      {{- template "_internal/schema.html" . -}}
-      {{- template "_internal/twitter_cards.html" . -}}
+    {{/* NOTE: These Hugo Internal Templates can be found starting at https://github.com/spf13/hugo/blob/master/tpl/tplimpl/template_embedded.go#L158 */}}
+    {{- template "_internal/opengraph.html" . -}}
+    {{- template "_internal/google_news.html" . -}}
+    {{- template "_internal/schema.html" . -}}
+    {{- template "_internal/twitter_cards.html" . -}}
 
-      {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-108284341-2"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-108284341-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
 
-  gtag('config', 'UA-108284341-2');
-</script>
-      {{ end }}
+        gtag('config', 'UA-108284341-2');
+    </script>
+    {{ end }}
 
-      <!-- TODO: Enable only on production -->
+    <!-- TODO: Enable only on production -->
 
-      <!-- execute before matomo if we can so we can track the page view as quickly as possible (relies on extra network request to load rid iframe and then async postmessage comms with that) -->
-<script>
-var onRandomIdRetrievedFromStorage = function(val, later) {
-    // We have no idea if the matomo tracker is ready 
-    // yet but we do know the _paq array will be there
-    if (val) {
-        _paq.push(["setUserId", val]);
-        _paq.push(["setCustomVariable", 1, "vtype", "known", "visit"]);
-    } else {
-        _paq.push(["setCustomVariable", 1, "vtype", "unknown", "visit"]);
-    }
+    <!-- execute before matomo if we can so we can track the page view as quickly as
+        possible (relies on extra network request to load rid iframe and
+        then async postmessage comms with that) -->
+    <script>
+        var matomoInitialPageViewTracked = false;
+        var onRandomIdRetrievedFromStorage = function(val) {
+            // We have no idea if the matomo tracker is ready 
+            // yet but we do know the _paq array will be there
+            if (val) {
+                _paq.push(["setUserId", val]);
+                _paq.push(["setCustomVariable", 1, "vtype", "known", "visit"]);
+            } else {
+                _paq.push(["setCustomVariable", 1, "vtype", "unknown", "visit"]);
+            }
 
-    if (later) {
-        _paq.push(['trackEvent', 'Account', 'SignIn', 'ExistingSession']);
-    } else {
-        _paq.push(['trackPageView']);
-        _paq.push(['enableLinkTracking']);
-        _paq.push(['enableHeartBeatTimer']);
-    }
-}
-</script>
+            if (matomoInitialPageViewTracked) {
+                _paq.push(['trackEvent', 'Account', 'SignIn', 'ExistingSession']);
+            } else {
+                _paq.push(['trackPageView']);
+                _paq.push(['enableLinkTracking']);
+                _paq.push(['enableHeartBeatTimer']);
+            }
+        }
+
+        // If rid is being exceptionally slow, still try to log a page view
+        setTimeout(onRandomIdRetrievedFromStorage, 15000, null);
+    </script>
 
     <!-- don't defer cos we know we'll trigger a new network request after executing -->
-      <script async src='{{ "js/rid.js" | absURL }}'></script>
-<!-- Matomo -->
-<script type="text/javascript">
-    var _paq = _paq || [];
-    
-    (function() {
-      var u="https://matomo.kee.pm/js/";
-      _paq.push(["disableCookies"]);
-      _paq.push(['setTrackerUrl', u]);
-      _paq.push(['setAPIUrl', u]);
-      _paq.push(['setSiteId', '1']);
-      _paq.push(['discardHashTag', 'true']);
-      var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-      g.type='text/javascript'; g.async=true; g.defer=true; g.src=u; s.parentNode.insertBefore(g,s);
-    })();
-  </script>
-  <noscript><p><img src="https://matomo.kee.pm/js/?idsite=1&amp;rec=1" style="border:0;" alt="" /></p></noscript>
-  <!-- End Matomo Code -->
+    <script async src='{{ "js/rid.js" | absURL }}'></script>
 
-  </head>
+    <!-- Matomo -->
+    <script type="text/javascript">
+        var _paq = _paq || [];
+        
+        (function() {
+            var u="https://matomo.kee.pm/js/";
+            _paq.push(["disableCookies"]);
+            _paq.push(['setTrackerUrl', u]);
+            _paq.push(['setAPIUrl', u]);
+            _paq.push(['setSiteId', '1']);
+            _paq.push(['discardHashTag', 'true']);
+            var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+            g.type='text/javascript'; g.async=true; g.defer=true; g.src=u; s.parentNode.insertBefore(g,s);
+        })();
+    </script>
+    <noscript><p><img src="https://matomo.kee.pm/js/?idsite=1&amp;rec=1" style="border:0;" alt="" /></p></noscript>
+    <!-- End Matomo Code -->
 
+</head>
 <body>
 <div class="body-bg">
     <div class="header">

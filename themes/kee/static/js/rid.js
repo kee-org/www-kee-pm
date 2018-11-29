@@ -13,8 +13,8 @@ function crossDomainStorage(opts) {
 
     var origin = opts.origin || '',
         path = opts.path || '',
-        storage = opts.storage || 'localStorage'
-    cdstorage = {},
+        storage = opts.storage || 'localStorage',
+        cdstorage = {},
         _iframe = null,
         _iframeReady = false,
         _origin = origin,
@@ -30,8 +30,6 @@ function crossDomainStorage(opts) {
             return false;
         }
     })();
-
-    //private methods
 
     var _sendRequest = function (data) {
         if (_iframe) {
@@ -60,17 +58,14 @@ function crossDomainStorage(opts) {
                     }
                     delete _requests[data.id];
                 } else if (data.type === 'onSet' && data.key === 'randomId') {
-                    console.log("Updated: " + data.value);
                     // if not set, we can't recover - caller needs to fix the parent page script
                     if (window.onRandomIdRetrievedFromStorage) {
-                        window.onRandomIdRetrievedFromStorage(data.value, true);
+                        window.onRandomIdRetrievedFromStorage(data.value);
                     }
                 }
             } catch (e) {}
         }
     }
-
-    //Public methods
 
     cdstorage.getItem = function (key, callback) {
         if (supported) {
@@ -92,49 +87,6 @@ function crossDomainStorage(opts) {
             }
         }
     };
-
-    cdstorage.setItem = function (key, value) {
-        if (supported) {
-            var request = {
-                id: ++_id,
-                type: 'set',
-                key: key,
-                value: value,
-                storage: storage
-            },
-                data = {
-                    request: request
-                };
-
-            if (_iframeReady) {
-                _sendRequest(data);
-            } else {
-                _queue.push(data);
-            }
-
-        }
-    };
-
-    cdstorage.removeItem = function (key) {
-        if (supported) {
-            var request = {
-                id: ++_id,
-                type: 'remove',
-                key: key,
-                storage: storage
-            },
-                data = {
-                    request: request
-                };
-
-            if (_iframeReady) {
-                _sendRequest(data);
-            } else {
-                _queue.push(data);
-            }
-
-        }
-    }
 
     //Init
     if (!_iframe && supported) {
@@ -161,12 +113,10 @@ var startup = function () {
         path: "/index.html"
     });
 
-    cdstorage.getItem('randomId', function(key, value) {
-        console.log("Cross Domain callback: (" + key + ": " + value + ")");
-        
+    cdstorage.getItem('randomId', function(key, value) {        
         // if not set, we can't recover - caller needs to fix the parent page script
         if (window.onRandomIdRetrievedFromStorage) {
-            window.onRandomIdRetrievedFromStorage(value, false);
+            window.onRandomIdRetrievedFromStorage(value);
         }
     });
 };
