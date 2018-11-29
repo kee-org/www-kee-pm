@@ -50,9 +50,6 @@
 
         gtag('config', 'UA-108284341-2');
     </script>
-    {{ end }}
-
-    <!-- TODO: Enable only on production -->
 
     <!-- execute before matomo if we can so we can track the page view as quickly as
         possible (relies on extra network request to load rid iframe and
@@ -103,6 +100,7 @@
     <noscript><p><img src="https://matomo.kee.pm/js/?idsite=1&amp;rec=1" style="border:0;" alt="" /></p></noscript>
     <!-- End Matomo Code -->
 
+    {{ end }}
 </head>
 <body>
 <div class="body-bg">
