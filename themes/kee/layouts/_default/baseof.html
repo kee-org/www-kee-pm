@@ -95,7 +95,7 @@
                 // one set through supplementary addTracker calls (in other words, it
                 // appears as though the siteId parameter passed to getAsyncTracker is
                 // actually ignored)
-                var singleTracker = Piwik.getAsyncTracker(null, 2);
+                var singleTracker = Piwik.getAsyncTracker(null, 1);
                 singleTracker.setDocumentTitle(document.title);
             } catch (err) {
                 console.error(err);
