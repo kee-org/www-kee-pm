@@ -1,0 +1,6 @@
+<div class="highlight"><div class="highlight_icon"><span class="svg">
+    {{- $fname:=print "svg/" ( .Get 0 ) ".svg" -}}
+    {{- $path:="<path" -}}
+    {{- $fill:="<path fill=\"currentColor\"" -}}
+    {{ replace (readFile $fname) $path $fill | safeHTML }}
+</span></div><div class="highlight_text">{{ .Inner }}</div></div>
