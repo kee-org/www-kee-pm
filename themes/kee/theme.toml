@@ -4,12 +4,12 @@
 name = "kee"
 license = ""
 licenselink = ""
-description = "Theme for website for the Kee browser addon"
+description = "Theme for website for Kee Vault Ltd"
 homepage = "https://www.kee.pm/"
 tags = []
 features = []
 min_version = "0.25.1"
 
 [author]
-  name = "Chris Tomlinson"
-  homepage = "https://github.com/luckyrat"
+  name = "Kee Vault Ltd"
+  homepage = "https://github.com/kee-org"
