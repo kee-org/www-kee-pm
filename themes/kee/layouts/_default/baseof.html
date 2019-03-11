@@ -38,19 +38,11 @@
     {{- template "_internal/twitter_cards.html" . -}}
 
     {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-108284341-2"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-
-        gtag('config', 'UA-108284341-2');
-    </script>
 
     <!-- execute before matomo if we can so we can track the page view as quickly as
         possible (relies on extra network request to load rid iframe and
         then async postmessage comms with that) -->
+    <!-- PROTECTED BY CSP. Update hashes in netlify.toml if making changes -->
     <script>
         var matomoInitialPageViewTracked = false;
         var onRandomIdRetrievedFromStorage = function(val) {
@@ -82,6 +74,7 @@
     <script async src='{{ "js/rid.js" | absURL }}'></script>
 
     <!-- Matomo -->
+    <!-- PROTECTED BY CSP. Update hashes in netlify.toml if making changes -->
     <script type="text/javascript">
         var _paq = _paq || [];
 
