@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://www.kee.pm/"
 languageCode = "en-us"
 title = "Kee Vault Ltd"
 theme = "kee"
