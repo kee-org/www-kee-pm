@@ -18,5 +18,7 @@
 [[headers]]
   for = "/*"
   [headers.values]
-  Content-Security-Policy = "frame-ancestors 'none'"
+  Content-Security-Policy = "default-src 'none'; script-src 'self' 'unsafe-inline' https://matomo.kee.pm/js/ 'sha256-ovn02t217b3OZUKwAyK+y5bStjN4Yu74vJncEhtWfkM=' 'sha256-ZCy+flNfu2bIXvkaizdUX6xGPkKGWzizBIMDlR+z4jo=' 'sha256-3JwQL3po/nchVImV+zo3jKO8egUoWVcAjb2s03D4vRU='; connect-src 'self'; img-src 'self' data: https://matomo.kee.pm/js/ https://d33wubrfki0l68.cloudfront.net; style-src 'self'; font-src 'self'; frame-ancestors 'none'; child-src https://rid.kee.pm/; frame-src https://rid.kee.pm/; report-uri https://keevault.report-uri.com/r/d/csp/enforce;"
   X-Frame-Options = "DENY"
+  X-Content-Type-Options = "nosniff"
+  X-Xss-Protection = "1; mode=block; report=https://keevault.report-uri.com/r/d/xss/enforce"
