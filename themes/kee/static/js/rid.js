@@ -92,6 +92,7 @@ function crossDomainStorage(opts) {
     if (!_iframe && supported) {
         _iframe = document.createElement("iframe");
         _iframe.style.cssText = "position:absolute;width:1px;height:1px;left:-9999px;";
+        _iframe.sandbox = "allow-same-origin allow-scripts";
         document.body.appendChild(_iframe);
 
         if (window.addEventListener) {
