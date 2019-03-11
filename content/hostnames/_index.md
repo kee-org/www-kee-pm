@@ -28,6 +28,7 @@ Top Level Domains (i.e. the domains that we purchase from international internet
 * matomo._kee.pm_ - anonymous statistics server
 * rid._kee.pm_ - provides a random ID to the anonymous statistics server
 * mailfrom._kee.pm_ - return address hostname for some emails we send
+* resetacc._kee.pm_ - Kee Vault account/password reset API
 
 ## Defensive hostnames:
 
