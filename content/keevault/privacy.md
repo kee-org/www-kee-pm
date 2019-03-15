@@ -140,7 +140,7 @@ Unlike nearly all websites, this is a private analytics system (we do not share 
 
 We do not permit third parties other than our service providers to track Kee Vault users' activity over time. We do not track your online browsing activity on other online services over time. We therefore have no need to, and do not, respond to your browser's Do Not Track signal.
 
-**Note that if you have previously accessed other websites on the kee.pm domain, you may temporarily be tracked by Google Analytics, although we will stop the issuing of new Google Analytics cookies and the utilisation of existing ones on all Kee Vault Ltd websites within a few weeks of announcing Kee Vault.**
+**Note that if you have accessed other websites on the kee.pm domain before mid-March 2019, you may have inactive Google Analytics cookies on your system which are safe to ignore or remove as you prefer.**
 
 ### How Kee Vault secures your information
 
