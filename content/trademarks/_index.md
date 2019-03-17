@@ -1,5 +1,141 @@
 ---
-title: Trademarks
+title: Trademark Policy
 ---
 
-You can't use our trademarks at all, in any way, until we develop this documentation page over the coming weeks. Just ask in the community forum if you have any questions in the mean time.
+The objective of the Kee Vault trademark policy is to encourage widespread use of the Kee Vault trademarks by the Kee Vault community while controlling that use in order to avoid confusion on the part of Kee Vault users and the general public, to maintain the value of the image and reputation of the trademarks and to protect them from inappropriate or unauthorised use.
+
+The sections below describe what is allowed, what isn’t allowed, and cases in which you should ask permission.
+
+If you have any doubt, please contact us and we’ll try to help you soon.
+
+If you are aware of a breach or misuse of the Kee Vault trademarks in any way, we would appreciate you bringing this to our attention. Please contact us so that we can investigate further.
+
+## The trademarks
+
+Kee Vault Ltd owns the **Kee Vault** trademark. Any mark containing the letters Kee Vault is sufficiently similar to one or more of the trademarks that permission will be needed in order to use it. This policy encompasses all marks, in word and logo form, collectively referred to as “Trademarks”.
+
+## Permitted use
+
+Certain usages of the Trademarks are fine and no specific permission from us is needed.
+
+**Community advocacy**. Kee Vault is partly built by and for its community. We share access to the Trademarks with the entire community for the purposes of discussion, development and advocacy. We recognise that most of the open source discussion and development areas are for non-commercial purposes and will allow the use of the trademarks in this context, provided:
+
+ * The Trademark is used in a manner consistent with the Usage Guidelines below
+ * There is no commercial intent behind the use
+ * What you are referring to is in fact Kee Vault. If someone is confused into thinking that what isn’t Kee Vault is in fact Kee Vault, you are probably doing something wrong
+ * There is no suggestion (through words or appearance) that your project is approved, sponsored, or affiliated with Kee Vault or its related projects unless it actually has been approved by and is accountable to the Kee Vault Ltd team.
+
+
+**Commentary and parody**. The Kee Vault trademarks are designed to cover use of a mark to imply origin or endorsement by the project. When a user downloads something called Kee Vault, they should know it comes from the Kee Vault project. This helps Kee Vault build a reputation that will not be damaged by confusion around what is, and isn’t, Kee Vault. Using the trademarks in your discussion, commentary, criticism or parody, in ways that unequivocally do not imply endorsement from Kee Vault Ltd, is permissible. Anyone is free to write articles, create websites, blog about, or talk about Kee Vault as long as it is clear to everyone — including people completely unfamiliar with Kee Vault — that they are simply referring to Kee Vault and in no way speaking for the Kee Vault Ltd team, or the Kee Vault project.
+
+We reserve the right to review all usage within the open source community, and to object to any usage that appears to overstep the bounds of discussion and good-faith non-commercial development. In any event, once a project has left the open source project phase or otherwise become a commercial project, this policy does not authorise any use of the Trademarks in connection to that project.
+
+## Restricted use that requires a trademark licence
+
+Permission from us is necessary to use any of the Trademarks under any circumstances other than those specifically permitted above. These include:
+
+* Any commercial use.
+* Use on or in relation to a software product that includes or is built on top of a product supplied by us.
+* Use in a domain name or URL.
+* Use for merchandising purposes, e.g. on t-shirts and the like.
+* Use of a name which includes the letters Kee Vault in relation to computer hardware or software.
+* Services relating to any of the above.
+
+If you wish to have permission for any of the uses above or for any other use which is not specifically referred to in this policy, please contact us and we’ll let you know as soon as possible if your proposed use is permissible. Note that due to the volume of mail we receive, it may take up to a week to process your request. Permission may only be granted subject to certain conditions and these may include the requirement that you enter into an agreement with us to maintain the quality of the product and/or service which you intend to supply at a prescribed level.
+
+While there may be exceptions, it is very unlikely that we will approve Trademark use in the following cases:
+
+* Use of a Trademark in a company name.
+* Use of a Trademark in a domain name which has a commercial intent. The commercial intent can range from promotion of a company or product, to collecting revenue generated by advertising.
+* The calling of any software or service by the name Kee Vault (or another related Trademark).
+* Use in combination with any other marks or logos. This include use of a Trademark in a manner that creates a “combined mark,” or use that integrates other wording with the Trademark in a way that the public may think of the use as a new mark (for example iKeeVault, My Kee Vault or Pass Kee Vault, or in a way that by use of special fonts or presentation with nearby words or images conveys an impression that the two are tied in some way).
+* Use in combination with any product or service which is presented as being Certified or Official or formally associated with us or our products or services.
+* Use in a way which implies an endorsement where that doesn’t exist, or which attempts to unfairly or confusingly capitalise on the goodwill or brand of the project.
+* Use of a Trademark in a manner that disparages Kee Vault, the project, Kee Vault Ltd or its products and is not clearly third-party parody.
+* On or in relation to a software product which constitutes a modified version of a product supplied by Kee Vault Ltd, that is to say with material changes to the code, or services relating to such a product.
+* In a title or metatag of a web page whose sole intention or result is to influence search engine rankings or result listings, rather than for discussion, development or advocacy of the Trademarks.
+
+## Text usage guidelines
+
+* Always distinguish trademarks from surrounding text with initial capital letters.
+    * Unacceptable: kee vault
+    * Acceptable: Kee Vault
+* Always use trademarks in their exact form with the correct spelling, neither abbreviated, hyphenated, nor combined with any other word or words.
+    * Unacceptable: Keevault
+    * Unacceptable: kee-VAULT
+    * Unacceptable: key Vault
+    * Acceptable: Kee Vault
+* Don’t pluralise a trademark.
+    * Unacceptable: Our family has seven Kee Vaults.
+    * Acceptable: Our family has seven Kee Vault accounts.
+* Don’t use “a” or “the” to refer to an instance of the trademark. When you use a trademark following an article, you should only use the trademark as an adjective modifying a noun.
+    * Unacceptable: I subscribe to the Kee Vault.
+    * Acceptable: I subscribe to the Kee Vault service.
+* Don’t use a trademark as a verb.
+    * Unacceptable: We are Kee Vaulting our passwords.
+    * Acceptable: We are using the Kee Vault service to secure our passwords.
+* Don’t use a trademark as a possessive.
+    * Unacceptable: Kee Vault’s service is stable.
+    * Acceptable: The Kee Vault service is stable.
+    * Acceptable: Kee Vault Ltd’s service is stable. (using company name rather than the trademark itself)
+
+## Logo usage guidelines
+
+Our logos are presented in multiple colours and it is important that their visual integrity be maintained. It is therefore preferable that the logos only be used in their standard form but if you should feel the need to alter them in any way you should keep the following guidelines in mind. It should also be borne in mind that the more you wish to vary our logos from their standard form the smaller is the chance that we will be able to approve your proposed use.
+
+* If presented in colour, the logo should only use the “official” logo colours
+* A greyscale version may be acceptable in certain situations, if the medium requires it
+* Any scaling must retain the original proportions of the logo
+* Padding must be included on all sides of the logo bounding box per the specifications below
+
+### Design definitions
+
+In RGB hex, the Kee Vault...
+
+* blue is #1a466b
+* grey-blue is #eaeef1
+* orange is #e66a2b
+
+An underlying background colour is considered “light enough” if it provides a [contrast ratio](https://webaim.org/resources/contrastchecker/) of at least 5:1 compared with the Kee Vault blue.
+
+### VAULT
+
+The full Kee Vault logo comprising of the word Vault with a key-shaped inset to form the V letter.
+
+* The letters must be blue
+* The background, including the key inset, can be either:
+    * grey-blue
+    * transparent, provided that the underlying background is light enough
+* Required padding:
+    * Top: At least the higher of 5px or 15% of the logo height
+    * Bottom: At least the higher of 5px or 15% of the logo height
+    * Left: At least the higher of 10px or 5% of the logo width
+    * Right: At least the higher of 10px or 5% of the logo width
+
+### V
+
+The abbreviated square form of the logo.
+
+* The background, excluding the key inset, can be either:
+    * grey-blue
+    * transparent, provided that the underlying background is always light enough
+* The colour of the key inset shape can indicate specific Kee Vault Ltd products or brands, outlined below
+* Required padding:
+    * All 4 sides: At least the higher of 4px or 20% of the image width
+
+#### V: Kee browser extension
+
+* The key inset must be orange
+
+#### V: The Kee Vault service or Kee Vault Ltd
+
+* The key inset can be either:
+    * grey-blue
+    * transparent, provided that the underlying background is always light enough
+
+
+## Summary
+
+Thank you for reading this far. [Contact us](/contact/) if you have any questions or suggestions.
+
+These Guidelines are based in part on the Matomo trademark policy and the Model Trademark Guidelines. Both these Guidelines and the upstream sources are published under the CC-BY-SA license.
