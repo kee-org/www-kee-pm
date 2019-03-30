@@ -46,3 +46,11 @@ The visible parts of Kee Vault, while generally functional, do not always demons
 ## Documentation and support
 
 We're working hard to develop any required documentation and improve the quantity and quality of our customer support but at this early stage we're mostly interested in learning what pain points you experience so that we can focus on those first. Please [join our community forum](https://forum.kee.pm) to help us understand how you'd like Kee Vault to improve!
+
+## Invalid metadata
+
+Form field DOM attribute IDs and names in Vaults created before 30th March 2019 may have missing (or even more rarely, incorrect) values, potentially reducing form filling match accuracy when multiple entries are available for a given website.
+
+If your Vault was created during this part of the beta testing period and you find that some Kee browser extension form filling accuracy is not good, especially if worse than the KeePass entry you imported from, it would be wise to either re-import the entries from KeePass, or if widespread changes have already been made since the import, consider using the history feature to revert individual entries if they have ended up with an incorrect form field configuration.
+
+The root cause of this bug was a misunderstanding of two magic parts of the Backbone.js library. A couple of other similar mistakes have been fixed at the same time, thankfully before they could have any impact.
