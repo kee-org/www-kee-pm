@@ -22,4 +22,4 @@
   X-Frame-Options = "DENY"
   X-Content-Type-Options = "nosniff"
   X-Xss-Protection = "1; mode=block; report=https://keevault.report-uri.com/r/d/xss/enforce"
-  Strict-Transport-Security = "max-age=2592000; includeSubDomains;"
+  Strict-Transport-Security = "max-age=31536000; includeSubDomains; preload"
