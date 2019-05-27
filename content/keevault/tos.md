@@ -2,12 +2,6 @@
 title: Kee Vault Terms of Service
 ---
 
-## Preface
-
-This TOS agreement may change frequently and without notice during the private beta period - we don't think such changes will be detrimental to you (or indeed, anything other than typo corrections, clarifications and the like) but you agree that regardless of whether they are material or not, they will apply during your free trial and that it is your responsibility to re-check them before your free trial ends and payment is taken. Notably, this preface will be removed within the next couple of months. For quick reference the link below will display a list of all changes to this document since it was first created:
-
-<a href="https://github.com/kee-org/www-kee-pm/commits/master/content/keevault/tos.md">https://github.com/kee-org/www-kee-pm/commits/master/content/keevault/tos.md</a>
-
 ## Introduction
 
 Thank you for using Kee Vault! We're happy you're here. Please read this Terms of Service agreement carefully before accessing or using Kee Vault. Because it is such an important contract between us and our users, we have tried to make it as clear as possible. For your convenience, we have presented a simple and short non-binding summary of each section followed by the full legally binding terms.
@@ -93,6 +87,7 @@ Your use of the Website and Service must not violate any applicable laws, includ
 #### 2. Conduct Restrictions
 
 While using Kee Vault, you agree that you will not under any circumstances:
+
 - harass, abuse, threaten, or incite violence towards any individual or group, including Kee Vault employees, officers, and agents, or other Kee Vault Users;
 - use our servers for any form of excessive automated bulk activity (for example, spamming), or relay any other form of unsolicited advertising or solicitation through our servers, such as get-rich-quick schemes;
 - attempt to disrupt or tamper with Kee Vault's servers in ways that could harm our Website or Service, to place undue burden on Kee Vault's servers through automated means, or to access Kee Vault's Service in ways that exceed your authorization;
