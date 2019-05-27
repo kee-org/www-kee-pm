@@ -106,8 +106,132 @@
     <!-- End Matomo Code -->
 
     {{ end }}
+
+    <!-- Kee Vault launch code -->
+    <!-- PROTECTED BY CSP. Update hashes in netlify.toml if making changes -->
+    <script>
+        (function() {
+
+            function currentTime () {
+                var now = Date.now() + 60000; // Actual end time has one minute leeway to avoid network delay disappointment
+                return now;
+            }
+
+            function startTimer (endTime) {
+                
+                var hoursEl = document.getElementById("kee-vault-launch-banner-hours");
+                var minutesEl = document.getElementById("kee-vault-launch-banner-minutes");
+                var secondsEl = document.getElementById("kee-vault-launch-banner-seconds");
+                                
+                function pad(value) {
+                    return ('0' + Math.floor(value)).slice(-2);
+                }
+
+                function showTime() {
+                    // requestAnimationFrame can be fired less than once a second (e.g. when in background)
+                    var remainingTime = Math.max(endTime - currentTime(), 0);
+                    var seconds = pad((remainingTime / 1000) % 60);
+                    var minutes = pad((remainingTime / (60 * 1000)) % 60);
+                    var hours = pad((remainingTime / (60 * 60 * 1000)) % 24);
+
+                    hoursEl.textContent = hours;
+                    minutesEl.textContent = minutes;
+                    secondsEl.textContent = seconds;
+
+                    if (remainingTime >= 1000) requestAnimationFrame(showTime);
+                }
+                
+                requestAnimationFrame(showTime);
+            }
+
+            function getLaunchConfig () {
+                var now = currentTime();
+                var PDT0335 = 1559039700000;
+                var PDT0700 = 1559052000000;
+                var PDT1000 = 1559062800000;
+                var PDT1300 = 1559073600000;
+                var PDT1600 = 1559084400000;
+                var PDT1900 = 1559095200000;
+                var PDT0000 = 1559113200000;
+                var end = 1559199600000;
+                if (now < PDT0335) return { discount: 0 };
+                if (now > end) return { discount: 0 };
+
+                var config = {};
+
+                if (now < PDT0700) config = { discount: 50, until: PDT0700 };
+                else if (now < PDT1000) config = { discount: 45, until: PDT1000 };
+                else if (now < PDT1300) config = { discount: 40, until: PDT1300 };
+                else if (now < PDT1600) config = { discount: 35, until: PDT1600 };
+                else if (now < PDT1900) config = { discount: 30, until: PDT1900 };
+                else if (now < PDT0000) config = { discount: 25, until: PDT0000 };
+                else config = { discount: 20, until: end };
+                return config;
+            }
+
+            var config = getLaunchConfig();
+            if (config.discount) {
+                document.addEventListener('DOMContentLoaded', function () {
+                    document.getElementById("kee-vault-launch-banner-discount").textContent = config.discount;
+                    document.getElementById("kee-vault-launch-banner").addEventListener("click", function (e) {
+                        e.stopPropagation();
+                        try {
+                            _paq.push(['trackEvent', 'LaunchBanner', 'Click', 'Banner', config.discount]);
+                        } catch (e) {
+                            // meh
+                        }
+                        setTimeout(function() {
+                            window.location = "https://www.producthunt.com/posts/kee-vault";
+                        }, 200)
+                    });
+                    document.getElementById("kvlb_cta").addEventListener("click", function (e) {
+                        e.stopPropagation();
+                        try {
+                            _paq.push(['trackEvent', 'LaunchBanner', 'Click', 'Button', config.discount]);
+                        } catch (e) {
+                            // meh
+                        }
+                        setTimeout(function() {
+                            window.location = "https://www.producthunt.com/posts/kee-vault";
+                        }, 200)
+                    });
+                });
+                var style = document.createElement("style");
+                style.appendChild(document.createTextNode(""));
+                document.head.appendChild(style);
+                style.sheet.insertRule("#kee-vault-launch-banner { display: flex !important; }");
+                if (config.discount == 20) {
+                    style.sheet.insertRule("#kvlb_time_container { display: none !important; }");
+                } else {
+                    document.addEventListener('DOMContentLoaded', function () {
+                        startTimer(config.until);
+                    });
+                }
+            }
+        })();
+    </script>
+    <!-- End Kee Vault launch code -->
+    
 </head>
 <body>
+    <div id="kee-vault-launch-banner" class="hide">
+        <div class="kvlb_discount"><span id="kee-vault-launch-banner-discount">--</span>% OFF!</div>
+        <div class="kvlb_text">Kee Vault is launching now! Check us out on Product Hunt for the exclusive discount.</div>
+        <div class="kvlb_cta" id="kvlb_cta">
+            <div class="kvlb_cta_img"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M462.3 62.6C407.5 15.9 326 24.3 275.7 76.2L256 96.5l-19.7-20.3C186.1 24.3 104.5 15.9 49.7 62.6c-62.8 53.6-66.1 149.8-9.9 207.9l193.5 199.8c12.5 12.9 32.8 12.9 45.3 0l193.5-199.8c56.3-58.1 53-154.3-9.8-207.9z"/></svg></div>
+            <div class="kvlb_cta_text">Claim Discount</div>
+        </div>
+        <div class="kvlb_time_container" id="kvlb_time_container">
+            <div class="kvlb_time_text">Discount valid for:</div>
+            <div class="kvlb_time">
+                <div class="kvlb_time_hours" id="kee-vault-launch-banner-hours">--</div>
+                <div class="kvlb_time_sep">:</div>
+                <div class="kvlb_time_minutes" id="kee-vault-launch-banner-minutes">--</div>
+                <div class="kvlb_time_sep">:</div>
+                <div class="kvlb_time_seconds" id="kee-vault-launch-banner-seconds">--</div>
+            </div>
+        </div>
+    </div>
 <div class="body-bg">
     <div class="header">
         <div class="header_logo_container">

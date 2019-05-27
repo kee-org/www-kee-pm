@@ -1,4 +1,4 @@
-<h1>Simple and secure password management</h1>
+<h1>Secure passwords, simply</h1>
 
 <p class="headline">Save time and hassle, sign in easily to the websites you use every day and never go through another password reset procedure.</p>
 
