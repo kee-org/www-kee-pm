@@ -21,7 +21,7 @@ Our easy-to-use Open Source password manager gives you peace of mind and saves y
 {{% highlight sticky-note %}}Store WiFi access codes, credit card details, secret notes and even small documents{{%/highlight%}}
 </div>
 
-Our Supporter monthly subscription is the easiest way to start securing your online world and costs only £2 per month after a free trial with no payment details required.
+Start securing your online world now! 14 day free trial with no payment details required.
 
 <div class="vault_button">
     <a class="btn btn-success btn-large" href="https://keevault.pm">Load the app now</a>
@@ -29,9 +29,9 @@ Our Supporter monthly subscription is the easiest way to start securing your onl
 
 ### Pricing and Benefits
 
-Early adopters will get a 2 month free trial before a card payment is required (normally 2 weeks). Plus, until the more expensive subscription plans are launched, all Supporters get access to all newly developed features of those plans.
+Our "Supporter Monthly" subscription is only £2 per month. Until the more expensive subscription plans are launched, all Supporters get access to all newly developed features of those plans.
 
-We don't offer refunds on partially used subscriptions but with the free (no credit card) trial and monthly subscription option we hope this seems reasonable to you.
+We don’t offer refunds on partially used subscriptions but with the free trial and very cheap monthly subscription option we hope this seems reasonable to you.
 
 <div class="show-full-pricing-details-container">
     <a class="" href="#" id="show-full-pricing-details">Show full Pricing and Benefits information</a>
@@ -72,10 +72,10 @@ We don't offer refunds on partially used subscriptions but with the free (no cre
     <tbody>
       <tr>
         <td></td>
-        <td colspan="3"><span class="price-was">14</span> 60 day free trial</td>
+        <td colspan="3">14 day free trial</td>
       </tr>
       <tr class="compare-row">
-        <td><div class="feature-title"><span class="price-was">14</span> 60 day free trial</div><div class="feature-description">No payment details required</div></td>
+        <td><div class="feature-title">14 day free trial</div><div class="feature-description">No payment details required</div></td>
         <td><span class="tickblue">✔</span></td>
         <td><span class="tickblue">✔</span></td>
         <td><span class="tickblue">✔</span></td>
@@ -324,7 +324,7 @@ If you subscribe to our upcoming Premium Kee Vault subscription you can even con
 
 ## Other applications
 
-<p>Modern web browsers aren't the only apps that can be enhanced by the Kee browser extension. You can find advice on how to use KeeFox (the older version of Kee) in Thunderbird and other older web browsers based on Mozilla Firefox in our <a href="https://forum.kee.pm">community forum</a>.</p>
+<p>Modern web browsers aren't the only apps that can be enhanced by the Kee browser extension. You can find advice on how to use KeeBird and KeeFox (an old version of Kee) in Thunderbird and other older web browsers based on Mozilla Firefox in our <a href="https://forum.kee.pm">community forum</a>.</p>
 
 <script>
     document.getElementById('show-full-pricing-details').addEventListener("click", function (e) {
