@@ -34,10 +34,9 @@ There is a legal requirement for every UK company to have a physical postal addr
 
 ```
 Kee Vault Ltd
-71-75 Shelton Street
-Covent Garden
+27 Old Gloucester Street
 London
-WC2H 9JQ
+WC1N 3AX
 UNITED KINGDOM
 ```
 
