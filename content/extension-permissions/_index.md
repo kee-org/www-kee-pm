@@ -70,6 +70,12 @@ Kee needs a variety of permissions to deliver it's functionality to you.
 <td>-</td>
 <td>Display temporary notifications about important events</td>
 </tr>
+<tr>
+<td>"idle"</td>
+<td>-</td>
+<td>-</td>
+<td>Defer automatic updates to a time when you aren't using your browser (8 hours maximum delay)</td>
+</tr>
 </tbody>
 </table>
 
@@ -135,6 +141,11 @@ As of 2019 it may be possible for some permissions to be requested during your u
 <td>"notifications"</td>
 <td>N</td>
 <td>Notifying a user to request the display of notifications using a permission that is otherwise never mentioned to them seems counter-intuitive, even confusing.</td>
+</tr>
+<tr>
+<td>"idle"</td>
+<td>N</td>
+<td>Interrupting a user to request their permission to delay interrupting them in future makes no sense.</td>
 </tr>
 </tbody>
 </table>
