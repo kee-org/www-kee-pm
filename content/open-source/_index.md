@@ -12,17 +12,20 @@ There are countless studies that prove this but many companies still hope that y
 
 ## Where's the source?
 
-### Client components:
+### Password manager components:
 
 * Kee Vault browser app: https://github.com/kee-org/keevault
-* Kee browser extension: https://github.com/kee-org/browser-addon
+* Kee desktop browser extension: https://github.com/kee-org/browser-addon
 * All components, libraries and tools: https://github.com/kee-org/
 
-### Server components:
+### Infrastructure components:
 
-Whilst we hope to eventually release all code Kee Vault Ltd creates, we have for the time being omitted the code that runs on machines that are not owned by you. There are two reasons which justify this decision:
+Our infrastructure includes storage of already encrypted files, authentication to the Kee Vault service (not the encrypted data!) and various ancillary features such as secure messaging and billing integration.
 
-1. You can never have a guarantee that the code we claim is running on servers that Kee Vault connects to is in fact the same as that which is actually running there. This applies to all services hosted on the internet, not just ours, and is why we ensure that you can see from the client code that executes on your machine that no unexpected data is transmitted and that all transmission is performed in a secure manner.
-2. The absence of the server code in a public location slightly increases the cost of the technical effort to clone the entire Kee Vault service. This allows us to continue focussing on improving the service rather than spending time and money pursuing legal enforcement, as well as reducing the dilution of funding that would occur if multiple near-identical services were to be launched in a short space of time.
+Whilst we hope to eventually release all code Kee Vault Ltd creates, we currently don't release code that runs on machines that are not owned by you. There are three reasons which justify this decision:
 
-This decision allows us to keep your subscription fees very low without detracting from the benefits you gain from the security-critical client components being open source.
+1. Your password security is only affected by the Password manager components listed above.
+2. You can never have a guarantee that the code we claim is running on servers that Kee Vault connects to is in fact the same as that which is actually running there. This applies to all services hosted on the internet, not just ours, and is why we ensure that you can see from the client code that executes on your machine that no unexpected data is transmitted and that all transmission is performed in a secure manner.
+3. The absence of the infrastructure code in a public location slightly increases the cost of the technical effort to clone the entire Kee Vault service. This allows us to continue focussing on improving the service rather than spending time and money pursuing legal enforcement, as well as reducing the dilution of funding that would occur if multiple near-identical services were to be launched in a short space of time.
+
+This decision allows us to keep your subscription fees very low without detracting from the benefits you gain from the security-critical password management components being open source.
