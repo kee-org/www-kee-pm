@@ -12,7 +12,7 @@ Thank you for using Kee Vault! We're happy you're here. Please read this Terms o
 | --- | --- |
 | [A. Definitions](#a-definitions) | Some basic terms, defined in a way that will help you understand this agreement. Refer back up to this section for clarification. |
 | [B. Account Terms](#b-account-terms) | These are the basic requirements of having an Account on Kee Vault.  |
-| [C. Acceptable Use](#c-acceptable-use)| These are the basic rules you must follow when using your Kee Vault Account. |
+| [C. Acceptable Use](#c-acceptable-use)| These are the basic rules you must follow when using Kee Vault. |
 | [D. Intellectual Property Notice](#d-intellectual-property-notice) | This describes Kee Vault's rights in the website and service. |
 | [E. Payment](#e-payment) | You are responsible for payment. We are responsible for billing you accurately. |
 | [F. Free Trial](#f-free-trial) | We may offer you a free trial. We won't trick you into accidental payments because we don't require a credit card or other payment details from you. |
@@ -30,21 +30,21 @@ Thank you for using Kee Vault! We're happy you're here. Please read this Terms o
 
 ## The Kee Vault Terms of Service
 
-Effective date: 31st January 2019
+Effective date: **28th March 2022**
 
 ### A. Definitions
-**Short version:** *We use these basic terms throughout the agreement, and they have specific meanings. You should know what we mean when we use each of the terms. There's not going to be a test on it, but it's still useful information.*
+**Short version:** *We use these basic terms throughout the agreement, and they have specific meanings. You should know what we mean when we use each of the terms.*
 
 1. The “Agreement” refers, collectively, to all the terms, conditions, notices contained or referenced in this document (the “Terms of Service” or the “Terms”) and all other operating rules, policies (including the Kee Vault Privacy Statement, available at https://www.kee.pm/keevault/privacy) and procedures that we may publish from time to time on the Website.
-2. The “Service” refers to the applications, software, products, and services provided by Kee Vault Ltd. The Service includes a password management app available at https://keevault.pm and the related systems and technologies, including without limitation, associated software applications on any device, data, APIs and other content we make available.
+2. The “Service” refers to the applications, software, products, and services provided by Kee Vault Ltd. The Service includes one or more password management apps available at https://keevault.pm, in smartphone app stores or on platforms we control such as our website, and the related systems and technologies, including without limitation, associated software applications on any device, data, APIs and other content we make available.
 3. The “Website” refers to all of Kee Vault Ltd’s websites, and all content, services, and products provided by Kee Vault at or through the Website. Some websites owned by Kee Vault may provide different or additional terms of service. If those additional terms conflict with this Agreement, the more specific terms apply to the relevant page or service. Where conflicts occur in cases where a subject can be considered both a Service and a Website (e.g. https://keevault.pm) terms relating to the “Service” take precedence over terms relating to the “Website”.
 4. The “User”, “You”, and “Your” refer to the individual person, company, or organization that has visited or is using the Website or Service; that accesses or uses any part of the Account; or that directs the use of the Account in the performance of its functions. A User must be at least 13 years of age.
 5. “Kee Vault” refers to Kee Vault Ltd except for usage where the “Kee Vault” brand is used as a reference to the name of the Service.
 6. “We”, “Our” and “Us” refer to Kee Vault Ltd.
 7. “Kee Vault Ltd” includes our affiliates, directors, subsidiaries, contractors, licensors, officers, agents, and employees.
 8. “Content” refers to content featured or displayed through the Website, including without limitation text, data, articles, images, photographs, graphics, software, applications, designs, features, and other materials that are available on the Website or otherwise available through the Service. “Content” also includes Services. “Paid Content” is Content only available to Users who are participating in a payment plan, including paid Subscriptions.
-9. An “Account” represents your legal relationship with Kee Vault. It represents your authorization to sign in to and use the Service, and serves as your identity on the Service.
-10. A “Subscription” is an automatically-renewing paid upgrade to an Account which, when Active, and subject to the terms in this Agreement, enables access to Paid Content and features that are otherwise unavailable to an Account with no Subscription.
+9. An “Account” is one possible representation of your legal relationship with Kee Vault. It represents your authorization to sign in to and use the Service, and serves as your identity on the Service.
+10. A “Subscription” is an automatically-renewing paid upgrade to an Account which, when Active, and subject to the terms in this Agreement, enables access to Paid Content and features that are otherwise unavailable to an Account with no Subscription or to a User that does not have an Account.
 11. “Activation” of your subscription will occur when you sign up to the Service or at the conclusion of any free trial we choose to offer to you.
 
 ### B. Account Terms
@@ -193,7 +193,7 @@ At any time and without notice, Kee Vault reserves the right to change the terms
 
 #### 1. Account Cancellation
 
-It is your responsibility to properly cancel your Account with Kee Vault. You can cancel your Subscription at any time by going into your [Account settings](https://account.kee.pm). The Subscription details screen provides a simple cancellation link. We are not able to cancel Accounts in response to an email or phone request.
+It is your responsibility to properly cancel your Account with Kee Vault. You can cancel your Subscription at any time by going into your [Account settings](https://account.kee.pm). The Subscription details screen provides a simple cancellation link. We are not able to cancel Accounts in response to an email, a message via any medium or a phone request.
 
 Upon receipt of your cancellation request we will mark your Subscription as “Pending Cancellation”. Your Subscription will then continue until the end of your current Billing Term when it will then become “Cancelled”. You can undo your cancellation request at any point during this “Pending Cancellation” period.
 
@@ -217,7 +217,12 @@ We will use our best endeavours to ensure any enforcement of this clause is reas
 
 #### 4. Account Reactivation
 
-You may choose to sign up to the Service at some future point. You will be entering into a new agreement at that time but, depending upon the reason for your earlier Account Cancellation, we would be more likely to enforce one or more of our rights relating to offering no free trial or prohibiting the creation of an account. For the avoidance of doubt, once your encrypted passwords have been deleted per these cancellation terms, signing up again in the future will not restore your access to that deleted information.
+You may choose to sign up to the Service at some future point. You will be entering into a new agreement at that time but, depending upon the reason for your earlier Account Cancellation, we would be more likely to enforce one or more of our rights relating to offering no free trial or prohibiting the creation of an account.
+
+For the avoidance of doubt:-
+
+* once your encrypted passwords have been deleted per these cancellation terms, signing up again in the future will not restore your access to that deleted information AND
+* if we have not yet deleted the encrypted passwords associated with your account, you will be responsible for paying all monies due to us as recompense for the costs we incurred while managing the storage of your data for the period since you failed to notify us of your intent to cancel your subscription.
 
 #### 5. Survival
 
