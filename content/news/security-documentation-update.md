@@ -10,6 +10,7 @@ tags:
   - mono
   - security
   - news
+markup: HTML
 ---
 <p>A small omission has been found in the KeeFox documentation which explains the different ways that you can protect the connection between Firefox and KeePass. It's not a serious problem but since this may have guided some people's choice of KeeFox configuration, I wanted to post a quick explanation of the situation.
 </p>

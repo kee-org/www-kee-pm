@@ -6,6 +6,7 @@ tags:
   - keefox
   - releases
   - news
+markup: HTML
 ---
 <p>I’m pleased to announce that KeeFox 1.4 has been released, including a new look that allows you to access all KeeFox features from a single toolbar button.
 </p>

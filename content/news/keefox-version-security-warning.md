@@ -6,6 +6,7 @@ tags:
   - news
   - release
   - security
+markup: HTML
 ---
 <p>All KeeFox users have just received a notification that their version of KeeFox is very old and requires upgrading.
 </p>

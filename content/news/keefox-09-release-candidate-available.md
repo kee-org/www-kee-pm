@@ -7,6 +7,7 @@ tags:
   - release
   - releases
   - news
+markup: HTML
 ---
 <p>You can now download version 0.9b from the development channel at <a href="https://addons.mozilla.org/en-US/firefox/addon/keefox/" title="Go to https://addons.mozilla.org/en-US/firefox/addon/keefox/" target="_blank" class="externlink">https://addons.mozilla.org/en-US/firefox/addon/keefox/</a>
 </p>

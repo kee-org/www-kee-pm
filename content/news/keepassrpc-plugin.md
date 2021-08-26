@@ -3,6 +3,7 @@ title: KeePassRPC plugin
 date: '2010-03-24T00:00:00+00:00'
 tags:
   - KeePassRPC
+markup: HTML
 ---
 <p>KeePassRPC  provides a remote access interface for KeePass Password Safe 2. There  is currently no official release but you can view the source code in the  <a href="http://keefox.svn.sourceforge.net/viewvc/keefox/trunk/KeePassRPC/" title="Go to http://keefox.svn.sourceforge.net/viewvc/keefox/trunk/KeePassRPC/" target="_blank" class="externlink">KeeFox repository</a>. The most interesting files are: </p><ul><li>DataExchangeModel.cs 	</li><li>KeePassRPCService.cs 	</li><li> KeePassRPCServer.cs </li></ul><p>I’ll publish an more in depth introduction to those files soon.
 </p>

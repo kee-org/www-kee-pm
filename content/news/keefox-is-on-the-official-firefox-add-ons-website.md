@@ -4,6 +4,7 @@ date: '2011-06-03T00:00:00+00:00'
 tags:
   - keefox
   - news
+markup: HTML
 ---
 <p>I’m  pleased to announce that KeeFox has recently been accepted into the  official Firefox add-ons directory and can now be found at <a href="https://addons.mozilla.org/en-US/firefox/addon/keefox/" title="Go to https://addons.mozilla.org/en-US/firefox/addon/keefox/" target="_blank" class="externlink">https://addons.mozilla.org/en-US/firefox/addon/keefox/</a>
 </p>

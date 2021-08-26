@@ -1,5 +1,6 @@
 ---
 title: Privacy policy for Kee browser extension
+markup: HTML
 ---
 
 <p>The Kee browser extension has access to your extremely sensitive and personal data.</p>

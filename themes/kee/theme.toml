@@ -8,7 +8,7 @@ description = "Theme for website for Kee Vault Ltd"
 homepage = "https://www.kee.pm/"
 tags = []
 features = []
-min_version = "0.25.1"
+min_version = "0.68.3"
 
 [author]
   name = "Kee Vault Ltd"

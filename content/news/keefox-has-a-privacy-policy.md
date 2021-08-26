@@ -5,6 +5,7 @@ tags:
   - keefox
   - news
   - stats
+markup: HTML
 ---
 <p>In  anticipation of some changes to Firefox that are coming in 2014 and as  part of a wider effort to improve the KeeFox add-on, KeeFox 1.3 will  collect anonymous system statistics and optional anonymous usage  statistics about the way that users interact with the add-on.
 </p>

@@ -4,6 +4,7 @@ date: '2012-06-09T00:00:00+00:00'
 tags:
   - keefox
   - news
+markup: HTML
 ---
 <p>Over 150 KeeFox users have already written a review of KeeFox and I’m sure some of you are in that group. I’m very grateful for the encouragement and kind comments that often accompany the the reviews.
 </p>

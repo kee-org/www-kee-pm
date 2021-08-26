@@ -6,6 +6,7 @@ tags:
   - news
   - release
   - releases
+markup: HTML
 ---
 <p>I’ve  just been made aware of a potential privacy concern which has been  fixed in the latest version of KeeFox. Until you receive the updated  version, please note that some of your passwords may be temporarily  displayed in a console that is used for debugging. This “error console”  is usually hidden from view and its contents are not retained but in  certain circumstances this could be a problem so I’ve tried to fix it as  quickly as possible.
 </p>

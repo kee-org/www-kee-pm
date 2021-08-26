@@ -3,6 +3,7 @@ title: "Test versions now available"
 date: '2010-11-01T00:00:00+01:00'
 draft: false
 tags: ["keefox", "news"]
+markup: HTML
 ---
 
 <p>The download  page now contains a link to the very latest add-on XPI. As I warn on  the page itself, this will often be untested and may not be as stable as  the latest official version. At time of writing, the latest official  version is still 0.7 (beta) but 0.71 is available for download if you’re  brave enough.

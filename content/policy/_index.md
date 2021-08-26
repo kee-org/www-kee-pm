@@ -1,5 +1,6 @@
 ---
 title: Privacy and cookie policy
+markup: HTML
 ---
 
 <p><strong>This policy applies only to the website<a href="#c185" title="Opens internal link in current window" class="internal-link">*</a>, NOT Kee itself.</strong><br> 

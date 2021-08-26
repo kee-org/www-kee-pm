@@ -6,6 +6,7 @@ tags:
   - release
   - releases
   - news
+markup: HTML
 ---
 <p>A new version of KeeFox has just been approved on the official Firefox add-ons site.
 </p>

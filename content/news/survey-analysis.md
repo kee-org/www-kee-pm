@@ -6,6 +6,7 @@ tags:
   - KeePass
   - news
   - stats
+markup: HTML
 ---
 <p>Thanks  to the hundreds of people that offered opinions, suggestions, criticism  and praise in the survey that I sent out last year.
 </p>

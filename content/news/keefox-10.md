@@ -6,6 +6,7 @@ tags:
   - news
   - release
   - releases
+markup: HTML
 ---
 <p>Version 1.0 of KeeFox has been released!
 </p>

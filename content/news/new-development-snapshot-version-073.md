@@ -4,6 +4,7 @@ date: '2010-01-29T00:00:00+01:00'
 tags:
   - keefox
   - news
+markup: HTML
 ---
 <p>Version  0.7.3 is ready for testing by anyone feeling brave enough. Grab it from  the “very latest” link towards the bottom of the download page.
 </p>

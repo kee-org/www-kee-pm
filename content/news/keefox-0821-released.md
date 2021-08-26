@@ -6,6 +6,7 @@ tags:
   - release
   - releases
   - news
+markup: HTML
 ---
 <p>You can now download version 0.8.21 from <a href="https://addons.mozilla.org/en-US/firefox/addon/keefox/" title="Go to https://addons.mozilla.org/en-US/firefox/addon/keefox/" target="_blank" class="externlink">https://addons.mozilla.org/en-US/firefox/addon/keefox/</a>
 </p>

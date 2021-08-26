@@ -8,6 +8,7 @@ tags:
   - release
   - releases
   - snapshot
+markup: HTML
 ---
 <p>This new version is a release candidate candidate. Please help to test it so that I do not have to say that too many times!
 </p>

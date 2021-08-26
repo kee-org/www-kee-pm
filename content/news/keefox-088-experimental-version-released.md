@@ -8,6 +8,7 @@ tags:
   - release
   - releases
   - snapshot
+markup: HTML
 ---
 <p>Here’s another experimental version for your enjoyment.
 </p>

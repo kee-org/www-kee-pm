@@ -8,6 +8,7 @@ tags:
   - release
   - releases
   - snapshot
+markup: HTML
 ---
 <p>The latest experimental build is now available from the experimental download page.  As usual, this has been only briefly tested so expect the occasional  bug. This time around there are quite a few new features including the  following highlights.
 </p>

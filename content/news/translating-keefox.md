@@ -3,6 +3,7 @@ title: Translating KeeFox
 date: '2011-08-18T00:00:00+00:00'
 tags:
   - news
+markup: HTML
 ---
 <p>KeeFox  is now ready for an international audience with translations into  non-English languages. Incomplete Swedish and Russian translations are  available in version 0.9 but complete versions have already been  submitted ready for the version 0.9.1 release, along with Chinese  (Simplified).
 </p>

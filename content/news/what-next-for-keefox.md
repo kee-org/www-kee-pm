@@ -5,6 +5,7 @@ tags:
   - keefox
   - KeePass
   - news
+markup: HTML
 ---
 <p><strong>UPDATE: I’m currently analysing the results of the survey so please post any further suggestions or thoughts on the <a href="help/forum" title="Go to http://keefox.org/help/forum" class="externlink">help forum</a>. I’ll post any interesting results in a new article soon.</strong>
 </p>

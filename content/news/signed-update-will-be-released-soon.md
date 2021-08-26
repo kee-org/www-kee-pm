@@ -5,6 +5,7 @@ tags:
   - keefox
   - news
   - releases
+markup: HTML
 ---
 <p>To help protect Firefox users from malicious  add-ons, Mozilla will soon require that all add-ons are "signed" (this  mathematically proves that Mozilla has verified that the add-on is safe).<br><br></p>
 <p>As  part of this process, you will see a new KeeFox update released soon  (due on 28th May). I'm not sure whether this will be given a new version  number or if it will just be a refreshed version of 1.4.7.<br><br></p>
