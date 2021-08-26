@@ -6,6 +6,7 @@ tags:
   - release
   - releases
   - news
+markup: HTML
 ---
 <p><strong>Version 0.9.4 has been added to the Mozilla add-ons site so you should receive an automatic update in due course.</strong>
 </p>

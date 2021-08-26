@@ -6,6 +6,7 @@ tags:
   - keefox
   - news
   - help
+markup: HTML
 ---
 <p>Fun fact: English reading KeeFox users are outnumbered by people that prefer to read other languages.
 </p>

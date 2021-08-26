@@ -9,6 +9,7 @@ tags:
   - KeePass
   - KeePassRPC
   - News
+markup: HTML
 ---
 <p>Thanks to everyone that notified me of the problems with the recently released version of KeePass.
 </p>

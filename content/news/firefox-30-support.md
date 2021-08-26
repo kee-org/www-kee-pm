@@ -4,6 +4,7 @@ date: '2010-04-01T00:00:00+00:00'
 tags:
   - keefox
   - news
+markup: HTML
 ---
 <p>Firefox 3.0 will <a href="https://developer.mozilla.org/devnews/index.php/2010/03/30/firefox-3-5-9-and-3-0-19-security-updates-now-available/" title="Go to https://developer.mozilla.org/devnews/index.php/2010/03/30/firefox-3-5-9-and-3-0-19-security-updates-now-available/" target="_blank" class="externlink">not be officially supported by Mozilla for much longer</a>  and some planned KeeFox features will be easier to implement if I  concentrate on version 3.5+ only. For these reasons, KeeFox version 0.8  will require Firefox 3.5+.
 </p>

@@ -11,6 +11,7 @@ tags:
   - news
   - release
   - releases
+markup: HTML
 ---
 <p>Version  0.9.5 has just been submitted to Mozilla for review so will hopefully  be winging its way to you through the usual update channel within a  week.
 </p>

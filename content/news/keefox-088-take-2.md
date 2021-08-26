@@ -8,6 +8,7 @@ tags:
   - release
   - releases
   - snapshot
+markup: HTML
 ---
 <p>Version 0.8.8 is now re-released on the <a href="download/experimental-version" title="Go to http://keefox.org/download/experimental-version" class="externlink">experimental download</a> page.
 </p>

@@ -6,6 +6,7 @@ Kee needs a variety of permissions to deliver it's functionality to you.
 
 ## The permissions
 
+{{< rawhtml >}}
 <table border="1">
 <thead>
 <tr>
@@ -83,11 +84,13 @@ Kee needs a variety of permissions to deliver it's functionality to you.
 <br/>
 Please note that the technical names are the real permissions that are made available to Kee. Web browsers frequently change the name and description of these permissions (as well as displaying them in languages other than English). Some displayed permissions may cover more than one technical permission and this mapping of displayed permission to real (technical) permission may be changed by browsers at any time, potentially creating an illusion that Kee has added/removed required permissions when this is not the case. In some cases, one browser will display a permission message while another determines that the permission does not need to be explicitly presented to you. Again, this may change in each browser version and we can't promise to keep this page up to date with every change that the various browser creators make.
 </p>
+{{< /rawhtml >}}
 
 ## Optional vs Required
 
 As of 2019 it may be possible for some permissions to be requested during your use of Kee, rather than at the initial installation time. All new permissions we add will be made optional if it is technically feasible to do so. We have also considered the feasibility of making existing required permissions optional and found that it is not possible although in a couple of cases some future changes to Kee features may allow this to be reconsidered.
 
+{{< rawhtml >}}
 <table border="1">
 <thead>
 <tr>
@@ -149,6 +152,7 @@ As of 2019 it may be possible for some permissions to be requested during your u
 </tr>
 </tbody>
 </table>
+{{< /rawhtml >}}
 
 ## Further reading
 

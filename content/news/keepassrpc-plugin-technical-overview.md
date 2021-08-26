@@ -8,6 +8,7 @@ tags:
   - API
   - KeePassRPC
   - news
+markup: HTML
 ---
 <p>As announced earlier this year, <a href="2010/keepassrpc-plugin" title="Go to http://keefox.org/2010/keepassrpc-plugin" class="externlink">KeePassRPC </a>is  a remote access interface plugin for KeePass Password Safe 2. This post  is aimed at application developers; it outlines how you could use the  plugin to enhance your user’s KeePass experience and references the  latest version of the source code (0.8.5). There is currently no  official release but you can see version 0.8.4 in use with KeeFox 0.8.4  and view the source code for 0.8.5 in the KeeFox SVN repository.
 </p>

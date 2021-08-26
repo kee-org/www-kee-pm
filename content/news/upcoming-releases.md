@@ -16,6 +16,7 @@ tags:
   - releases
   - security
   - snapshot
+markup: HTML
 ---
 <p><h3>KeeFox 1.2.5b1 released</h3></p>
 <p>Version 1.2.5 is nearly ready to be released so beta testers will soon be upgraded to this <a href="https://addons.mozilla.org/en-US/firefox/addon/keefox/versions/1.2.5b1" title="Go to https://addons.mozilla.org/en-US/firefox/addon/keefox/versions/1.2.5b1" target="_blank" class="externlink">new version</a> with a few small but important bug fixes:</p><ul><li>A fix for Thunderbird 25</li><li>A couple of bug fixes that caused some passwords to not save to KeePass</li><li>Danish, French, Korean, Portuguese and Russian languages created / updated (some not complete yet)</li><li>Fix for intermittent failed KeePass shutdown on Mono (Mac/Linux)</li><li>Some other small changes</li></ul><h3>Big changes in KeeFox 1.3 and 1.4</h3>

@@ -6,6 +6,7 @@ tags:
   - news
   - release
   - releases
+markup: HTML
 ---
 <p>This  version includes several new features but the main benefit is a  stability improvement - some users have reported that earlier versions  of KeeFox can cause to Firefox to crash so after identifying a likely  fix for the issue I wanted to push this new beta onto the main download  page, despite there being a few rough edges. I think it works well  enough to be a worthwhile upgrade until I have more time to work on  features like Firefox 4 support.
 </p>

@@ -66,4 +66,6 @@ The Kee Vault name and logo are trademarks of Kee Vault Ltd. You can read about 
 
 #### Icons
 
+{{< rawhtml >}}
 <div>The <i>relaxation</i> icon on this website is based on an icon by <a href="https://www.flaticon.com/authors/freepik">Freepik</a> and licensed with <a href="http://creativecommons.org/licenses/by/3.0/" target="_blank">CC 3.0 BY</a>. Other icons are from FontAwesome v5 and otherwise all content is "all rights reserved" unless explicitly licensed to the contrary.</div>
+{{< /rawhtml >}}

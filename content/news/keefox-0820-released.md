@@ -6,6 +6,7 @@ tags:
   - news
   - release
   - releases
+markup: HTML
 ---
 <p>Version 0.8.20 has just been released - download it now.
 </p>

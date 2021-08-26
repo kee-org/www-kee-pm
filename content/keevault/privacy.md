@@ -202,7 +202,7 @@ We will also update our website repository, which tracks all [changes to this po
 
 ### Your GDPR rights
 
-Kee Vault respects privacy rights under Regulation (EU) 2016 / 679 (GDPR). Information that GDPR requires us to give can be found throughout this privacy statement. So can information about specific rights, like <a href="#how-you-can-access-and-control-the-information-we-collect">access, rectification, erasure</a> and <a href="#data-portability">data portability</a>.
+Kee Vault respects privacy rights under Regulation (EU) 2016 / 679 (GDPR). Information that GDPR requires us to give can be found throughout this privacy statement. So can information about specific rights, like [access, rectification, erasure](#how-you-can-access-and-control-the-information-we-collect) and [data portability](#data-portability).
 
 ### Contacting Kee Vault
 

@@ -6,6 +6,7 @@ tags:
   - KeeICE
   - KeePassRPC
   - news
+markup: HTML
 ---
 <p>Who  doesn’t prefer the simple option? Software developers are no different  and security software is generally better the simpler it is so a  sensible rule-of-thumb is to always KISS whenever possible, that’s Keep  It Simple, Stupid! Therefore, I am pleased that in the past few weeks  I’ve been able to simplify the most crucial aspect of the way KeeFox  communicates with KeePass.
 </p>

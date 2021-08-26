@@ -8,7 +8,7 @@ Open source software is well known to be more secure than closed source (proprie
 
 There are countless studies that prove this but many companies still hope that you don't know about them. For a recent example, in 2018, critical flaws in the security of many widely used Samsung, Crucial and other disk drives were exposed, with the security researchers [proving](https://techcrunch.com/2018/11/05/crucial-samsung-solid-state-drives-busted-encryption/) that proprietary and closed-source cryptography is “often shown to be much weaker in practice” than open source cryptography.
 
-<p>The core principle actually dates back over 125 years and boils down to “security through obscurity is no security at all”, i.e. if your security relies on keeping the inner workings of your application secret it is likely that your security is already broken. You can <a href="https://en.wikipedia.org/wiki/Kerckhoffs%27_principle">read more on this topic</a> in the fountain of all knowledge (and its associated scientific paper references).</p>
+The core principle actually dates back over 125 years and boils down to “security through obscurity is no security at all”, i.e. if your security relies on keeping the inner workings of your application secret it is likely that your security is already broken. You can [read more on this topic](https://en.wikipedia.org/wiki/Kerckhoffs%27_principle) in the fountain of all knowledge (and its associated scientific paper references).
 
 ## Where's the source?
 

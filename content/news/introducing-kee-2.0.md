@@ -8,6 +8,7 @@ tags:
   - news
   - kee
   - KeePassRPC
+markup: HTML
 ---
 <p>KeeFox version 2.0 is nearly here and with it comes a change of name which reflects the broader support for multiple web browsers such as Google Chrome.</p>
 

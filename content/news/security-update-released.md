@@ -9,6 +9,7 @@ tags:
   - release
   - releases
   - security
+markup: HTML
 ---
 <div><div>
 <p>All KeeFox users should update to version <a href="https://addons.mozilla.org/en-GB/firefox/addon/keefox/versions/1.6.4" title="Opens external link in new window" target="_blank" class="external-link-new-window">1.6.4 <span class="glyphicon glyphicon-globe"></span></a> (or <a href="https://addons.mozilla.org/en-GB/firefox/addon/keefox/versions/1.6.4b1" title="Opens external link in new window" target="_blank" class="external-link-new-window">1.6.4b1 <span class="glyphicon glyphicon-globe"></span></a> if you are a beta tester). For most users, Firefox will do this for you automatically.

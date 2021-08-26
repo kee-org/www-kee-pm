@@ -5,6 +5,7 @@ tags:
   - development
   - keefox
   - news
+markup: HTML
 ---
 <div><div><div><div><div><div><div><div><div><div><p>I'm planning to continue working on KeeFox for the foreseeable future but a lot has changed since I started working on it in 2008 and particularly in the past few months so I am going to outline where I currently see KeeFox development heading in the next few years.
 </p>

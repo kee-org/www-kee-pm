@@ -6,6 +6,7 @@ tags:
   - development
   - news
   - snapshot
+markup: HTML
 ---
 <p>A  new experimental development snapshot has recently been uploaded. If we  can’t find too many serious problems compared to version 0.7 then this  should become version 0.8 in a week or two.
 </p>

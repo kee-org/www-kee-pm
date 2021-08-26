@@ -6,6 +6,7 @@ tags:
   - keefox
   - news
   - snapshot
+markup: HTML
 ---
 <p>It’s a lot of work for both developers and translators to ensure that an add-on is correctly translated into multiple languages but it’s a vital task for any add-on or software that will be used outside of the developer’s home country.
 </p>

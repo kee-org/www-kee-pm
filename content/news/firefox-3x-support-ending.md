@@ -4,6 +4,7 @@ date: '2012-07-01T00:00:00+00:00'
 tags:
   - keefox
   - news
+markup: HTML
 ---
 <p>While  I want KeeFox to support as many Firefox versions as possible, there  does come a point where the security risks and development limitations  mean it is not practical to continue supporting older versions of  Firefox.
 </p>

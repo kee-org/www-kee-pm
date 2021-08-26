@@ -9,6 +9,7 @@ tags:
   - releases
   - release
   - tutorial
+markup: HTML
 ---
 <p>KeeFox 1.5 is undergoing final testing and will be released soon.
 </p>

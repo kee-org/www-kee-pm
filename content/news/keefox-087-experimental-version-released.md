@@ -8,6 +8,7 @@ tags:
   - release
   - releases
   - snapshot
+markup: HTML
 ---
 <p>A new experimental version, 0.8.7, has just been uploaded to<a href="download/experimental-version" title="Go to http://keefox.org/download/experimental-version" class="externlink"> http://keefox.org/download/experimental-version</a>
 </p>

@@ -292,9 +292,9 @@ We reserve the right at any time and from time to time to modify or discontinue,
 
 **Short version:** *If we and you ever disagree about the meaning of these terms and want to take formal action to resolve the disagreement, we both must first enter into an informal negotiation for at least 30 days; You must raise any Dispute within one year; You can not participate in class-action lawsuits against us.*
 
-#### 1. Informal Negotiotions
+#### 1. Informal Negotiations
 
-To expedite resolution and reduce the cost of any dispute, controversy or claim related to this Agreement (“Dispute”), you and we agree to first attempt to negotiate any Dispute (except those Disputes expressly excluded below) informally for at least thirty (30) days before initiating any court proceeding. Such informal negotiations will commence upon written notice referencing this clause. Your address for such notice is the email address associated with your Account. Our address for such notice is legal@kee.pm
+To expedite resolution and reduce the cost of any dispute, controversy or claim related to this Agreement (“Dispute”), you and we agree to first attempt to negotiate any Dispute (except those Disputes expressly excluded below) informally for at least thirty (30) days before initiating any court proceeding. Such informal negotiations will commence upon written notice referencing this clause. Your address for such notice is the email address associated with your Account. Our address for such notice is legal@&#65279;kee.pm
 
 #### 2. Exceptions to Informal Negotiations
 

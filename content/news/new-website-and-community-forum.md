@@ -7,6 +7,7 @@ tags:
   - keefox
   - news
   - kee
+markup: HTML
 ---
 <p>To complement version 2.0 of Kee (previously known as KeeFox) I'm pleased to announce that we have a new community discussion forum and a new website.</p>
 

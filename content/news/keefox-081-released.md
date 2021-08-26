@@ -6,6 +6,7 @@ tags:
   - news
   - release
   - releases
+markup: HTML
 ---
 <p>Hot  on the heels of version 0.8, I’m pleased to say I found a quick fix for  the problems causing Firefox to fail to shutdown under certain  circumstances and have released version 0.8.1 straight to the main  download page so please upgrade to the version now available on http://keefox.org/download
 </p>

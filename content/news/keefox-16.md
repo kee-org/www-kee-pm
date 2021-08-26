@@ -9,6 +9,7 @@ tags:
   - news
   - release
   - releases
+markup: HTML
 ---
 <div><div><p>In about a month we'll ask Mozilla to publish KeeFox 1.6 to all users.</p></div><p>It's a small release compared to KeeFox 1.5 but it will contain a few improvements and new options that some users will find very useful.</p></div><p>It will also be a release which breaks compatibility with some very old and insecure technologies so that we can continue to support new technologies and reduce the risk of KeeFox bugs.
 </p>

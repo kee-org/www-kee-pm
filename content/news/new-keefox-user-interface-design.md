@@ -5,6 +5,7 @@ tags:
   - development
   - keefox
   - news
+markup: HTML
 ---
 <p>With KeeFox 1.3 now released* and Firefox’s long-delayed redesign only a couple of months away, I’m currently working on a new way for you to interact with KeeFox.
 </p>

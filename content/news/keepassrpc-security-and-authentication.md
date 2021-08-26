@@ -8,6 +8,7 @@ tags:
   - KeePassRPC
   - news
   - security
+markup: HTML
 ---
 <p>Another  technical post here which explains why KeePassRPC is secure and how an  application developer needs to handle authentication with the plugin to  protect its users.
 </p>

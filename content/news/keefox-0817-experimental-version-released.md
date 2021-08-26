@@ -8,6 +8,7 @@ tags:
   - release
   - releases
   - snapshot
+markup: HTML
 ---
 <p>Another release candidate candidate is <a href="download/experimental-version" title="Go to http://keefox.org/download/experimental-version" class="externlink">available for download</a>.
 </p>

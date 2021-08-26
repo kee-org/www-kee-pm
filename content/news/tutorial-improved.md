@@ -6,6 +6,7 @@ tags:
   - keefox
   - news
   - tutorial
+markup: HTML
 ---
 <p>A  revamped tutorial has just been switched on. The fundamental  principles highlighted in the tutorial have not been significantly  changed but the process should now be more streamlined. Additionally,  new users are now encouraged to complete at least the first three steps   of the tutorial (instead of four).
 </p>

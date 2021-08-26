@@ -17,7 +17,7 @@ Top Level Domains (i.e. the domains that we purchase from international internet
 
 ## Active hostnames:
 
-* www._kee.pm_ - main Kee Vault Ltd website
+* www&#65279;._kee.pm_ - main Kee Vault Ltd website
 * _keevault.pm_ - main Kee Vault app
 * forum._kee.pm_ - community forum
 * account._kee.pm_ - Kee Vault account management website
@@ -32,7 +32,7 @@ Top Level Domains (i.e. the domains that we purchase from international internet
 
 ## Defensive hostnames:
 
-* www._keefox.org_ and _keefox.org_ - the old domain names for the KeeFox extension before it was renamed to Kee in 2017
+* www&#65279;._keefox.org_ and _keefox.org_ - the old domain names for the KeeFox extension before it was renamed to Kee in 2017
 * _keyvault.pm_ - typo protection
 * key._vault.pm_ - typo protection
 * kee._vault.pm_ - typo protection
@@ -53,4 +53,4 @@ Top Level Domains (i.e. the domains that we purchase from international internet
 * _keyfox.org_ - a defensive purchase to help protect users of the old KeeFox browser extension from typos.
 * _keefox.com_ - a defensive purchase to help protect users of the old KeeFox browser extension from typos.
 
-    NB: Some of these may still technically be owned by us but they are marked for deletion when their current registration term ends and will never be used by us.
+NB: Some of these may still technically be owned by us but they are marked for deletion when their current registration term ends and will never be used by us.

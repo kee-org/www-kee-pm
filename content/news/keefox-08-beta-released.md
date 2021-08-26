@@ -6,6 +6,7 @@ tags:
   - news
   - release
   - releases
+markup: HTML
 ---
 <p>KeeFox 0.8 has been released!
 </p>

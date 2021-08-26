@@ -6,6 +6,7 @@ tags:
   - keefox
   - news
   - security
+markup: HTML
 ---
 <div><div><div><div><div><div><p>Version 1.5 of KeeFox is not far away. Along with a lot of new features and improvements which will be announced soon, there is a very large hidden change which is necessary because of a large change to an upcoming Firefox version.
 </p>
