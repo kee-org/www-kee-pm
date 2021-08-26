@@ -2,9 +2,11 @@
 title: Kee Vault Privacy Statement
 ---
 
-Effective date: **31st Jan 2019**
+Effective date: **28th March 2022**
 
 Thanks for entrusting Kee Vault with your personal information. Holding onto your private information is a serious responsibility, and we want you to know how we're handling it.
+
+If you chose to not register an Account with us and instead use the free version of Kee Vault ("version 2"), you might not need to provide us with any personal data. That obviously makes some clauses below redundant, although you may wish to review the entire document anyway if you think that you might sign up for an Account one day in the future.
 
 ## The short version
 
@@ -22,7 +24,7 @@ We will share your email address only with 3rd parties that are essential to the
 
 Potentially personally identifiable information is only kept for as long as is needed for us to deliver the service to you and meet our legal obligations. For example, the server logs IP addresses as part of protecting your account from unauthorised access attempts.
 
-To improve Kee Vault for you, we record anonymous usage data across keevault.pm and associated websites. This never includes personally identifiable information (or passwords!) and is never shared.
+To improve Kee Vault for you, we record anonymous usage data across keevault.pm, associated websites and applications. This never includes personally identifiable information (or passwords!) and is never shared.
 
 To protect against malicious attempts to deanonymise information and to enhance your security, your device may participate in a private communication network that includes other Kee Vault or Kee browser addon users. Any information sent using this network will be kept secret and have a negligible impact on your device performance and data costs.
 
@@ -38,11 +40,11 @@ User Personal Information does not include aggregated, non-personally identifyin
 
 ### What information Kee Vault collects and why
 
-#### Information from website browsers
+#### Information from website browsers and applications
 
-If you're **just browsing the website**, we collect the same basic information that most websites collect. We may use common internet technologies, such as cookies and web server logs. This is stuff we collect from everybody, whether they have an account or not.
+If you're **just browsing the website or using an app we offer**, we collect the same basic information that most websites and apps collect. We may use common technologies, such as cookies and web server logs. This is stuff we collect from everybody, whether they have an account or not.
 
-The information we collect about all visitors to our website includes the visitor’s browser type, language preference, referring site and the date and time of each visitor request. We also collect potentially personally-identifying information like Internet Protocol (IP) addresses.
+The information we collect about all visitors/users include your browser type or device model, language preference, referring site, pages visited/features used and the date and time of each visitor request. We also collect potentially personally-identifying information like Internet Protocol (IP) addresses.
 
 ##### Why we collect this information
 
@@ -110,7 +112,7 @@ Generally, Kee Vault will retain User Personal Information for as long as your a
 
 We may retain certain User Personal Information indefinitely, unless you delete it or request its deletion. For example, we don’t automatically delete inactive user accounts, so unless you choose to delete your account, we will retain your account information indefinitely.
 
-You can cancel your Subscription at any time by going into your [Account settings](https://account.kee.pm). The Subscription details screen provides a simple cancellation link. We are not able to cancel Accounts in response to an email or phone request.
+You can cancel your Subscription at any time by going into your [Account settings](https://account.kee.pm). The Subscription details screen provides a simple cancellation link. We are not able to cancel Accounts in response to an email, a message via any medium or a phone request.
 
 Upon receipt of your cancellation request we will mark your Subscription as "Pending Cancellation". Your Subscription will then continue until the end of your current Billing Term when it will then become "Cancelled". You can undo your cancellation request at any point during this "Pending Cancellation" period.
 
@@ -119,6 +121,8 @@ We will retain and use your information as necessary to comply with our legal ob
 ### Our use of cookies and tracking
 
 #### Cookies
+
+! This "Cookies" section is not relevant to the Kee Vault version 2 native app(s) such as the Android app
 
 Kee Vault avoids the use of cookies wherever possible.
 
@@ -132,7 +136,7 @@ By using our website, you agree that we can place these types of cookies on your
 
 We use an analytics system to help us evaluate our users' use of Kee Vault; compile statistical reports on activity; and improve our content and website performance.
 
-A unique random identifier will be created for your account and used on each of your devices to ensure that the anonymous data from your account is correctly associated together. Kee Vault does not store or otherwise have any access to the data that would be required to use this identifier to identify you or any of your personal information, so even security breaches of multiple Kee Vault services will have no effect on your privacy.
+A unique random identifier will be created for your account and may be used on each of your devices to ensure that the anonymous data from your account is correctly associated together. Kee Vault does not store or otherwise have any access to the data that would be required to use this identifier to identify you or any of your personal information, so even security breaches of multiple Kee Vault services will have no effect on your privacy.
 
 None of this anonymous data is ever shared, although we may share information relating to aggregations of many anonymous identifiers.
 
@@ -140,7 +144,7 @@ Unlike nearly all websites, this is a private analytics system (we do not share 
 
 We do not permit third parties other than our service providers to track Kee Vault users' activity over time. We do not track your online browsing activity on other online services over time. We therefore have no need to, and do not, respond to your browser's Do Not Track signal.
 
-**Note that if you have accessed other websites on the kee.pm domain before mid-March 2019, you may have inactive Google Analytics cookies on your system which are safe to ignore or remove as you prefer.**
+Side note: Independently from this policy, you should investigate how your chosen device's operating system and app store track you - some may perform additional tracking and share some of this data with us. We won't ask for it and will ignore it if forced upon us.
 
 ### How Kee Vault secures your information
 
@@ -171,7 +175,7 @@ The precise technical details of the form and purpose of these messages may vary
 
 We work hard to comply with the applicable data privacy laws wherever we do business and strive to go beyond the minimum standards required by even the strictest international policies.
 
-Kee Vault's primary storage and processing location is the United Kingdom, currently a part of the European Union. In future, we may store and process data elsewhere in the EU. We may also store, but not process, encrypted data in the United States. In all cases, this storage and processing adheres to the EU GDPR requirements.
+Kee Vault's primary storage and processing location is the United Kingdom. In future, we may store and process data elsewhere in the EU. We may also store, but not process, encrypted data in the United States. In all cases, this storage and processing adheres to the EU GDPR requirements or the UK equivalent.
 
 ### How we respond to compelled disclosure
 Kee Vault may disclose personally-identifying information or other information we collect about you to law enforcement in response to a valid subpoena, court order, warrant, or similar government order, or when we believe in good faith that disclosure is reasonably necessary to protect our property or rights, or those of third parties or the public at large.
@@ -192,7 +196,7 @@ Our emails might contain a pixel tag, which is a small, clear image that can tel
 
 In the unlikely event that a dispute arises between you and Kee Vault regarding our handling of your User Personal Information, we will do our best to resolve it - please [contact us](https://www.kee.pm/contact/).
 
-Additionally, if you are a resident of an EU member state, you have the right to file a complaint with your local supervisory authority (at least while the UK is a member of the EU).
+Additionally, if you are a resident of an EU member state, you may have the right to file a complaint with your local supervisory authority.
 
 ### Changes to our Privacy Statement
 
