@@ -12,7 +12,7 @@ markup: HTML
       <tr>
         <th class="tl"></th>
         <th class="compare-heading">
-          Free
+          Free Android app
         </th>
         <th class="compare-heading">
           Supporter
@@ -90,7 +90,7 @@ markup: HTML
         <td><span class="tickblue">✔</span></td>
       </tr>
       <tr>
-        <td><div class="feature-title">One Time Passwords</div><div class="feature-description">Use Kee Vault to store the TOTPs you need for 2FA/MFA for lots of accounts - more secure than receiving SMS messages or emails and a huge improvement on signing-in with only a password for many online services.</div></td>
+        <td><div class="feature-title">One Time Passwords</div><div class="feature-description">Use Kee Vault to store the TOTPs you now need for 2FA/MFA for lots of accounts - more secure than receiving SMS messages or emails and a huge improvement on signing-in with only a password for many online services.</div></td>
         <td><span class="tickblue">✔</span></td>
         <td><span class="tickblue">✔</span></td>
       </tr>
@@ -153,7 +153,7 @@ markup: HTML
     <a class="btn btn-success btn-large" href="https://keevault.pm">Sign up through the web app now</a>
 </div>
 
-<p style="text-align: center; padding:15px 0px">Or use the free version on Android from Google Play: <a href="https://google.com/orsomething">Kee Vault on Google Play</a></p>
+<p style="text-align: center; padding:15px 0px">Or use the free version on Android from Google Play: <a href="https://play.google.com/store/apps/details?id=com.keevault.keevault">Kee Vault on Google Play</a></p>
 
 
 <div class="comparison">
@@ -169,7 +169,7 @@ markup: HTML
         </th>
       </tr>
       <tr>
-        <th class="comparison-intro">Notable differences between Kee Vault veersions</th>
+        <th class="comparison-intro">Notable differences between Kee Vault versions</th>
         <th class="price-info">
           <div>Web app</div>
         </th>
@@ -180,12 +180,12 @@ markup: HTML
     </thead>
     <tbody>
       <tr class="compare-row">
-        <td><div class="feature-title">Register for a Kee Vault subscription</div></td>
+        <td><div class="feature-title">Register for a Kee Vault subscription account</div></td>
         <td><span class="tickblue">✔</span></td>
         <td><span class="tickblue">-</span></td>
       </tr>
       <tr>
-        <td><div class="feature-title">Works without a paid Kee Vault subscription</td>
+        <td><div class="feature-title">Works both with and without a paid Kee Vault subscription</td>
         <td><span class="tickblue">-</span></td>
         <td><span class="tickblue">✔</span></td>
       </tr>
@@ -193,11 +193,6 @@ markup: HTML
         <td><div class="feature-title">Change Kee Vault account password</div></td>
         <td><span class="tickblue">✔</span></td>
         <td><span class="tickblue">-</span></td>
-      </tr>
-      <tr>
-        <td><div class="feature-title">Change free Vault password</div></td>
-        <td><span class="tickblue">-</span></td>
-        <td><span class="tickblue">✔</span></td>
       </tr>
       <tr>
         <td><div class="feature-title">Sign in with your fingerprint</div></td>
@@ -216,6 +211,16 @@ markup: HTML
       </tr>
       <tr>
         <td><div class="feature-title">Installable on desktop computers, laptops and iOS devices</div></td>
+        <td><span class="tickblue">✔</span></td>
+        <td><span class="tickblue">-</span></td>
+      </tr>
+      <tr>
+        <td><div class="feature-title">Quickly add OTPs by scanning the QR code with your camera</div></td>
+        <td><span class="tickblue">-</span></td>
+        <td><span class="tickblue">✔</span></td>
+      </tr>
+      <tr>
+        <td><div class="feature-title">Send us a secure message about your account</div></td>
         <td><span class="tickblue">✔</span></td>
         <td><span class="tickblue">-</span></td>
       </tr>
