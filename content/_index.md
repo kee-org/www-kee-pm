@@ -22,29 +22,32 @@ markup: HTML
     <a class="btn btn-success btn-large" href="https://keevault.pm">Load the app now</a>
 </div>
 
-<h3>Benefits and Versions</h3>
-
-<p>Our easy-to-use Open Source password manager gives you peace of mind and saves you time. It works from all of your modern desktop and mobile devices and is based on proven Open Source security implementations.</p>
+<h3>Versions</h3>
 
 <p>Kee Vault comes in two versions:</p>
 
-<p>Version 1 works on all modern devices and can be accessed from anywhere at <a href="https://keevault.pm">https://keevault.pm</a>.</p>
-<p>Version 2 works only on modern Android devices and is the recommended version to use on Android due to its additional features.</p>
+<ul>
+<li>Version 1 works on all modern devices and can be accessed from anywhere at <a href="https://keevault.pm">https://keevault.pm</a>.</li>
+<li>Version 2 works only on modern Android devices and is the recommended version to use on Android due to its additional features.</li>
+</ul>
 
 <p>You can mix and match between both versions seamlessly and rest assured that both use the latest secure encryption technology. Version 2 is simply an upgraded version and a way for us to donate our software to those that can't pay for a subscription, as per our <a href="/pricing">pricing promise</a>.</p>
 
-<!-- <p>More detailed comparison between version 1 and 2: TODO (pricing options, fingerprints, autofill, future development plans, etc.)
-</p> -->
+<p>We've created a comparison of the main differences between the two versions at the bottom of our <a href="/features">features</a> page so check it out if you want more details.</p>
 
-<p>Start securing your online world now! 14 day free trial with no payment details required.</p>
+<h3>Benefits</h3>
+
+<p>Our easy-to-use Open Source password manager gives you peace of mind and saves you time. It works from all of your modern desktop and mobile devices and is based on proven Open Source security implementations.</p>
+
+<p>Start securing your online world now! Register for a 30 day free trial (no payment details required).</p>
 
 <div class="vault_button">
-    <a class="btn btn-success btn-large" href="https://keevault.pm">Load the app now</a>
+    <a class="btn btn-success btn-large" href="https://keevault.pm">Register using the web app now</a>
 </div>
 
-<h2>Kee Extension</h2>
+<h2>Kee browser extension</h2>
 
-<p>Free open source browser extension.</p>
+<p>Our free open source browser extension.</p>
 
 <div class="highlights">
 {{% highlight clock %}}Secure and automatic login to all your favourite websites{{%/highlight%}}
@@ -64,11 +67,13 @@ markup: HTML
     </div>
 </div>
 
+<p>There is also a version available in the Microsoft Edge extension store which we have officially published. Unfortunately, a Microsoft bug has prevented us from keeping this up to date in the same way that we do with other browsers. We're hopeful that one day they will listen to us and fix the problem but until then we can't recommend the use of a browser that forces its users to use outdated security software.</p>
+
 <h2>KeePass Password Safe 2 plugin</h2>
 
 <p>As well as working with the Kee Vault multi-device service, the Kee browser extension can link with KeePass Password Safe 2 if you download and install it and the required KeePassRPC.plgx plugin. All the steps and links you need to do this are <a href="https://forum.kee.pm/t/installing-kee-instructions/23">available on the community forum</a>.</p>
 
-<p>If you subscribe to our upcoming Premium Kee Vault subscription you can even connect your Kee browser extension to both Kee Vault and KeePass Password Safe at the same time.</p>
+<p>If you subscribe to our Kee Vault subscription you can even connect your Kee browser extension to both Kee Vault and KeePass Password Safe at the same time.</p>
 
 <h2>5 star average rating from Kee’s 50,000 regular users</h2>
 

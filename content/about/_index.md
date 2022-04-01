@@ -8,7 +8,7 @@ Notable software includes the Kee Vault service available at https://keevault.pm
 
 Kee Vault Ltd is a UK based company founded by Chris Tomlinson in 2018.
 
-Chris Tomlinson, the Owner/Director and Lead Developer of Kee Vault Ltd has 15 years of commercial software development experience and has been developing secure Open Source software to aid password management for over a decade. Apart from the password management software now included under the Kee Vault Ltd brand, Chris has previously developed and managed the development of desktop and web applications used by millions of people. These applications and websites supported the aims of environmental charities and the UK National Health Service.
+Chris Tomlinson, the Owner/Director and Lead Developer of Kee Vault Ltd has 20 years of commercial software development experience and has been developing secure Open Source software to aid password management for over a decade. Apart from the password management software now included under the Kee Vault Ltd brand, Chris has previously developed and managed the development of desktop and web applications used by millions of people. These applications and websites supported the aims of environmental charities and the UK National Health Service.
 
 To ensure we never lose sight of the company's goals, we have formalised a statement of the vision, mission and values that guide us.
 
@@ -58,7 +58,7 @@ We host a page that details the [hostnames related to our software and services]
 
 [Kee Vault Privacy Statement](/keevault/privacy/)
 
-[Kee browser extension privacy policy](https://addons.mozilla.org/en-US/firefox/addon/keefox/privacy/) (hosted on the Mozilla Firefox add-ons site but equally applicable to use within any web browser)
+[Kee browser extension privacy policy](/extension-privacy/)
 
 #### Trademarks
 

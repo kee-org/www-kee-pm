@@ -154,3 +154,91 @@ markup: HTML
 </div>
 
 <p style="text-align: center; padding:15px 0px">Or use the free version on Android from Google Play: <a href="https://google.com/orsomething">Kee Vault on Google Play</a></p>
+
+
+<div class="comparison">
+  <table>
+    <thead>
+      <tr>
+        <th class="tl"></th>
+        <th class="compare-heading">
+          Version 1
+        </th>
+        <th class="compare-heading">
+          Version 2
+        </th>
+      </tr>
+      <tr>
+        <th class="comparison-intro">Notable differences between Kee Vault veersions</th>
+        <th class="price-info">
+          <div>Web app</div>
+        </th>
+        <th class="price-info">
+          <div>Android</div>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="compare-row">
+        <td><div class="feature-title">Register for a Kee Vault subscription</div></td>
+        <td><span class="tickblue">✔</span></td>
+        <td><span class="tickblue">-</span></td>
+      </tr>
+      <tr>
+        <td><div class="feature-title">Works without a paid Kee Vault subscription</td>
+        <td><span class="tickblue">-</span></td>
+        <td><span class="tickblue">✔</span></td>
+      </tr>
+      <tr>
+        <td><div class="feature-title">Change Kee Vault account password</div></td>
+        <td><span class="tickblue">✔</span></td>
+        <td><span class="tickblue">-</span></td>
+      </tr>
+      <tr>
+        <td><div class="feature-title">Change free Vault password</div></td>
+        <td><span class="tickblue">-</span></td>
+        <td><span class="tickblue">✔</span></td>
+      </tr>
+      <tr>
+        <td><div class="feature-title">Sign in with your fingerprint</div></td>
+        <td><span class="tickblue">-</span></td>
+        <td><span class="tickblue">✔</span></td>
+      </tr>
+      <tr>
+        <td><div class="feature-title">Autofill into Android apps and websites on your Android</div></td>
+        <td><span class="tickblue">-</span></td>
+        <td><span class="tickblue">✔</span></td>
+      </tr>
+      <tr>
+        <td><div class="feature-title">Connects with the Kee browser extension for website auto-fill</div></td>
+        <td><span class="tickblue">✔</span></td>
+        <td><span class="tickblue">-</span></td>
+      </tr>
+      <tr>
+        <td><div class="feature-title">Installable on desktop computers, laptops and iOS devices</div></td>
+        <td><span class="tickblue">✔</span></td>
+        <td><span class="tickblue">-</span></td>
+      </tr>
+      <tr>
+        <td><div class="feature-title">Import from your old password manager</div><div class="feature-description">version 1 supports more data sources.</div></td>
+        <td><span class="tickblue">✔</span></td>
+        <td><span class="tickblue">✔</span></td>
+      </tr>
+      <tr class="bottom-plan-names">
+        <td class="tl"></td>
+        <td class="compare-heading">
+          Web app
+        </td>
+        <td class="compare-heading">
+          Android
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p style="text-align: center; padding-top:10px">Subscribers to the Kee Vault Supporter plan get access to both versions so...</p>
+
+<div class="vault_button">
+    <a class="btn btn-success btn-large" href="https://keevault.pm">Sign up using version 1 now</a>
+</div>

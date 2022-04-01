@@ -14,7 +14,8 @@ The core principle actually dates back over 125 years and boils down to “secur
 
 ### Password manager components:
 
-* Kee Vault browser app: https://github.com/kee-org/keevault
+* Kee Vault browser app (version 1): https://github.com/kee-org/keevault
+* Kee Vault Android app (version 2): https://github.com/kee-org/keevault2
 * Kee desktop browser extension: https://github.com/kee-org/browser-addon
 * All components, libraries and tools: https://github.com/kee-org/
 
