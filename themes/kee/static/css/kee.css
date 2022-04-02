@@ -260,8 +260,19 @@ div.highlights + p {
   display: none;
   background:#fff !important;
 }
+
 .bottom-plan-names td {
   padding-top:25px !important;
+}
+
+div.highlights.upgrade + p {
+  text-align: left;
+  padding-left: inherit;
+  padding-right: inherit;
+}
+
+div.vault_button.upgrade {
+  margin-bottom: 20px;
 }
 
 @media (max-width: 767px) {

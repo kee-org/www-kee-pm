@@ -35,10 +35,6 @@ markup: HTML
 
 <p>We've created a comparison of the main differences between the two versions at the bottom of our <a href="/features">features</a> page so check it out if you want more details.</p>
 
-<h3>Benefits</h3>
-
-<p>Our easy-to-use Open Source password manager gives you peace of mind and saves you time. It works from all of your modern desktop and mobile devices and is based on proven Open Source security implementations.</p>
-
 <p>Start securing your online world now! Register for a 30 day free trial (no payment details required).</p>
 
 <div class="vault_button">
@@ -90,12 +86,3 @@ markup: HTML
 <h2>Other applications</h2>
 
 <p>Modern web browsers aren't the only apps that can be enhanced by the Kee browser extension. You can find advice on how to use KeeBird and KeeFox (an old version of Kee) in Thunderbird and other older web browsers based on Mozilla Firefox in our <a href="https://forum.kee.pm">community forum</a>.</p>
-
-<script>
-    document.getElementById('show-full-pricing-details').addEventListener("click", function (e) {
-        e.preventDefault();
-        e.stopPropagation();
-        document.getElementById('show-full-pricing-details').classList.add("hide");
-        document.getElementById('full-pricing-details').classList.remove("hide");
-    });
-</script>
