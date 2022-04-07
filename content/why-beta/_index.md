@@ -25,4 +25,4 @@ You can work around this by checking in the settings for your Vault that you hav
 
 ## Documentation and support
 
-We're working hard to develop any required documentation and improve the quantity and quality of our customer support but at this early stage we're mostly interested in learning what pain points you experience so that we can focus on those first. Please [join our community forum](https://forum.kee.pm) to help us understand how you'd like Kee Vault to improve!
+We’re working hard to develop any required documentation and improve the quantity and quality of our customer support but at this early stage we’re mostly interested in learning what pain points you experience so that we can focus on those first. Please [join our community forum](https://forum.kee.pm) to help us understand how you’d like Kee Vault to improve!

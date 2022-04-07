@@ -10,7 +10,7 @@ Kee Vault Ltd is a UK based company founded by Chris Tomlinson in 2018.
 
 Chris Tomlinson, the Owner/Director and Lead Developer of Kee Vault Ltd has 20 years of commercial software development experience and has been developing secure Open Source software to aid password management for over a decade. Apart from the password management software now included under the Kee Vault Ltd brand, Chris has previously developed and managed the development of desktop and web applications used by millions of people. These applications and websites supported the aims of environmental charities and the UK National Health Service.
 
-To ensure we never lose sight of the company's goals, we have formalised a statement of the vision, mission and values that guide us.
+To ensure we never lose sight of the company’s goals, we have formalised a statement of the vision, mission and values that guide us.
 
 ### Vision
 
@@ -24,13 +24,13 @@ Enable easy and secure management of passwords while ensuring sensitive informat
 
 * People come first - without considering them, nothing can be secure.
 * Security throughout everything we do.
-* Profits utilised to achieve the mission, not line shareholder's pockets.
+* Profits utilised to achieve the mission, not line shareholder’s pockets.
 
-It's early in our company's history so you can expect a few tweaks to the above statements as we refine and clarify the underlying intent of each statement.
+It’s early in our company’s history so you can expect a few tweaks to the above statements as we refine and clarify the underlying intent of each statement.
 
 ## Mailing address
 
-There is a legal requirement for every UK company to have a physical postal address, even though we don't use it for providing our services. Ours is:
+There is a legal requirement for every UK company to have a physical postal address, even though we don’t use it for providing our services. Ours is:
 
 ```
 Kee Vault Ltd

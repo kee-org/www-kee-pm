@@ -4,7 +4,7 @@ title: Kee Vault Terms of Service
 
 ## Introduction
 
-Thank you for using Kee Vault! We're happy you're here. Please read this Terms of Service agreement carefully before accessing or using Kee Vault. Because it is such an important contract between us and our users, we have tried to make it as clear as possible. For your convenience, we have presented a simple and short non-binding summary of each section followed by the full legally binding terms.
+Thank you for using Kee Vault! We’re happy you’re here. Please read this Terms of Service agreement carefully before accessing or using Kee Vault. Because it is such an important contract between us and our users, we have tried to make it as clear as possible. For your convenience, we have presented a simple and short non-binding summary of each section followed by the full legally binding terms.
 
 ## Contents
 
@@ -13,12 +13,12 @@ Thank you for using Kee Vault! We're happy you're here. Please read this Terms o
 | [A. Definitions](#a-definitions) | Some basic terms, defined in a way that will help you understand this agreement. Refer back up to this section for clarification. |
 | [B. Account Terms](#b-account-terms) | These are the basic requirements of having an Account on Kee Vault.  |
 | [C. Acceptable Use](#c-acceptable-use)| These are the basic rules you must follow when using Kee Vault. |
-| [D. Intellectual Property Notice](#d-intellectual-property-notice) | This describes Kee Vault's rights in the website and service. |
+| [D. Intellectual Property Notice](#d-intellectual-property-notice) | This describes Kee Vault’s rights in the website and service. |
 | [E. Payment](#e-payment) | You are responsible for payment. We are responsible for billing you accurately. |
-| [F. Free Trial](#f-free-trial) | We may offer you a free trial. We won't trick you into accidental payments because we don't require a credit card or other payment details from you. |
+| [F. Free Trial](#f-free-trial) | We may offer you a free trial. We won’t trick you into accidental payments because we don’t require a credit card or other payment details from you. |
 | [G. Cancellation and Termination](#g-cancellation-and-termination) | You may cancel this agreement and close your Account at any time. |
 | [H. Communications with Kee Vault](#h-communications-with-kee-vault) | We only use email and other electronic means to stay in touch with our users. We do not provide phone support. |
-| [I. Third-party links](#i-third-party-links) | We're not responsible for third-parties. |
+| [I. Third-party links](#i-third-party-links) | We’re not responsible for third-parties. |
 | [J. Disclaimer of Warranties](#j-disclaimer-of-warranties) | We provide our service as is, and we make no promises or guarantees about this service. **Please read this section carefully; you should understand what to expect.** |
 | [K. Limitation of Liability](#k-limitation-of-liability) | We will not be liable for damages or losses arising from your use or inability to use the service or otherwise arising under this agreement. **Please read this section carefully; it limits our obligations to you.** |
 | [L. Release and Indemnification](#l-release-and-indemnification) | You are fully responsible for your use of the service. |
@@ -57,15 +57,15 @@ You must provide a valid email address in order to complete the registration pro
 
 #### 2. Account Requirements
 
-We have a few simple rules for Accounts on Kee Vault's Service.
+We have a few simple rules for Accounts on Kee Vault’s Service.
 
 1. You must be a human to create an Account. Accounts registered by “bots” or other automated methods are not permitted.
-2. You must be age 13 or older. While we are thrilled to see young people get excited about protecting their online security, we must comply with your country's law. Kee Vault does not target our Service to children under 13, and we do not permit any Users under 13 on our Service. If we learn of any User under the age of 13, we will [terminate that User’s Account immediately](#g-cancellation-and-termination). Your country’s minimum age may be different; in such a case, you are responsible for complying with your country’s laws.
+2. You must be age 13 or older. While we are thrilled to see young people get excited about protecting their online security, we must comply with your country’s law. Kee Vault does not target our Service to children under 13, and we do not permit any Users under 13 on our Service. If we learn of any User under the age of 13, we will [terminate that User’s Account immediately](#g-cancellation-and-termination). Your country’s minimum age may be different; in such a case, you are responsible for complying with your country’s laws.
 3. Your login may only be used by one person — i.e., a single login may not be shared by multiple people.
 
 #### 3. User Account Security
 
-You are responsible for keeping your Account secure while you use our Service. We offer tools and information to help you maintain your Account's security, but the content of your Account and its security are up to you.
+You are responsible for keeping your Account secure while you use our Service. We offer tools and information to help you maintain your Account’s security, but the content of your Account and its security are up to you.
 
 1. You are responsible for all content posted and activity that occurs under your Account.
 2. You are responsible for maintaining the security of your Account, password and devices used for accessing the service. Kee Vault cannot and will not be liable for any loss or damage from your failure to comply with this security obligation.
@@ -73,7 +73,7 @@ You are responsible for keeping your Account secure while you use our Service. W
 
 #### 4. Additional Terms
 
-In some situations, third parties' terms may apply to your use of Kee Vault. For example, you may download an application that integrates with Kee Vault. Please be aware that while these Terms are our full agreement with you, other parties' terms govern their relationships with you.
+In some situations, third parties’ terms may apply to your use of Kee Vault. For example, you may download an application that integrates with Kee Vault. Please be aware that while these Terms are our full agreement with you, other parties’ terms govern their relationships with you.
 
 
 ### C. Acceptable Use
@@ -90,13 +90,13 @@ While using Kee Vault, you agree that you will not under any circumstances:
 
 - harass, abuse, threaten, or incite violence towards any individual or group, including Kee Vault employees, officers, and agents, or other Kee Vault Users;
 - use our servers for any form of excessive automated bulk activity (for example, spamming), or relay any other form of unsolicited advertising or solicitation through our servers, such as get-rich-quick schemes;
-- attempt to disrupt or tamper with Kee Vault's servers in ways that could harm our Website or Service, to place undue burden on Kee Vault's servers through automated means, or to access Kee Vault's Service in ways that exceed your authorization;
+- attempt to disrupt or tamper with Kee Vault’s servers in ways that could harm our Website or Service, to place undue burden on Kee Vault’s servers through automated means, or to access Kee Vault’s Service in ways that exceed your authorization;
 - impersonate any person or entity, including any of our employees or representatives, including through false association with Kee Vault, or by fraudulently misrepresenting your identity or intentions; or
-- violate the privacy of any third party, such as by posting another person's personal information without consent.
+- violate the privacy of any third party, such as by posting another person’s personal information without consent.
 
 #### 3. Services Usage Limits
 
-You agree not to reproduce, duplicate, copy, sell, resell or exploit any portion of the Service, use of the Service, or access to the Service without Kee Vault's express written permission.
+You agree not to reproduce, duplicate, copy, sell, resell or exploit any portion of the Service, use of the Service, or access to the Service without Kee Vault’s express written permission.
 
 #### 4. Excessive Bandwidth Use
 
@@ -111,7 +111,7 @@ You agree not to engage in activity that significantly harms our Users. We will 
 
 **Short version:** *We own the service and all of our content. In order for you to use our content, we give you certain rights to it, but you may only use our content in the way we have allowed.*
 
-#### 1. Kee Vault's Rights to Content
+#### 1. Kee Vault’s Rights to Content
 
 Kee Vault and our licensors, vendors, agents, and/or our content providers retain ownership of all intellectual property rights of any kind related to the Website and Service. We reserve all rights that are not expressly granted to you under this Agreement or by law. The look and feel of the Website and Service is copyright © Kee Vault Ltd. All rights reserved. For those parts of the Website or Service that are not clearly marked with a different license (for example, Open Source AGPLv3) you may not duplicate, copy, or reuse any portion of the HTML/CSS, Javascript, or visual design elements or concepts without express written permission from Kee Vault.
 
@@ -132,7 +132,7 @@ Our pricing and payment terms are available at https://www.kee.pm. If you agree 
 
 - We will immediately bill you when your Subscription Activates.
 - If you change from a monthly billing plan to a yearly billing plan, we will start a new one-year billing period immediately and apply a credit, to the invoice for this new billing period, in respect of the pro-rata amount for the time remaining on the old subscription plan.
-- If you change from a yearly billing plan to a monthly billing plan, we will start a new one-month billing period immediately and apply a credit, to the invoice for this new billing period and to subsequent monthly invoices as required, in respect of the pro-rata amount for the time remaining on the old subscription plan. There is no facility to receive a refund for the credits - they are applied to your future invoices but if you cancel your subscription before any such credits have been used up, we won't refund the remaining credits.
+- If you change from a yearly billing plan to a monthly billing plan, we will start a new one-month billing period immediately and apply a credit, to the invoice for this new billing period and to subsequent monthly invoices as required, in respect of the pro-rata amount for the time remaining on the old subscription plan. There is no facility to receive a refund for the credits - they are applied to your future invoices but if you cancel your subscription before any such credits have been used up, we won’t refund the remaining credits.
 - If you upgrade to a higher level of service, we will apply the upgrade immediately so that you can take advantage of the new level as soon as possible. We will start a new billing period immediately and apply a credit, to the invoice for this new billing period, in respect of the pro-rata amount for the time remaining on the old subscription plan.
 - If you downgrade to a lower level of service, we are entitled to either:
    1. downgrade your subscription at the end of the current billing term
@@ -178,7 +178,7 @@ The Subscription plan that will be applied to your Activated Account will be the
 
 #### 3. Our discretion
 
-Your eligibility for a free trial is entirely at Kee Vault's discretion. Circumstances where we might refuse you the free trial period include but are not limited to:
+Your eligibility for a free trial is entirely at Kee Vault’s discretion. Circumstances where we might refuse you the free trial period include but are not limited to:
 
 * If you have received a Kee Vault Free Trial in the past 3 years.
 * If we have previously terminated your account in accordance with these TOS.
@@ -189,7 +189,7 @@ At any time and without notice, Kee Vault reserves the right to change the terms
 
 ### G. Cancellation and Termination
 
-**Short version:** *You may close your Account at any time. If you do, we'll treat your information responsibly. We offer a guarantee that the closure of your account will not lead to the immediate loss of your data (encrypted passwords) but in rare circumstances we may levy a fee for the recovery of such data. Remember that Kee Vault can never have access to your passwords - you will still need to apply your master password to unlock any protected data we recover for you.*
+**Short version:** *You may close your Account at any time. If you do, we’ll treat your information responsibly. We offer a guarantee that the closure of your account will not lead to the immediate loss of your data (encrypted passwords) but in rare circumstances we may levy a fee for the recovery of such data. Remember that Kee Vault can never have access to your passwords - you will still need to apply your master password to unlock any protected data we recover for you.*
 
 #### 1. Account Cancellation
 
@@ -238,7 +238,7 @@ For contractual purposes, you (1) consent to receive communications from us in a
 
 #### 2. Legal Notice to Kee Vault Must Be in Writing
 
-Communications made through email or Kee Vault Support's messaging system will not constitute legal notice to Kee Vault or any of its officers, employees, agents or representatives in any situation where notice to Kee Vault is required by contract or any law or regulation. Legal notice to Kee Vault must be in writing and served on Kee Vault's legal agent.
+Communications made through email or Kee Vault Support’s messaging system will not constitute legal notice to Kee Vault or any of its officers, employees, agents or representatives in any situation where notice to Kee Vault is required by contract or any law or regulation. Legal notice to Kee Vault must be in writing and served on Kee Vault’s legal agent.
 
 #### 3. Electronic Support
 
@@ -247,13 +247,13 @@ Kee Vault only offers support via in-Service communications and electronic messa
 
 ### I. Third-party links
 
-**Short version:** *You can't blame us for the content, actions or inactions of 3rd parties we link to.*
+**Short version:** *You can’t blame us for the content, actions or inactions of 3rd parties we link to.*
 
 Certain content, products and services available via our Service may include materials from third-parties.
 
 Third-party links on our Websites may direct you to third-party websites that are not affiliated with us. We are not responsible for examining or evaluating the content or accuracy and we do not warrant and will not have any liability or responsibility for any third-party materials or websites, or for any other materials, products, or services of third-parties.
 
-We are not liable for any harm or damages related to the purchase or use of goods, services, resources, content, or any other transactions made in connection with any third-party websites. Please review carefully the third-party's policies and practices and make sure you understand them before you engage in any transaction. Complaints, claims, concerns, or questions regarding third-party products should be directed to the third-party.
+We are not liable for any harm or damages related to the purchase or use of goods, services, resources, content, or any other transactions made in connection with any third-party websites. Please review carefully the third-party’s policies and practices and make sure you understand them before you engage in any transaction. Complaints, claims, concerns, or questions regarding third-party products should be directed to the third-party.
 
 ### J. Disclaimer of Warranties
 
@@ -287,7 +287,7 @@ You agree to indemnify us, defend us, and hold us harmless from and against any 
 
 ### M. Changes to These Terms
 
-**Short version:** *We want our users to be informed of important changes to our terms, but some changes aren't that important — we don't want to bother you every time we fix a typo. So while we may modify this agreement at any time, we will notify users of any changes that affect your rights and give you time to adjust to them.*
+**Short version:** *We want our users to be informed of important changes to our terms, but some changes aren’t that important — we don’t want to bother you every time we fix a typo. So while we may modify this agreement at any time, we will notify users of any changes that affect your rights and give you time to adjust to them.*
 
 We reserve the right, at our sole discretion, to amend these Terms of Service at any time and will update these Terms of Service in the event of any such amendments. We will notify our Users of material changes to this Agreement, including price changes, at least one calendar month prior to the change taking effect by posting a notice on our Website. For non-material modifications, your continued use of the Website constitutes agreement to our revisions of these Terms of Service. You can view all changes to these Terms in our [Website repository](https://github.com/kee-org/www-kee-pm/commits/master/content/keevault/tos.md).
 

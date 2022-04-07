@@ -4,7 +4,7 @@ markup: HTML
 ---
 
 <p>You remember one password and Kee Vault remembers the rest, securely and simply!</p>
-<p>We hope you'll want to become a supporter with a small annual contribution but whether you do that or use the free version of our app our <a href="/pricing">fair pricing promise</a> always applies.</p>
+<p>We hope you’ll want to become a supporter with a small annual contribution but whether you do that or use the free version of our app our <a href="/pricing">fair pricing promise</a> always applies.</p>
 
 <div class="comparison">
   <table>
@@ -35,22 +35,22 @@ markup: HTML
         <td><span class="tickblue">✔</span></td>
       </tr>
       <tr>
-        <td><div class="feature-title">Open Source protection</div><div class="feature-description">Unlike most password managers you can prove that your data is stored securely. You can trust us, but you don't have to!</div></td>
+        <td><div class="feature-title">Open Source protection</div><div class="feature-description">Unlike most password managers you can prove that your data is stored securely. You can trust us, but you don’t have to!</div></td>
         <td><span class="tickblue">✔</span></td>
         <td><span class="tickblue">✔</span></td>
       </tr>
       <tr>
-        <td><div class="feature-title">Different, extremely secure passwords for every website</div><div class="feature-description">When one website suffers a security breach, your other accounts will not be affected. This keeps you protected and saves time since you don't have to change all of your passwords.</div></td>
+        <td><div class="feature-title">Different, extremely secure passwords for every website</div><div class="feature-description">When one website suffers a security breach, your other accounts will not be affected. This keeps you protected and saves time since you don’t have to change all of your passwords.</div></td>
         <td><span class="tickblue">✔</span></td>
         <td><span class="tickblue">✔</span></td>
       </tr>
       <tr>
-        <td><div class="feature-title">Instant unlock (Android only)</div><div class="feature-description">Prove it's you by using your device's fingerprint reader to get instant access to all your passwords without even needing to type in your Kee Vault master password. If you hate passwords this is a great feature!</div></td>
+        <td><div class="feature-title">Instant unlock (Android only)</div><div class="feature-description">Prove it’s you by using your device’s fingerprint reader to get instant access to all your passwords without even needing to type in your Kee Vault master password. If you hate passwords this is a great feature!</div></td>
         <td><span class="tickblue">✔</span></td>
         <td><span class="tickblue">✔</span></td>
       </tr>
       <tr>
-        <td><div class="feature-title">Works offline</div><div class="feature-description">Need to view or update a PIN or password when you've got no network connection? No problem! Being able to make changes even while offline is a very rare feature we're happy to offer you!</div></td>
+        <td><div class="feature-title">Works offline</div><div class="feature-description">Need to view or update a PIN or password when you’ve got no network connection? No problem! Being able to make changes even while offline is a very rare feature we’re happy to offer you!</div></td>
         <td><span class="tickblue">✔</span></td>
         <td><span class="tickblue">✔</span></td>
       </tr>
@@ -75,7 +75,7 @@ markup: HTML
         <td><span class="tickblue">✔</span></td>
       </tr>
       <tr>
-        <td><div class="feature-title">Automatic security improvement</div><div class="feature-description">If your master password is not quite as strong as it could be, we'll automatically enable increased protection for your Vault.</div></td>
+        <td><div class="feature-title">Automatic security improvement</div><div class="feature-description">If your master password is not quite as strong as it could be, we’ll automatically enable increased protection for your Vault.</div></td>
         <td><span class="tickblue">✔</span></td>
         <td><span class="tickblue">✔</span></td>
       </tr>
@@ -105,7 +105,7 @@ markup: HTML
         <td><span class="tickblue">✔</span></td>
       </tr>
       <tr>
-        <td><div class="feature-title">Protected (encrypted) standard format exports</div><div class="feature-description">It's your data so you can save it in the standard password management format "KDBX" whenever you want.</div></td>
+        <td><div class="feature-title">Protected (encrypted) standard format exports</div><div class="feature-description">It’s your data so you can save it in the standard password management format "KDBX" whenever you want.</div></td>
         <td><span class="tickblue">✔</span></td>
         <td><span class="tickblue">✔</span></td>
       </tr>
@@ -120,7 +120,7 @@ markup: HTML
         <td><span class="tickblue">✔</span></td>
       </tr>
       <tr>
-        <td><div class="feature-title">Secure and reliable remote storage</div><div class="feature-description">Your encrypted data is automatically backed up safely (not even we can access it!) so you're protected against device failures, loss and theft.</div></td>
+        <td><div class="feature-title">Secure and reliable remote storage</div><div class="feature-description">Your encrypted data is automatically backed up safely (not even we can access it!) so you’re protected against device failures, loss and theft.</div></td>
         <td><span class="tickblue">-</span></td>
         <td><span class="tickblue">✔</span></td>
       </tr>

@@ -31,9 +31,9 @@ markup: HTML
 <li>Version 2 works only on modern Android devices and is the recommended version to use on Android due to its additional features.</li>
 </ul>
 
-<p>You can mix and match between both versions seamlessly and rest assured that both use the latest secure encryption technology. Version 2 is simply an upgraded version and a way for us to donate our software to those that can't pay for a subscription, as per our <a href="/pricing">pricing promise</a>.</p>
+<p>You can mix and match between both versions seamlessly and rest assured that both use the latest secure encryption technology. Version 2 is simply an upgraded version and a way for us to donate our software to those that can’t pay for a subscription, as per our <a href="/pricing">pricing promise</a>.</p>
 
-<p>We've created a comparison of the main differences between the two versions at the bottom of our <a href="/features">features</a> page so check it out if you want more details.</p>
+<p>We’ve created a comparison of the main differences between the two versions at the bottom of our <a href="/features">features</a> page so check it out if you want more details.</p>
 
 <p>Start securing your online world now! Register for a 30 day free trial (no payment details required).</p>
 
@@ -63,7 +63,7 @@ markup: HTML
     </div>
 </div>
 
-<p>There is also a version available in the Microsoft Edge extension store which we have officially published. Unfortunately, a Microsoft bug has prevented us from keeping this up to date in the same way that we do with other browsers. We're hopeful that one day they will listen to us and fix the problem but until then we can't recommend the use of a browser that forces its users to use outdated security software.</p>
+<p>There is also a version available in the Microsoft Edge extension store which we have officially published. Unfortunately, a Microsoft bug has prevented us from keeping this up to date in the same way that we do with other browsers. We’re hopeful that one day they will listen to us and fix the problem but until then we can’t recommend the use of a browser that forces its users to use outdated security software.</p>
 
 <h2>KeePass Password Safe 2 plugin</h2>
 
@@ -85,4 +85,4 @@ markup: HTML
 
 <h2>Other applications</h2>
 
-<p>Modern web browsers aren't the only apps that can be enhanced by the Kee browser extension. You can find advice on how to use KeeBird and KeeFox (an old version of Kee) in Thunderbird and other older web browsers based on Mozilla Firefox in our <a href="https://forum.kee.pm">community forum</a>.</p>
+<p>Modern web browsers aren’t the only apps that can be enhanced by the Kee browser extension. You can find advice on how to use KeeBird and KeeFox (an old version of Kee) in Thunderbird and other older web browsers based on Mozilla Firefox in our <a href="https://forum.kee.pm">community forum</a>.</p>

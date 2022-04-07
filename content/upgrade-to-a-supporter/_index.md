@@ -16,10 +16,10 @@ markup: HTML
 
 <p>You can mix and match between https://keevault.pm and the Android app seamlessly.</p>
 
-<p>If you're new to Kee Vault, check out our full list of <a href="/features">benefits and features</a>, which includes a comparison of the free Android app and the Supporter subscription account.</p>
+<p>If you’re new to Kee Vault, check out our full list of <a href="/features">benefits and features</a>, which includes a comparison of the free Android app and the Supporter subscription account.</p>
 
 <div class="vault_button upgrade">
     <a class="btn btn-success btn-large" href="https://keevault.pm">Sign up now</a>
 </div>
 
-<p>After registering and verifying your email address, you can then click on the "Sign In" button in the Android app. Once you're signed in, we automatically move your data from your free Vault into your new Kee Vault account so that you can access it from wherever you want.</p>
+<p>After registering and verifying your email address, you can then click on the "Sign In" button in the Android app. Once you’re signed in, we automatically move your data from your free Vault into your new Kee Vault account so that you can access it from wherever you want.</p>

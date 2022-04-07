@@ -2,7 +2,7 @@
 title: Extension Permissions
 ---
 
-Kee needs a variety of permissions to deliver it's functionality to you.
+Kee needs a variety of permissions to deliver it’s functionality to you.
 
 ## The permissions
 
@@ -27,7 +27,7 @@ Kee needs a variety of permissions to deliver it's functionality to you.
 <td>"&lt;all_urls&gt;"</td>
 <td>Access your data for all websites</td>
 <td>Your data on all the websites you visit</td>
-<td>It's not possible for Kee to predict which web pages you will need to sign in to so we must request access to all pages. Note that the behaviour of this permission is changing during 2018 and 2019 so that your browser will give you additional options - we recommend using the intended behaviour of "enabled on all websites" because this is the only configuration that we have tested and can support but you may have luck with enabling additional restrictions if you have a very specific use case for the Kee extension.</td>
+<td>It’s not possible for Kee to predict which web pages you will need to sign in to so we must request access to all pages. Note that the behaviour of this permission is changing during 2018 and 2019 so that your browser will give you additional options - we recommend using the intended behaviour of "enabled on all websites" because this is the only configuration that we have tested and can support but you may have luck with enabling additional restrictions if you have a very specific use case for the Kee extension.</td>
 </tr>
 <tr>
 <td>"contextMenus"</td>
@@ -75,14 +75,14 @@ Kee needs a variety of permissions to deliver it's functionality to you.
 <td>"idle"</td>
 <td>-</td>
 <td>-</td>
-<td>Defer automatic updates to a time when you aren't using your browser (8 hours maximum delay)</td>
+<td>Defer automatic updates to a time when you aren’t using your browser (8 hours maximum delay)</td>
 </tr>
 </tbody>
 </table>
 
 <p>
 <br/>
-Please note that the technical names are the real permissions that are made available to Kee. Web browsers frequently change the name and description of these permissions (as well as displaying them in languages other than English). Some displayed permissions may cover more than one technical permission and this mapping of displayed permission to real (technical) permission may be changed by browsers at any time, potentially creating an illusion that Kee has added/removed required permissions when this is not the case. In some cases, one browser will display a permission message while another determines that the permission does not need to be explicitly presented to you. Again, this may change in each browser version and we can't promise to keep this page up to date with every change that the various browser creators make.
+Please note that the technical names are the real permissions that are made available to Kee. Web browsers frequently change the name and description of these permissions (as well as displaying them in languages other than English). Some displayed permissions may cover more than one technical permission and this mapping of displayed permission to real (technical) permission may be changed by browsers at any time, potentially creating an illusion that Kee has added/removed required permissions when this is not the case. In some cases, one browser will display a permission message while another determines that the permission does not need to be explicitly presented to you. Again, this may change in each browser version and we can’t promise to keep this page up to date with every change that the various browser creators make.
 </p>
 {{< /rawhtml >}}
 
