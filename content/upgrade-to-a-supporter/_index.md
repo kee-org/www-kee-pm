@@ -16,7 +16,7 @@ markup: HTML
 
 <p>You can mix and match between https://keevault.pm and the Android app seamlessly.</p>
 
-<p>If you're new to Kee Vault, check out our full list of benefits and features, which includes a comparison of the free Android app and the Supporter subscription account.</p>
+<p>If you're new to Kee Vault, check out our full list of <a href="/features">benefits and features</a>, which includes a comparison of the free Android app and the Supporter subscription account.</p>
 
 <div class="vault_button upgrade">
     <a class="btn btn-success btn-large" href="https://keevault.pm">Sign up now</a>
