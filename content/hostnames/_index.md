@@ -30,6 +30,7 @@ Top Level Domains (i.e. the domains that we purchase from international internet
 * mailfrom._kee.pm_ - return address hostname for some emails we send
 * resetacc._kee.pm_ - Kee Vault account/password reset API
 * mailerapi._kee.pm_ - internal administrative functions to aid with the secure handling of your email address when we send you a message
+* i._kee.pm_ - incoming link redirector for shortening URLs - may redirect to hostnames on this page or elsewhere on the internet
 
 ## Defensive hostnames:
 
