@@ -1,5 +1,5 @@
 .hide {
-    display: none;
+  display: none;
 }
 
 h1,h2,h3,h4,h5,h6 {color: #1a466b; font-weight: bold}
@@ -25,11 +25,11 @@ li.c,ul.reviews li{margin:15px 0px}
 .header {margin: 15px 5px;display: flex;}
 
 .main-section h1, .header {
-    text-align: center;
+  text-align: center;
 }
 .main-section h1 {
-    margin-bottom: 15px;
-    color: #1a466b;
+  margin-bottom: 15px;
+  color: #1a466b;
 }
 
 .header_logo_container {width: 200px; flex-grow: 1;}
@@ -55,293 +55,266 @@ li.c,ul.reviews li{margin:15px 0px}
 h3,h2 { margin-top: 20px; }
 
 .headline {
-    font-weight: bold;
-    font-size: 1.2em;
+  font-weight: bold;
+  font-size: 1.2em;
 }
 
 .inline-svg {
-    display: inline-block;
-    height: 1.15rem;
-    width: 1.15rem;
-    top: 0.15rem;
-    position: relative;
+  display: inline-block;
+  height: 1.15rem;
+  width: 1.15rem;
+  top: 0.15rem;
+  position: relative;
 }
 
 .svg {
-    color: #1a466b;
+  color: #1a466b;
 }
 .svg > svg {
-    width: 48px;
-    height: 48px;
+  width: 48px;
+  height: 48px;
 }
 
 .highlights {
-    flex-wrap: wrap;
-    display: flex;
-    margin: 10px 0px 20px;
+  flex-wrap: wrap;
+  display: flex;
+  margin: 10px 0px 20px;
 }
 
 .highlight {
-    display:flex;
-    width: calc(100% - 20px);
-    margin: 10px;
-    padding: 10px;
-    align-items: center;
-    border: 1px solid #1a466b;
-    border-radius: 5px;
-    box-shadow: 2px 2px 3px #1a466b;
+  display:flex;
+  width: calc(100% - 20px);
+  margin: 10px;
+  padding: 10px;
+  align-items: center;
+  border: 1px solid #1a466b;
+  border-radius: 5px;
+  box-shadow: 2px 2px 3px #1a466b;
 }
 @media (min-width:992px){
-    .highlight {
-        width: calc(50% - 20px);
-    }
+  .highlight {
+      width: calc(50% - 20px);
+  }
 }
 
 .highlight_icon {
-    height: 64px;
-    width: 64px;
-    padding: 7px;
-    margin: 7px;
-    flex-shrink: 0;
-    text-align: center;
-    align-self: center;
+  height: 64px;
+  width: 64px;
+  padding: 7px;
+  margin: 7px;
+  flex-shrink: 0;
+  text-align: center;
+  align-self: center;
 }
-  
+
 .highlight_text {
-    font-size: 1.25em;
-    margin-left: 10px;
-    color: #1a466b;
-    font-weight: bold;
+  font-size: 1.25em;
+  margin-left: 10px;
+  color: #1a466b;
+  font-weight: bold;
 }
 
 div.highlights + p {
-    text-align: center;
-    padding-left: 10%;
-    padding-right: 10%;
+  text-align: center;
+  padding-left: 10%;
+  padding-right: 10%;
 }
 
 .vault_button {
-    text-align: center;
+  text-align: center;
 }
 .vault_button > a {
-    min-width: 50%;
-    font-weight: bold;
-    background-color: #1a466b;
-    border-color: #1a466b;
+  min-width: 50%;
+  font-weight: bold;
+  background-color: #1a466b;
+  border-color: #1a466b;
 }
 .vault_button > a:hover {
-    background-color: #153856;
-    border-color: #153856;
+  background-color: #153856;
+  border-color: #153856;
 }
 
 .extensionDownloads {
-    display: flex;
-    justify-content: center;
-    margin-bottom: 15px;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 15px;
 }
 .extensionDownloads .vault_button {
-    margin: 10px;
+  margin: 10px;
 }
 
 .feature-title {
-    font-weight:bold;
-    font-size: larger;
-  }
-  .feature-description {
-    margin-top:5px;
-  }
+  font-weight:bold;
+  font-size: larger;
+}
+.feature-description {
+  margin-top:5px;
+}
+.comparison {
+  line-height: 1.4;
+  font-size:13px;
+  text-align:center;
+  padding:10px;
+}
+
+.comparison table {
+  width:100%;
+  border-collapse: collapse;
+  border-spacing: 0;
+  table-layout: auto;
+  border-bottom:1px solid #CCC;
+}
+
+.comparison td, .comparison th {
+  border-right:1px solid #CCC;
+  empty-cells: show;
+  padding:10px;
+}
+
+.compare-heading {
+  font-size:18px;
+  font-weight:bold !important;
+  border-bottom:0 !important;
+  padding-top:10px !important;
+}
+
+.comparison-intro {
+  font-size: 20px;
+  text-align: left;
+  vertical-align: top;
+}
+
+.comparison tbody tr td:nth-child(1) {
+  border-left:1px solid #CCC;
+}
+.comparison tr:nth-child(1) th:nth-last-child(-n+2) {
+  border-top:1px solid #CCC;
+  padding: 0px 5px;
+}
+  
+
+.comparison tbody tr:nth-child(odd) {
+  background:#F5F5F5;
+}
+
+.comparison .tickblue {
+  color:#1a466b;
+  font-size:larger;
+}
+
+.comparison th {
+  font-weight:normal;
+  padding:0;
+  border-bottom:1px solid #CCC;
+}
+
+.comparison tr td:first-child {
+  text-align:left;
+  min-width:40%;
+  width:80%;
+}
+  
+.comparison .tl {
+  color:#FFF;
+  padding:10px;
+  font-size:13px;
+  border-right:1px solid #CCC;
+  border-bottom:0;
+}
+
+.comparison .price-info {
+  padding:5px 15px 15px 15px;
+}
+
+.comparison .price-was {
+  color:#999;
+  text-decoration: line-through;
+}
+
+.comparison .price-now {
+  color:#1a466b;
+  line-height: 1;
+  margin-bottom: 10px;
+}
+
+.comparison .price-now span {
+  font-size:32px;
+}
+
+.comparison .price-small {
+    font-size: 18px !important;
+    position: relative;
+    top: -11px;
+    left: 2px;
+}
+
+.comparison .price-try {
+  font-size:12px;
+}
+
+.comparison .price-try a {
+  color:#202020;
+}
+
+.bottom-plan-names {
+  display: none;
+  background:#fff !important;
+}
+
+.bottom-plan-names td {
+  padding-top:25px !important;
+}
+
+div.highlights.upgrade + p {
+  text-align: left;
+  padding-left: inherit;
+  padding-right: inherit;
+}
+
+div.vault_button.upgrade {
+  margin-bottom: 20px;
+}
+
+@media (max-width: 767px) {
   .comparison {
-    line-height: 1.4;
-    font-size:13px;
-    text-align:center;
-    padding:10px;
-  }
-  
-  .comparison table {
-    width:100%;
-    border-collapse: collapse;
-    border-spacing: 0;
-    table-layout: auto;
-    border-bottom:1px solid #CCC;
-  }
-  
-  .comparison td, .comparison th {
-    border-right:1px solid #CCC;
-    empty-cells: show;
-    padding:10px;
-  }
-  
-  .compare-heading {
-    font-size:18px;
-    font-weight:bold !important;
-    border-bottom:0 !important;
-    padding-top:10px !important;
-  }
-  
-  
-  .comparison tbody tr td:nth-child(1) {
-    border-left:1px solid #CCC;
-  }
-  .comparison tr:nth-child(1) th:nth-last-child(-n+2) {
-    border-top:1px solid #CCC;
-  }
-  
-  .comparison tr:nth-child(even) td:nth-last-child(-n+1),
-  .comparison tr th:nth-last-child(-n+1) {
-    opacity: 1;
-    filter: blur(0.75px) grayscale(100%);  
-  }
-  
-  .comparison tbody tr:nth-child(odd) {
-    display:none;
-  }
-  
-  .comparison tbody tr:nth-child(4n-2) {
-    background:#F5F5F5;
-  }
-  
-  .comparison .tickblue {
-    color:#1a466b;
-    font-size:larger;
-  }
-  
-  .comparison .tickgreen {
-    color:#009E2C;
-  }
-  
-  .comparison th {
-    font-weight:normal;
-    padding:0;
-    border-bottom:1px solid #CCC;
-  }
-  
-  .comparison tr td:first-child {
-    text-align:left;
-    min-width:40%;
-    width:50%;
-  }
+  padding:0px;
+}
+  .comparison td:first-child, .comparison th:first-child {
     
-  .comparison .tl {
-    color:#FFF;
-    padding:10px;
-    font-size:13px;
-    border-right:1px solid #CCC;
-    border-bottom:0;
+    width:100%;
   }
-  
-  .comparison .price-info {
-    padding:5px 15px 15px 15px;
+  .comparison tbody tr:nth-child(odd), .comparison tbody tr:nth-child(even)  {
+    background:linear-gradient(#F7F7F7, #fff);
   }
-  
-  .comparison .price-was {
-    color:#999;
-    text-decoration: line-through;
+  .comparison tbody tr:nth-child(odd) td {
+    border-bottom:0px solid #CCC;
   }
-  
-  .comparison .price-now {
-    color:#1a466b;
-    line-height: 1;
-    margin-bottom: 10px;
+  .comparison tbody tr:nth-child(even) td {
+    border-top:0px solid #CCC;
   }
-  
-  .comparison .price-now span {
-    font-size:32px;
-  }
-  
-  .comparison .price-small {
-      font-size: 18px !important;
-      position: relative;
-      top: -11px;
-      left: 2px;
-  }
-  
-  .comparison .price-try {
-    font-size:12px;
-  }
-  
-  .comparison .price-try a {
-    color:#202020;
+  .price-info {
+  border-top:0 !important;
   }
   
   .bottom-plan-names {
-    display: none;
-    background:#fff !important;
-  }
-  .bottom-plan-names td {
-    padding-top:25px !important;
-  }
-  
-  @media (max-width: 767px) {
-    .comparison td:first-child, .comparison th:first-child {
-      display: none;
-    }
-    .comparison tbody tr:nth-child(odd) {
-      display:table-row;
-      background:linear-gradient(#F7F7F7, #fff);
-    }
-    .comparison tbody tr:nth-child(even) {
-      background:#FFF;
-    }  
-    .comparison td, .comparison th {
-      border:1px solid #CCC;
-      width:33%;
-    }
-    .comparison tbody tr:nth-child(odd) td {
-      padding-top:20px;
-      border-bottom:0px solid #CCC;
-      font-weight:bold;
-    }
-    .comparison tbody tr:nth-child(even) td {
-      border-top:0px solid #CCC;
-    }
-    .price-info {
-    border-top:0 !important;
-    }
-    
-    .bottom-plan-names {
-      display: table-row;
-    }
-  }
-  
-  @media (max-width: 639px) {
-    .comparison td, .comparison th {
-      padding:10px 5px;
-    }
-    .comparison .hide-mobile {
-      display:none;
-    }
-    .comparison .price-now span {
-    font-size:16px;
-  }
-  
-  .comparison .price-small {
-      font-size: 16px !important;
-      top: 0;
-      left: 0;
-  }
-    .compare-heading {
-    font-size:13px;
-  }
-  }
-
-@keyframes grow {
-  0% {
-    display: none;
-  }
-  1% {
-    display: block;
-    transform: scaleY(0);
-  }
-  100% {
-    transform: scaleY(1);
+    display: table-row;
   }
 }
 
-.show-full-pricing-details-container {
-    text-align: center;
+@media (max-width: 639px) {
+  .comparison td, .comparison th {
+    padding:10px 5px;
+  }
+  .comparison .price-now span {
+  font-size:16px;
 }
 
-#full-pricing-details {
-  animation: grow .5s ease-in-out;
-  transform-origin: top;
+.comparison .price-small {
+    font-size: 16px !important;
+    top: 0;
+    left: 0;
+}
+  .compare-heading {
+  font-size:13px;
+}
 }
