@@ -31,6 +31,7 @@ Top Level Domains (i.e. the domains that we purchase from international internet
 * resetacc._kee.pm_ - Kee Vault account/password reset API
 * mailerapi._kee.pm_ - internal administrative functions to aid with the secure handling of your email address when we send you a message
 * i._kee.pm_ - incoming link redirector for shortening URLs - may redirect to hostnames on this page or elsewhere on the internet
+* subs._kee.pm_ - Kee Vault account subscription functionality
 
 ## Defensive hostnames:
 

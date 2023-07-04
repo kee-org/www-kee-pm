@@ -13,7 +13,7 @@
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 
     <meta name="viewport" content="width=device-width,minimum-scale=1">
-    {{ .Hugo.Generator }}
+    {{ hugo.Generator }}
     {{/* NOTE: For Production make sure you add `HUGO_ENV="production"` before your build command */}}
     {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
     <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
@@ -33,7 +33,6 @@
 
     {{/* NOTE: These Hugo Internal Templates can be found starting at https://github.com/spf13/hugo/blob/master/tpl/tplimpl/template_embedded.go#L158 */}}
     {{- template "_internal/opengraph.html" . -}}
-    {{- template "_internal/google_news.html" . -}}
     {{- template "_internal/schema.html" . -}}
     {{- template "_internal/twitter_cards.html" . -}}
 
@@ -107,7 +106,11 @@
     </script>
     <!-- End Matomo Code -->
 
-    {{ end }}    
+    {{ end }}
+    {{ if .Params.recaptcha }}  
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+    <script defer src='{{ "js/deleteAccount.js" | absURL }}'></script>
+    {{ end }}
 </head>
 <body>
 <div class="body-bg">
