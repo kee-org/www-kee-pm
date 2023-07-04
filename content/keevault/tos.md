@@ -14,8 +14,8 @@ Thank you for using Kee Vault! We’re happy you’re here. Please read this Ter
 | [B. Account Terms](#b-account-terms) | These are the basic requirements of having an Account on Kee Vault.  |
 | [C. Acceptable Use](#c-acceptable-use)| These are the basic rules you must follow when using Kee Vault. |
 | [D. Intellectual Property Notice](#d-intellectual-property-notice) | This describes Kee Vault’s rights in the website and service. |
-| [E. Payment](#e-payment) | You are responsible for payment. We are responsible for billing you accurately. |
-| [F. Free Trial](#f-free-trial) | We may offer you a free trial. We won’t trick you into accidental payments because we don’t require a credit card or other payment details from you. |
+| [E. Payment](#e-payment) | You are responsible for payment. Our Subscription Providers are responsible for billing you accurately. |
+| [F. Free Trial](#f-free-trial) | We may offer you a free trial. If we require payment details from you to start your trial, you'll be kept informed about when we'll start charging you and how much you will have to pay. |
 | [G. Cancellation and Termination](#g-cancellation-and-termination) | You may cancel this agreement and close your Account at any time. |
 | [H. Communications with Kee Vault](#h-communications-with-kee-vault) | We only use email and other electronic means to stay in touch with our users. We do not provide phone support. |
 | [I. Third-party links](#i-third-party-links) | We’re not responsible for third-parties. |
@@ -30,7 +30,7 @@ Thank you for using Kee Vault! We’re happy you’re here. Please read this Ter
 
 ## The Kee Vault Terms of Service
 
-Effective date: **28th March 2022**
+Effective date: **6th July 2023**
 
 ### A. Definitions
 **Short version:** *We use these basic terms throughout the agreement, and they have specific meanings. You should know what we mean when we use each of the terms.*
@@ -42,10 +42,12 @@ Effective date: **28th March 2022**
 5. “Kee Vault” refers to Kee Vault Ltd except for usage where the “Kee Vault” brand is used as a reference to the name of the Service.
 6. “We”, “Our” and “Us” refer to Kee Vault Ltd.
 7. “Kee Vault Ltd” includes our affiliates, directors, subsidiaries, contractors, licensors, officers, agents, and employees.
-8. “Content” refers to content featured or displayed through the Website, including without limitation text, data, articles, images, photographs, graphics, software, applications, designs, features, and other materials that are available on the Website or otherwise available through the Service. “Content” also includes Services. “Paid Content” is Content only available to Users who are participating in a payment plan, including paid Subscriptions.
-9. An “Account” is one possible representation of your legal relationship with Kee Vault. It represents your authorization to sign in to and use the Service, and serves as your identity on the Service.
-10. A “Subscription” is an automatically-renewing paid upgrade to an Account which, when Active, and subject to the terms in this Agreement, enables access to Paid Content and features that are otherwise unavailable to an Account with no Subscription or to a User that does not have an Account.
-11. “Activation” of your subscription will occur when you sign up to the Service or at the conclusion of any free trial we choose to offer to you.
+8. “Content” refers to content featured or displayed through the Website, including without limitation text, data, articles, images, photographs, graphics, software, applications, designs, features, and other materials that are available on the Website or otherwise available through the Service. “Content” also includes Services.
+9. “Paid Content” is Content only available to Users who are participating in a payment plan, including paid Subscriptions.
+10. An “Account” is one possible representation of your legal relationship with Kee Vault. It represents your authorization to sign in to and use the Service, and serves as your identity on the Service.
+11. A “Subscription” is an automatically-renewing paid upgrade to an Account which, when Active, and subject to the terms in this Agreement, enables access to Paid Content and features that are otherwise unavailable to an Account with no Subscription or to a User that does not have an Account.
+12. “Activation” of your subscription will occur either when you sign up to the Service or at the conclusion of any free trial we choose to offer to you. Your “Subscription Provider” will choose which.
+13. A “Subscription Provider” is the entity that you pay for your Subscription. They are responsible for informing us whether you have an active Subscription for your Account and handling any payment issues relating to that Subscription. They will also set their own terms of service which you should read and agree to when presented with the opportunity to do so. It may help to think of Kee Vault Ltd as the Service Provider. While we may also be your Subscription Provider, the role could be performed by a 3rd party, such as Google or Apple.
 
 ### B. Account Terms
 
@@ -122,13 +124,58 @@ If you would like to use Kee Vault’s trademarks, you must follow all of our tr
 
 ### E. Payment
 
-**Short version:** *You are responsible for any fees associated with your use of Kee Vault. We are responsible for communicating those fees to you clearly and accurately, and letting you know well in advance if those prices change. You can choose alternative subscription plans and frequencies and we may apply account credits (but no refunds) as a result of this but downgrading from a more expensive or longer plan does not mean that you are no longer responsible for the payment of the previously agreed fees.*
+**Short version:** *You are responsible for any fees associated with your use of Kee Vault. We or our partners are responsible for communicating those fees to you clearly and accurately, and letting you know well in advance if those prices change. You may be able to choose alternative subscription plans and frequencies and we may apply account credits (but no refunds) as a result of this but downgrading from a more expensive or longer plan does not mean that you are no longer responsible for the payment of the previously agreed fees. You may be able to choose from multiple subscription providers but there is no facility for you to transfer any remaining value on a subscription from one provider to that of another provider.*
 
-#### 1. Pricing
+#### 1. Subscription Providers
 
-Our pricing and payment terms are available at https://www.kee.pm. If you agree to a Subscription price, that will remain your price for the duration of the payment term (“Billing Cycle”); however, prices are subject to change at the end of a payment term.
+1. We may offer you a Kee Vault Subscription for your Account via one or more Subscription Providers.
+2. It is at our discretion which Subscription Providers we will offer to you, although we may also be bound by additional legal or technical restrictions affecting which Subscription Providers we are permitted to offer to you in some circumstances. We may also be legally prohibited from informing you that these restrictions are affecting your available options.
+3. Each Subscription Provider may offer you a different price and/or currency for your payment. Since it is not within our control or knowledge which Subscription Provider you will choose, nor which government Sales tax / VAT regime you will be subject to, we can't commit to ensuring that every price you see advertised will match the price that the Subscription Provider will offer to you.
+4. If you accept the price displayed by a Subscription Provider, this is a final and binding part of your contract with us and the Subscription Provider you have selected and unfortunately cannot be adjusted if you later find a lower price from an alternative Subscription Provider or a lower advertised price.
+5. We will make make reasonable efforts to request each Subscription Provider to offer prices that are broadly comparable to other Subscription Providers, although this comparable range can still vary by quite a lot once highly variable currency exchange rates, service fees and taxes are taken into account.
+6. Some Subscription Providers may offer temporary discounts, offers, deals, etc. and these may or may not be replicated in whole or part by our other Subscription Providers.
+7. It is your responsibility to manage your Subscription using your chosen Subscription Provider. We can not and will not enter into negotiations regarding payment issues, refunds, etc. on your behalf.
+8. We will ensure that you are able to manage your Subscription via links or features within the same Kee Vault app that you used to initiate your choice of Subscription Provider. We don't commit to ensuring that you can do this from every device or platform but will endeavour to direct you appropriately whenever technically feasible to do so.
 
-#### 2. Upgrades, Downgrades, and Changes
+#### 2. Subscription / Service integration failures
+
+While all reasonable efforts will be made to avoid the situation, if a technical fault causes our Service to be incorrectly informed about the status of a Subscription you purchased from a Subscription Provider, you agree to inform us of the situation in a timely manner and provide us with all necessary information and time to investigate the problem before escalating the issue to the Subscription Provider or any public media/website.
+
+Depending upon the nature of any problems of this type, you may need to work with both us and the Subscription Partner to ensure that you receive the Service you requested. We will endeavour to help with this process where possible, offer reasonable apologies and Service credit where applicable and of course attempt to learn everything about the circumstances of the problem so that we can try to prevent it happening again to you or other subscribers in the future.
+
+We will aggressively pursue any fraudulent claims of Subscription purchase errors and must unfortunately reserve the right to initiate civil and/or criminal court proceedings to recover our reasonable costs and prosecute you in the unlikely event that your actions are deemed fraudulent or malicious. Our Subscription Providers may well contain a similar clause protecting them from fraud and nothing in these terms prevents them from exercising that right. Although in practice it is unlikely that both us and our Subscription Provider will pursue fraudulent claims for the same incident, we do not rule out that possibility.
+
+#### 3. Use of multiple Subscription Providers
+
+You are responsible for selecting your Subscription Provider from the options available to you. If you decide to purchase a Subscription from a different Subscription Provider in future, your active Subscription periods from each Subscription Provider will overlap rather than extend. This means that you could effectively be paying twice to receive the same Service that others pay for just once. It is your responsibility to minimise or eliminate any overlap between the Subscriptions enabled by each of your chosen Subscription Providers.
+
+If we choose, or are forced by third parties, to stop accepting your previously chosen Subscription Provider as a valid option for our Service, we:
+1. Will give you as much notice as we can considering the circumstances that have led to the change being required
+2. May tell you which Subscription Provider you must migrate to or may provide you with two or more options to choose from
+3. Will make best efforts to provide information and assistance to you so that you are able to transfer your Subscription to a new Subscription Provider with as little effort as possible
+4. Will ensure that if an overlapping Subscription time period is necessary you will receive account credit or additional days of Service such that you are not paying twice for our Service as a result of our action.
+
+You:
+1. May have to pay a different price to the new Subscription Provider
+2. Will have the opportunity to object to the transfer of your active Subscription to a new Subscription Provider but will not be able to renew your Subscription at your old Subscription Provider when its term comes to an end. In that situation, we would treat your Account as no longer having an active Subscription, in just the same way as if you had failed to renew your Subscription at the end of its term for any other reason.
+
+#### 4. Third party terms of service
+
+You agree to be bound by the terms of service presented to you at the time of purchase by any third party Subscription Provider that you select to provision your Kee Vault Subscription.
+
+We are likewise bound by an agreement with the Subscription Provider which will cover a variety of terms. The most important ones will be related to our commitment to provide you with the Service that your Subscription entitles you to.
+
+It hopefully goes without saying but if you pay for our Service with any Third Party Subscription Provider, we will endeavour to provide you with that Service in a reasonable time frame and ensure that you continue receiving the service while the Subscription Provider informs us that you have an active (paid for) Subscription.
+
+#### 5. Kee Vault Ltd Subscription Provider terms of service
+
+If we offer you the option to engage Kee Vault Ltd as your Subscription Provider, the additional terms of service in this section will apply.
+
+##### i. Pricing
+
+Our pricing and payment terms are available at https://www.kee.pm. If you agree to a Subscription price, that will remain your price for the duration of the payment term (“Billing Cycle”); however, prices are subject to change at the end of a payment term. We will give you at least 30 days notice if we increase the price that you would need to pay to start a new Billing Cycle.
+
+##### ii. Upgrades, Downgrades, and Changes
 
 - We will immediately bill you when your Subscription Activates.
 - If you change from a monthly billing plan to a yearly billing plan, we will start a new one-year billing period immediately and apply a credit, to the invoice for this new billing period, in respect of the pro-rata amount for the time remaining on the old subscription plan.
@@ -140,39 +187,39 @@ Our pricing and payment terms are available at https://www.kee.pm. If you agree 
       - The choice of which approach to take is up to us, and may vary, but we will ensure you are made aware of this before you choose to alter your subscription.
 - You may change your level of service at any time by going into your [Account settings](https://account.kee.pm). If you choose to downgrade your Account, you may lose access to Content, features, or capacity of your Account.
 
-#### 3. Billing Schedule; No Refunds
+##### iii. Billing Schedule; No Refunds
 
 - For monthly or yearly payment plans, the Service is billed in advance on a monthly or yearly basis respectively and is non-refundable. There will be no refunds or credits for partial months of service, downgrade refunds or credits, or refunds for months unused with an open Account; however, per the cancellation information below, the service will remain active for the length of the paid billing period.
 - In order to treat everyone equally and limit the risk of malicious data destruction, no exceptions will be made.
 
-#### 4. Authorization
+##### iv. Authorization
 By agreeing to these Terms, you are giving us permission to charge your on-file credit card or other approved methods of payment for fees that you authorize for Kee Vault.
 
-#### 5. Responsibility for Payment
+##### v. Responsibility for Payment
 You are responsible for all fees - including taxes, transaction fees and currency conversions - associated with your use of the Service. Our standard payment currency is UK Pound Sterling (GBP). Whether or not we offer the option for you to pay in an alternative currency, you agree to pay the displayed payment charge and all fees as above.
 
 By using the Service, you agree to pay Kee Vault any charge incurred in connection with your use of the Service. If you dispute the matter, contact [Kee Vault Support](https://www.kee.pm/contact). You are responsible for providing us with a valid means of payment for paid Accounts before the subscription Activates.
 
 ### F. Free Trial
 
-**Short version:** *We may offer a free time-limited trial. We want you to be confident about paying for Kee Vault rather than tricked into it unwillingly so we do not require payment information when you sign up for the free trial. We may, but do not have to, offer you more than one free trial period.*
+**Short version:** *We or one of our Subscription Providers may offer you a free time-limited trial. Some Subscription Providers may not require payment information when you sign up for the free trial, but others will. We may, but do not have to, offer you more than one free trial period.*
 
 #### 1. The offer
 
-Kee Vault may, at its sole discretion, offer a Subscription preceded by a free trial for a limited period of time (“Free Trial” or “Trial”).
+Your chosen Subscription Provider may, at its sole discretion, offer a Subscription preceded by a free trial for a limited period of time (“Free Trial” or “Trial”).
 
-You do not have to provide payment information in order to sign up for the Free Trial.
+You may have to provide payment information in order to sign up for the Free Trial.
 
-We may or may not offer you a choice of the Subscription plan you will be able to use during this Trial period. If you are unhappy with the initial selection of Subscription plan then you will be able to request that we modify it during the Trial period using your [Account settings](https://account.kee.pm). We will honour that request when practical to do so.
+The Subscription Provider may or may not offer you a choice of the Subscription plan you will be able to use during this Trial period. If you are unhappy with the initial selection of Subscription plan and Kee Vault Ltd is your Subscription Provider then you will be able to request that we modify it during the Trial period using your [Account settings](https://account.kee.pm). We will honour that request when practical to do so.
 
-Different Subscription plans may have different Free Trial periods and we reserve the right to introduce additional functional limitations upon your trial; we will endeavour to communicate such limitations to you before you agree to accept the Trial offer.
+Different Subscription plans and different Subscription Providers may have different Free Trial periods and we reserve the right to introduce additional functional limitations upon your trial; we will endeavour to communicate such limitations to you before you agree to accept the Trial offer.
 
 #### 2. When the Trial ends
 
 When the Free Trial ends your Subscription will either be
 
-* _Activated_ if you have valid payment information on your account and we are able to take payment using this information.
-* _Cancelled_ if we are unable to take payment for any reason.
+* _Activated_ if you have valid payment information and the Subscription Provider is able to take payment using this information.
+* _Cancelled_ if the Subscription Provider is unable to take payment for any reason.
 
 The Subscription plan that will be applied to your Activated Account will be the same as the one that was in effect during your Free Trial. This means that if you want to select a different set of features or a different Billing Period (e.g. annually or monthly) you must do so before your Subscription Activates.
 
@@ -189,23 +236,33 @@ At any time and without notice, Kee Vault reserves the right to change the terms
 
 ### G. Cancellation and Termination
 
-**Short version:** *You may close your Account at any time. If you do, we’ll treat your information responsibly. We offer a guarantee that the closure of your account will not lead to the immediate loss of your data (encrypted passwords) but in rare circumstances we may levy a fee for the recovery of such data. Remember that Kee Vault can never have access to your passwords - you will still need to apply your master password to unlock any protected data we recover for you.*
+**Short version:** *You may close your Account at any time. If you do, we’ll treat your information responsibly. The closure of your account will not lead to the immediate loss of your data (encrypted passwords). We still deliver a service to you during the ~180 day protective grace period but only expect payment for this if you later request the recovery of your protected data. You can request a much shorter grace period if you wish. Remember that Kee Vault can never have access to your passwords - you will still need to apply your master password to unlock any protected data we recover for you.*
 
 #### 1. Account Cancellation
 
-It is your responsibility to properly cancel your Account with Kee Vault. You can cancel your Subscription at any time by going into your [Account settings](https://account.kee.pm). The Subscription details screen provides a simple cancellation link. We are not able to cancel Accounts in response to an email, a message via any medium or a phone request.
+It is your responsibility to properly cancel your Kee Vault Subscription. The process for doing so varies depending upon your chosen Subscription Provider and may be varied over time.
 
-Upon receipt of your cancellation request we will mark your Subscription as “Pending Cancellation”. Your Subscription will then continue until the end of your current Billing Term when it will then become “Cancelled”. You can undo your cancellation request at any point during this “Pending Cancellation” period.
+If your Subscription Provider is Kee Vault Ltd: You can cancel your Subscription at any time by going into your [Account settings](https://account.kee.pm). The Subscription details screen provides a simple cancellation link. Upon receipt of your cancellation request we will mark your Subscription as “Pending Cancellation”. Your Subscription will then continue until the end of your current Billing Term when it will then become “Cancelled”. You can undo your cancellation request at any point during this “Pending Cancellation” period.
+
+If you choose a different Subscription Provider: They will notify us that you wish to cancel your subscription and we will record this information and ensure that your Account enters the “Cancelled” state at the time specified by your Subscription Provider.
+
+We are not able to cancel Accounts in response to an email, a message via any medium or a phone request.
 
 #### 2. Upon Cancellation
 
 In a “Cancelled” state, certain Service features will cease to function immediately while others may remain available to you for a longer period. The precise timing of the termination of each Service feature will vary based upon a complex combination of exactly how you have utilised the service and how we modify a variety of Service “grace periods”.
 
-We are not required to offer any functionality to a Cancelled account and hence do not offer any legal guarantee of access nor any specific guidance on what steps you could take to affect the timing of functionality removal. However, we have designed the Service in good faith such that your data (passwords) will remain available for a short time from any device you have already used, for you to securely export while offline if you so desire. 
+We are not required to offer any functionality to a Cancelled account and hence do not offer any legal guarantee of access nor any specific guidance on what steps you could take to affect the precise timing of functionality or data removal. You should backup/export your data before you consider cancelling your subscription.
 
-We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, but barring those requirements, we will delete your email address, encrypted passwords and any payment details held at our payment partners within 180 days of cancellation or termination (though some information may remain in encrypted backups). This information can not be recovered once your Account is cancelled.
+If you need to access the data held in your Cancelled Account, you will need to renew/purchase a new subscription before your data is automatically removed. Different Subscription Providers will have different procedures and rules about this but in general you should expect to pay at least as much money as it would have cost for you to have kept the Subscription Active during the intervening time.
 
-Upon request, we will make a reasonable effort to provide an Account owner with a copy of your lawful, non-infringing Account contents after Account cancellation, termination, or downgrade. You must make this request within 90 days of cancellation, termination, or downgrade. We reserve the right to require pro-rata payment for the period since the Subscription became “Cancelled” at the same rate as would have applied had the account not been cancelled.
+We will retain and use your information as necessary to comply with our legal obligations, protect your security, resolve disputes, and enforce our agreements.
+
+Barring those requirements, we will delete your encrypted passwords and any payment details held at our payment partners within 180 days of cancellation or termination (though some information may remain in encrypted backups and it can then take up to a month for the process to complete). This information can not be recovered once your Account reaches this Deleted status. We explain these points in more detail in the Privacy Statement.
+
+This 180 day protective grace period is essential to defend you against accidental and malicious threats, especially those relating to abuse of trust. We are still providing you a service during this period. We do so out of good will and with no expectation of payment for our costs incurred but if you do restart your Subscription during this period to take advantage of the data protection offered by this grace period, we will treat this as if your Subscription had not been stopped in the first place and expect payment in line with the original terms before we are able to re-enable your account.
+
+If you would like an earlier end to the free protective grace period after Subscription cancellation, you can request that your account is Deleted as quickly as possible by using the form at https://kee.pm/keevault/delete-account/ 
 
 #### 3. Kee Vault May Suspend or Terminate
 
@@ -222,7 +279,7 @@ You may choose to sign up to the Service at some future point. You will be enter
 For the avoidance of doubt:-
 
 * once your encrypted passwords have been deleted per these cancellation terms, signing up again in the future will not restore your access to that deleted information AND
-* if we have not yet deleted the encrypted passwords associated with your account, you will be responsible for paying all monies due to us as recompense for the costs we incurred while managing the storage of your data for the period since you failed to notify us of your intent to cancel your subscription.
+* if we have not yet deleted the encrypted passwords associated with your account, you will be responsible for paying all monies due to us as recompense for the costs we incurred while managing the storage of your data for the usual protective grace period and any period since you failed to notify us of your intent to cancel your subscription.
 
 #### 5. Survival
 

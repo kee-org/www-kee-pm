@@ -10,9 +10,9 @@ markup: HTML
 <h2>Kee Vault</h2>
 
 <div class="highlights">
-{{% highlight lock %}}<a href="/open-source">Open Source</a> with next-generation Argon2 security{{%/highlight%}}
-{{% highlight umbrella %}}Protects you, your family and friends against website hacks and data breaches{{%/highlight%}}
 {{% highlight clock %}}No more forgotten passwords and waiting for reset emails{{%/highlight%}}
+{{% highlight lock %}}<a href="/open-source">Open Source</a>, protected by the latest Argon2 security{{%/highlight%}}
+{{% highlight umbrella %}}Protects you, your family and friends against website hacks and data breaches{{%/highlight%}}
 {{% highlight user-graduate %}}Based on over a decade of password management software development{{%/highlight%}}
 {{% highlight relax %}}You remember one password, Kee Vault remembers the rest{{%/highlight%}}
 {{% highlight check-square-solid %}}We tick all the boxes! Read about even more <a href="/features">benefits and features</a>{{%/highlight%}}

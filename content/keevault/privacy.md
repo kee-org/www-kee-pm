@@ -2,11 +2,11 @@
 title: Kee Vault Privacy Statement
 ---
 
-Effective date: **28th March 2022**
+Effective date: **6th July 2023**
 
 Thanks for entrusting Kee Vault with your personal information. Holding onto your private information is a serious responsibility, and we want you to know how we’re handling it.
 
-If you chose to not register an Account with us and instead use the free version of Kee Vault ("version 2"), you might not need to provide us with any personal data. That obviously makes some clauses below redundant, although you may wish to review the entire document anyway if you think that you might sign up for an Account one day in the future.
+If you chose to not register an Account with us and instead use the free version of Kee Vault (“version 2”), you might not need to provide us with any personal data. That obviously makes some clauses below redundant, although you may wish to review the entire document anyway if you think that you might sign up for an Account one day in the future.
 
 ## The short version
 
@@ -24,15 +24,15 @@ We will share your email address only with 3rd parties that are essential to the
 
 Potentially personally identifiable information is only kept for as long as is needed for us to deliver the service to you and meet our legal obligations. For example, the server logs IP addresses as part of protecting your account from unauthorised access attempts.
 
-To improve Kee Vault for you, we record anonymous usage data across keevault.pm, associated websites and applications. This never includes personally identifiable information (or passwords!) and is never shared.
+To improve Kee Vault for you, we may record anonymous usage data across our apps, keevault.pm and our associated websites. This never includes personally identifiable information (or passwords!) and is never shared.
 
-To protect against malicious attempts to deanonymise information and to enhance your security, your device may participate in a private communication network that includes other Kee Vault or Kee browser addon users. Any information sent using this network will be kept secret and have a negligible impact on your device performance and data costs.
+The security of your information depends upon the security of the devices that you use to access Kee Vault. This is no different to every other online or offline app but we want to re-iterate that point here: any software or service that claims to protect you from a security breach on a local device is misleading you - it is your responsibility to keep your local device secure.
 
-We and/or our essential 3rd party partners will send you emails that relate to critical service or security issues as necessary. Receiving other emails is optional.  
+We and/or our essential 3rd party partners will send you emails that relate to critical service or security issues as necessary. We'll send a handful of introductory emails with usage instructions and tips which are legitimately in your interest but you can unsubscribe any time from the emails themselves. Receiving marketing emails is optional. 
 
 ## The full version
 
-### Definition of "User Personal Information"
+### Definition of “User Personal Information”
 
 This is any information about one of our users which could, alone or together with other information, personally identify him or her. Information such as an email address is an example of “User Personal Information.” User Personal Information includes Personal Data as defined in the General Data Protection Regulation (GDPR).
 
@@ -68,7 +68,8 @@ Your password is never sent to Kee Vault (we use modern security techniques like
 
 Under certain international laws (including GDPR), Kee Vault is required to notify you about the legal basis on which we process User Personal Information. Kee Vault processes User Personal Information on the following legal bases:
 
-- When you create a Kee Vault account, you provide your email address. We require this for you to enter into the Terms of Service agreement with us, and we process this on the basis of performing that contract. We also process your email address on other bases. If you have an Active Kee Vault Subscription, there will be other data elements we must collect and process on the basis of performing that contract. Kee Vault does not collect or process a credit card number, but our third-party payment handlers do.
+- When you create a Kee Vault account, you provide your email address. We require this for you to enter into the Terms of Service agreement with us, and we process this on the basis of performing that contract. We also process your email address on other bases such as if you opt-in to receive marketing email messages.
+- If you have an Active Kee Vault Subscription, there will be other data elements we must collect and process on the basis of performing that contract. Kee Vault does not collect or process a credit card number, but our third-party payment handlers and Subscription Providers do.
 - When you fill out the information in your support profile, you have the option to provide User Personal Information such as your full name. We process this information on the basis of consent. All of this information is entirely optional, and you have the ability to access, modify, and delete it at any time.
 - Generally, the remainder of the processing of personal information we perform is necessary for the purposes of our legitimate interests. For example, for security purposes, we must keep logs of IP addresses that access Kee Vault.
 
@@ -104,7 +105,7 @@ Access, update, alter or delete your personal information by signing in to Kee V
 
 ### Data portability
 
-You can save a copy of your data at any time from the Settings page for your Kee Vault. The data format is KDBX, a standard, encrypted and widely supported format specialised for password storage.
+You can save a copy of your data at any time from Kee Vault. The data format is KDBX, a standard, encrypted and widely supported format specialised for password storage.
 
 ### Data retention and deletion of data
 
@@ -112,17 +113,25 @@ Generally, Kee Vault will retain User Personal Information for as long as your a
 
 We may retain certain User Personal Information indefinitely, unless you delete it or request its deletion. For example, we don’t automatically delete inactive user accounts, so unless you choose to delete your account, we will retain your account information indefinitely.
 
-You can cancel your Subscription at any time by going into your [Account settings](https://account.kee.pm). The Subscription details screen provides a simple cancellation link. We are not able to cancel Accounts in response to an email, a message via any medium or a phone request.
+You can cancel your Subscription at any time. If your Subscription Provider is Kee Vault Ltd, you can do this by going into your [Account settings](https://account.kee.pm). The Subscription details screen provides a simple cancellation link. If you chose a different Subscription Provider you will need to follow the steps that they explain to you.
 
-Upon receipt of your cancellation request we will mark your Subscription as "Pending Cancellation". Your Subscription will then continue until the end of your current Billing Term when it will then become "Cancelled". You can undo your cancellation request at any point during this "Pending Cancellation" period.
+We are not able to cancel Accounts in response to an email, a message via any medium or a phone request.
 
-We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, but barring those requirements, we will delete your email address, encrypted passwords and any payment details held at our payment partners within 180 days of cancellation or termination (though some information may remain in encrypted backups). This information can not be recovered once your Account is cancelled.
+We will retain and use your information as necessary to comply with our legal obligations, protect your security, resolve disputes, and enforce our agreements.
+
+For example, your encrypted email address will be kept for up to 5 years after Account Deletion to ensure that we can contact you in the unlikely event that this is required for security or legal reasons (such as notifying you of a historical security risk that could have affected you while your account was active). If you opt in to receiving marketing emails we will delete your email address shortly after you opt out, as long as your account has been inactive for at least 5 years.
+
+We will delete your encrypted passwords and any payment details held at our payment partners within 180 days of cancellation or termination (though some information may remain in encrypted backups and it can then take up to a month for the process to complete). This information can not be recovered once your Account is Deleted.
+
+This 180 day Protective Grace Period is essential to defend you against accidental and malicious threats, especially those relating to abuse of trust such as for those people trapped in abusive relationships.
+
+If you would like an earlier end to the free Protective Grace Period after Subscription cancellation, you can request that your account is deleted as quickly as possible by using the form at https://kee.pm/keevault/delete-account/ . The earliest that we can safely destroy your data is around 3 weeks after you request it to be deleted. As with the automatic data removal procedure after 180 days, it may then take up to a month for the data to be fully destroyed and we cannot guarantee that it will not remain hidden away in some encrypted backups indefinitely.
 
 ### Our use of cookies and tracking
 
 #### Cookies
 
-! This "Cookies" section is not relevant to the Kee Vault version 2 native app(s) such as the Android app
+! This “Cookies” section is not relevant to the Kee Vault version 2 native app(s) such as the Android app or iOS app
 
 Kee Vault avoids the use of cookies wherever possible.
 
@@ -142,7 +151,7 @@ None of this anonymous data is ever shared, although we may share information re
 
 Unlike nearly all websites, this is a private analytics system (we do not share your online movements with Google via Google Analytics, for example).
 
-We do not permit third parties other than our service providers to track Kee Vault users’ activity over time. We do not track your online browsing activity on other online services over time. We therefore have no need to, and do not, respond to your browser’s Do Not Track signal.
+We do not permit third parties other than our essential service providers to track Kee Vault users’ activity over time. We do not track your online browsing activity on other online services over time. We therefore have no need to, and do not, respond to your browser’s Do Not Track signal.
 
 Side note: Independently from this policy, you should investigate how your chosen device’s operating system and app store track you - some may perform additional tracking and share some of this data with us. We won’t ask for it and will ignore it if forced upon us.
 
@@ -169,6 +178,8 @@ The precise technical details of the form and purpose of these messages may vary
 1. Improves your security or privacy - We see this encrypted network as an innovative way to enhance your security and privacy beyond what is possible without the use of the network. We will only ever utilise the network if we are able to justify that such utilisation improves your security or privacy.
 2. Minimal data usage - We will only send what is required and will always ensure that in comparison to the data usage of the rest of the Kee Vault service, the data usage will be negligible both in terms of bandwidth usage and any metered costs you incur from your network supplier; if technically feasible we will use best efforts to deliver data when an unmetered internet connection is available.
 
+As of July 2023 there are no active uses of this communication network. To determine if, when and precisely why Kee Vault utilises these messages, you can of course inspect the completely open source code of Kee Vault at any time.
+
 ### Kee Vault’s global privacy practices
 
 **We store and process the information in several locations** in accordance with this Privacy Statement (our subprocessors may store and process data elsewhere). 
@@ -178,9 +189,10 @@ We work hard to comply with the applicable data privacy laws wherever we do busi
 Kee Vault’s primary storage and processing location is the United Kingdom. In future, we may store and process data elsewhere in the EU. We may also store, but not process, encrypted data in the United States. In all cases, this storage and processing adheres to the EU GDPR requirements or the UK equivalent.
 
 ### How we respond to compelled disclosure
+
 Kee Vault may disclose personally-identifying information or other information we collect about you to law enforcement in response to a valid subpoena, court order, warrant, or similar government order, or when we believe in good faith that disclosure is reasonably necessary to protect our property or rights, or those of third parties or the public at large.
 
-In complying with court orders and similar legal processes, Kee Vault strives for transparency. When permitted, we will make a reasonable effort to notify users of any disclosure of their information, unless we are prohibited by law or court order from doing so, or in rare, exigent circumstances.
+In complying with court orders and similar legal processes, Kee Vault strives for transparency. When permitted, we will make a reasonable effort to notify users of any disclosure of their information, unless we are prohibited by law or court order from doing so, or in rare, urgent circumstances.
 
 For the avoidance of doubt, we never have access to your password data, nor your master password that can reveal this data. Compelled disclosure is therefore most likely to relate to Personal Information such as your email address or payment details.
 

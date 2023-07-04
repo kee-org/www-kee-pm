@@ -6,7 +6,7 @@ We care deeply about helping everyone secure their passwords. Our company values
 
 Whenever those values align with an opportunity to offer our software for free we will do so, and the rest of the time we will price our software and services as generously as possible.
 
-A subscription to support our work costs only £20 per year, although if you prefer to pay more for additional flexibility you can swap to a monthly subscription that costs £2. We can’t promise that these prices will never rise to take account of inflation but we have no plans to change these fees at the time of writing in 2022 (and obviously you would be free to cancel your subscription if we have to impose an increase upon you one day).
+A subscription to support our work costs only £20 per year, although this slightly varies depending upon where and how you purchase your subscription. We can’t promise that these prices will never rise to take account of inflation but we have no plans to change these fees at the time of writing in 2023 (and obviously you would be free to cancel your subscription if we have to impose an increase upon you one day).
 
 We don’t offer refunds on partially used subscriptions but considering the free Android app, web app demo, 30 day free trial and the cheap subscription price we think that’s fair.
 
