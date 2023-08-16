@@ -134,13 +134,26 @@ div.highlights + p {
   border-color: #153856;
 }
 
-.extensionDownloads {
+.extensionDownloads,
+.appGetButtons {
   display: flex;
   justify-content: center;
   margin-bottom: 15px;
 }
+.appGetButtons {
+  gap: 20px;
+  margin-top: 20px;
+  flex-wrap: wrap;
+}
+@media (max-width:991px){.appGetButtons {
+  margin-left: 20px;
+}}
 .extensionDownloads .vault_button {
   margin: 10px;
+}
+.appGetButtons .vault_button .btn {
+  height: 46px;
+  padding-top: 11px;
 }
 
 .feature-title {

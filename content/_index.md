@@ -5,40 +5,43 @@ markup: HTML
 
 <p class="headline">Save time and hassle, sign in easily to the websites you use every day and never go through another password reset procedure.</p>
 
-<p class="headline">Protect yourself and people you know from the nightmare of your accounts being hacked.</p>
-
 <h2>Kee Vault</h2>
 
 <div class="highlights">
 {{% highlight clock %}}No more forgotten passwords and waiting for reset emails{{%/highlight%}}
-{{% highlight lock %}}<a href="/open-source">Open Source</a>, protected by the latest Argon2 security{{%/highlight%}}
+{{% highlight lock %}}Advanced, pioneering Argon2 security protection and <a href="/open-source">Open Source</a>{{%/highlight%}}
 {{% highlight umbrella %}}Protects you, your family and friends against website hacks and data breaches{{%/highlight%}}
 {{% highlight user-graduate %}}Based on over a decade of password management software development{{%/highlight%}}
-{{% highlight relax %}}You remember one password, Kee Vault remembers the rest{{%/highlight%}}
+{{% highlight relax %}}You remember one password, Kee Vault remembers the rest, even while offline{{%/highlight%}}
 {{% highlight check-square-solid %}}We tick all the boxes! Read about even more <a href="/features">benefits and features</a>{{%/highlight%}}
 </div>
 
+<div class="appGetButtons">
+<a href="https://apps.apple.com/us/app/kee-vault/id1640663427"><img src="/images/badge-pre-order-on-the-app-store.svg" height="48"/></a>
+<a href="https://play.google.com/store/apps/details?id=com.keevault.keevault"><img src="/images/Google_Play_Store_badge_EN.svg" height="46" /></a>
 <div class="vault_button">
-    <a class="btn btn-success btn-large" href="https://keevault.pm">Load the app now</a>
+    <a class="btn btn-success" href="https://keevault.pm">Load the web app</a>
+</div>
 </div>
 
 <h3>Versions</h3>
 
-<p>Kee Vault comes in two versions:</p>
+<p>Version 2 is available for free on Android and iOS devices and comes with new benefits such as biometric (fingerprint/face) sign-in and auto-fill support on those devices.</p>
 
-<ul>
-<li>Version 1 works on all modern devices and can be accessed from anywhere at <a href="https://keevault.pm">https://keevault.pm</a>.</li>
-<li>Version 2 works only on modern Android devices and is the recommended version to use on Android due to its additional features.</li>
-</ul>
+<p>Version 1 (web app) works on all devices and can be accessed from anywhere at <a href="https://keevault.pm">https://keevault.pm</a>.</p>
 
 <p>You can mix and match between both versions seamlessly and rest assured that both use the latest secure encryption technology. Version 2 is simply an upgraded version and a way for us to donate our software to those that can’t pay for a subscription, as per our <a href="/pricing">pricing promise</a>.</p>
 
-<p>We’ve created a comparison of the main differences between the two versions at the bottom of our <a href="/features">features</a> page so check it out if you want more details.</p>
+<p>There’s a comparison of the main differences between the two versions at the bottom of our <a href="/features">features</a> page.</p>
 
-<p>Start securing your online world now! Register for a 30 day free trial (no payment details required).</p>
+<p>Start securing your online world now! <strong>Register for a 30 day free trial using the Android, iOS or web app.</strong></p>
 
+<div class="appGetButtons">
+<a href="https://apps.apple.com/us/app/kee-vault/id1640663427"><img src="/images/badge-pre-order-on-the-app-store.svg" height="48"/></a>
+<a href="https://play.google.com/store/apps/details?id=com.keevault.keevault"><img src="/images/Google_Play_Store_badge_EN.svg" height="46" /></a>
 <div class="vault_button">
-    <a class="btn btn-success btn-large" href="https://keevault.pm">Register using the web app now</a>
+    <a class="btn btn-success" href="https://keevault.pm">Load the web app</a>
+</div>
 </div>
 
 <h2>Kee browser extension</h2>

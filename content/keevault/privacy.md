@@ -28,7 +28,7 @@ To improve Kee Vault for you, we may record anonymous usage data across our apps
 
 The security of your information depends upon the security of the devices that you use to access Kee Vault. This is no different to every other online or offline app but we want to re-iterate that point here: any software or service that claims to protect you from a security breach on a local device is misleading you - it is your responsibility to keep your local device secure.
 
-We and/or our essential 3rd party partners will send you emails that relate to critical service or security issues as necessary. We'll send a handful of introductory emails with usage instructions and tips which are legitimately in your interest but you can unsubscribe any time from the emails themselves. Receiving marketing emails is optional. 
+We and/or our essential 3rd party partners will send you emails that relate to critical service or security issues as necessary. We’ll send a handful of introductory emails with usage instructions and tips which are legitimately in your interest but you can unsubscribe any time from the emails themselves. Receiving marketing emails is optional. 
 
 ## The full version
 
