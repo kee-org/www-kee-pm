@@ -15,7 +15,7 @@ Thank you for using Kee Vault! We’re happy you’re here. Please read this Ter
 | [C. Acceptable Use](#c-acceptable-use)| These are the basic rules you must follow when using Kee Vault. |
 | [D. Intellectual Property Notice](#d-intellectual-property-notice) | This describes Kee Vault’s rights in the website and service. |
 | [E. Payment](#e-payment) | You are responsible for payment. Our Subscription Providers are responsible for billing you accurately. |
-| [F. Free Trial](#f-free-trial) | We may offer you a free trial. If we require payment details from you to start your trial, you'll be kept informed about when we'll start charging you and how much you will have to pay. |
+| [F. Free Trial](#f-free-trial) | We may offer you a free trial. If we require payment details from you to start your trial, you’ll be kept informed about when we’ll start charging you and how much you will have to pay. |
 | [G. Cancellation and Termination](#g-cancellation-and-termination) | You may cancel this agreement and close your Account at any time. |
 | [H. Communications with Kee Vault](#h-communications-with-kee-vault) | We only use email and other electronic means to stay in touch with our users. We do not provide phone support. |
 | [I. Third-party links](#i-third-party-links) | We’re not responsible for third-parties. |
@@ -130,12 +130,12 @@ If you would like to use Kee Vault’s trademarks, you must follow all of our tr
 
 1. We may offer you a Kee Vault Subscription for your Account via one or more Subscription Providers.
 2. It is at our discretion which Subscription Providers we will offer to you, although we may also be bound by additional legal or technical restrictions affecting which Subscription Providers we are permitted to offer to you in some circumstances. We may also be legally prohibited from informing you that these restrictions are affecting your available options.
-3. Each Subscription Provider may offer you a different price and/or currency for your payment. Since it is not within our control or knowledge which Subscription Provider you will choose, nor which government Sales tax / VAT regime you will be subject to, we can't commit to ensuring that every price you see advertised will match the price that the Subscription Provider will offer to you.
+3. Each Subscription Provider may offer you a different price and/or currency for your payment. Since it is not within our control or knowledge which Subscription Provider you will choose, nor which government Sales tax / VAT regime you will be subject to, we can’t commit to ensuring that every price you see advertised will match the price that the Subscription Provider will offer to you.
 4. If you accept the price displayed by a Subscription Provider, this is a final and binding part of your contract with us and the Subscription Provider you have selected and unfortunately cannot be adjusted if you later find a lower price from an alternative Subscription Provider or a lower advertised price.
 5. We will make make reasonable efforts to request each Subscription Provider to offer prices that are broadly comparable to other Subscription Providers, although this comparable range can still vary by quite a lot once highly variable currency exchange rates, service fees and taxes are taken into account.
 6. Some Subscription Providers may offer temporary discounts, offers, deals, etc. and these may or may not be replicated in whole or part by our other Subscription Providers.
 7. It is your responsibility to manage your Subscription using your chosen Subscription Provider. We can not and will not enter into negotiations regarding payment issues, refunds, etc. on your behalf.
-8. We will ensure that you are able to manage your Subscription via links or features within the same Kee Vault app that you used to initiate your choice of Subscription Provider. We don't commit to ensuring that you can do this from every device or platform but will endeavour to direct you appropriately whenever technically feasible to do so.
+8. We will ensure that you are able to manage your Subscription via links or features within the same Kee Vault app that you used to initiate your choice of Subscription Provider. We don’t commit to ensuring that you can do this from every device or platform but will endeavour to direct you appropriately whenever technically feasible to do so.
 
 #### 2. Subscription / Service integration failures
 

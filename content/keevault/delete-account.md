@@ -3,7 +3,7 @@ title: Kee Vault Account Deletion
 recaptcha: true
 ---
 
-Sorry you're considering deleting your Kee Vault account. We want to help as many people as possible to access the best personal password manager so if there's anything we could do to help you to keep using your Kee Vault account, please check out our community forum where many solutions already exist and we'd be happy to hear your feedback.
+Sorry you’re considering deleting your Kee Vault account. We want to help as many people as possible to access the best personal password manager so if there’s anything we could do to help you to keep using your Kee Vault account, please check out our community forum where many solutions already exist and we’d be happy to hear your feedback.
 
 We must protect your critical password data from malicious or accidental deletion - for many of our users account deletion could have disastrous personal and financial implications.
 
@@ -89,9 +89,9 @@ OR
 
 2. Re-enable your account subscription at your Subscription provider
 
-    This won't work forever (depends on the subscription provider) but if you ask for it to be re-created, we should handle that all automatically for you and you would then sign in using the same credentials you previously used (or perform an account reset if you can't recall your main account password or want to start fresh with a new one).
+    This won’t work forever (depends on the subscription provider) but if you ask for it to be re-created, we should handle that all automatically for you and you would then sign in using the same credentials you previously used (or perform an account reset if you can’t recall your main account password or want to start fresh with a new one).
 
-There are many varied paths for re-enabling and the above isn't a comprehensive list of approaches that will work. There may also be some things you try that don't work - if you're struggling to re-enable a previously deleted account, please just get in touch and we can help.
+There are many varied paths for re-enabling and the above isn’t a comprehensive list of approaches that will work. There may also be some things you try that don’t work - if you’re struggling to re-enable a previously deleted account, please just get in touch and we can help.
 
 {{< rawhtml >}}
 <style>

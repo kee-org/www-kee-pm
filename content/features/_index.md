@@ -4,7 +4,7 @@ markup: HTML
 ---
 
 <p>You remember one password and Kee Vault remembers the rest, securely and simply!</p>
-<p>We hope you’ll want to become a supporter with a small annual contribution but whether you do that or use the free version of our app our <a href="/pricing">fair pricing promise</a> always applies.</p>
+<p>We hope you’ll want to become a supporter with a small annual contribution but whether you do that or use the free Android/iOS version of our app our <a href="/pricing">fair pricing promise</a> always applies.</p>
 
 <div class="comparison">
   <table>
@@ -12,7 +12,7 @@ markup: HTML
       <tr>
         <th class="tl"></th>
         <th class="compare-heading">
-          Free Android app
+          Free app
         </th>
         <th class="compare-heading">
           Supporter
@@ -45,7 +45,7 @@ markup: HTML
         <td><span class="tickblue">✔</span></td>
       </tr>
       <tr>
-        <td><div class="feature-title">Instant unlock (Android only)</div><div class="feature-description">Prove it’s you by using your device’s fingerprint reader to get instant access to all your passwords without even needing to type in your Kee Vault master password. If you hate passwords this is a great feature!</div></td>
+        <td><div class="feature-title">Instant unlock (Android/iOS only)</div><div class="feature-description">Prove it’s you by using your device’s fingerprint reader or FaceId to get instant access to all your passwords without even needing to type in your main Kee Vault password. If you hate passwords this is a great feature!</div></td>
         <td><span class="tickblue">✔</span></td>
         <td><span class="tickblue">✔</span></td>
       </tr>
@@ -55,7 +55,7 @@ markup: HTML
         <td><span class="tickblue">✔</span></td>
       </tr>
       <tr>
-        <td><div class="feature-title">Android web browser integration</div><div class="feature-description">Automatically fill and save passwords for each website in Chrome or Firefox (and some other browsers).</div></td>
+        <td><div class="feature-title">Android/iOS web browser integration</div><div class="feature-description">Automatically fill and save passwords for each website in Safari, Chrome or Firefox (and some other browsers).</div></td>
         <td><span class="tickblue">✔</span></td>
         <td><span class="tickblue">✔</span></td>
       </tr>
@@ -75,7 +75,7 @@ markup: HTML
         <td><span class="tickblue">✔</span></td>
       </tr>
       <tr>
-        <td><div class="feature-title">Automatic security improvement</div><div class="feature-description">If your master password is not quite as strong as it could be, we’ll automatically enable increased protection for your Vault.</div></td>
+        <td><div class="feature-title">Automatic security improvement</div><div class="feature-description">If your Kee Vault password is not quite as strong as it could be, we’ll automatically enable increased protection for your Vault.</div></td>
         <td><span class="tickblue">✔</span></td>
         <td><span class="tickblue">✔</span></td>
       </tr>
@@ -125,12 +125,7 @@ markup: HTML
         <td><span class="tickblue">✔</span></td>
       </tr>
       <tr>
-        <td><div class="feature-title">30 day free trial</div><div class="feature-description">No payment details required.</div></td>
-        <td><span class="tickblue">-</span></td>
-        <td><span class="tickblue">✔</span></td>
-      </tr>
-      <tr>
-        <td><div class="feature-title">Monthly payment option available</div><div class="feature-description">It costs more in the long-run but if you really need it, you can choose to pay £2 every month instead.</div></td>
+        <td><div class="feature-title">30 day free trial</div><div class="feature-description">No risk to try out all the benefits above.</div></td>
         <td><span class="tickblue">-</span></td>
         <td><span class="tickblue">✔</span></td>
       </tr>
@@ -147,14 +142,15 @@ markup: HTML
   </table>
 </div>
 
-<p style="text-align: center; padding-top:10px">Secure your online world now! 30 day free trial with no payment details required.</p>
+<p style="text-align: center; padding-top:10px">Secure your online world now! <strong>Register for a 30 day free trial using the Android, iOS or web app.</strong></p>
 
+<div class="appGetButtons">
+<a href="https://apps.apple.com/us/app/kee-vault/id1640663427"><img src="/images/badge-pre-order-on-the-app-store.svg" height="48"/></a>
+<a href="https://play.google.com/store/apps/details?id=com.keevault.keevault"><img src="/images/Google_Play_Store_badge_EN.svg" height="46" /></a>
 <div class="vault_button">
-    <a class="btn btn-success btn-large" href="https://keevault.pm">Sign up through the web app now</a>
+    <a class="btn btn-success" href="https://keevault.pm">Load the web app</a>
 </div>
-
-<p style="text-align: center; padding:15px 0px">Or use the free version on Android from Google Play: <a href="https://play.google.com/store/apps/details?id=com.keevault.keevault">Kee Vault on Google Play</a></p>
-
+</div>
 
 <div class="comparison">
   <table>
@@ -174,15 +170,15 @@ markup: HTML
           <div>Web app</div>
         </th>
         <th class="price-info">
-          <div>Android</div>
+          <div>Android/iOS</div>
         </th>
       </tr>
     </thead>
     <tbody>
       <tr class="compare-row">
-        <td><div class="feature-title">Register for a Kee Vault subscription account</div></td>
+        <td><div class="feature-title">Register for a Kee Vault Supporter subscription account</div></td>
         <td><span class="tickblue">✔</span></td>
-        <td><span class="tickblue">-</span></td>
+        <td><span class="tickblue">✔</span></td>
       </tr>
       <tr>
         <td><div class="feature-title">Works both with and without a paid Kee Vault subscription</td>
@@ -195,22 +191,22 @@ markup: HTML
         <td><span class="tickblue">-</span></td>
       </tr>
       <tr>
-        <td><div class="feature-title">Sign in with your fingerprint</div></td>
+        <td><div class="feature-title">Sign in with biometrics (fingerprint, FaceId)</div></td>
         <td><span class="tickblue">-</span></td>
         <td><span class="tickblue">✔</span></td>
       </tr>
       <tr>
-        <td><div class="feature-title">Autofill into Android apps and websites on your Android</div></td>
+        <td><div class="feature-title">Autofill into apps and websites on your Android/iOS device</div></td>
         <td><span class="tickblue">-</span></td>
         <td><span class="tickblue">✔</span></td>
       </tr>
       <tr>
-        <td><div class="feature-title">Connects with the Kee browser extension for website auto-fill</div></td>
+        <td><div class="feature-title">Connects with the Kee browser extension for website auto-fill on desktop (Windows, Mac, etc.)</div></td>
         <td><span class="tickblue">✔</span></td>
         <td><span class="tickblue">-</span></td>
       </tr>
       <tr>
-        <td><div class="feature-title">Installable on desktop computers, laptops and iOS devices</div></td>
+        <td><div class="feature-title">Installable on desktop computers, laptops and other devices</div></td>
         <td><span class="tickblue">✔</span></td>
         <td><span class="tickblue">-</span></td>
       </tr>
@@ -235,15 +231,19 @@ markup: HTML
           Web app
         </td>
         <td class="compare-heading">
-          Android
+          Android/iOS
         </td>
       </tr>
     </tbody>
   </table>
 </div>
 
-<p style="text-align: center; padding-top:10px">Subscribers to the Kee Vault Supporter plan get access to both versions so...</p>
+<p style="text-align: center; padding-top:10px">Subscribers to the Kee Vault Supporter plan get access to both versions so register using the web app now, or you can try out the free Android/iOS app and then follow the sign-up links within the app to sign up later using your Google Play or Apple account.</p>
 
+<div class="appGetButtons">
+<a href="https://apps.apple.com/us/app/kee-vault/id1640663427"><img src="/images/badge-pre-order-on-the-app-store.svg" height="48"/></a>
+<a href="https://play.google.com/store/apps/details?id=com.keevault.keevault"><img src="/images/Google_Play_Store_badge_EN.svg" height="46" /></a>
 <div class="vault_button">
-    <a class="btn btn-success btn-large" href="https://keevault.pm">Sign up using version 1 now</a>
+    <a class="btn btn-success" href="https://keevault.pm">Load the web app</a>
+</div>
 </div>
