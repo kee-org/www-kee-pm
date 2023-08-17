@@ -144,13 +144,7 @@ markup: HTML
 
 <p style="text-align: center; padding-top:10px">Secure your online world now! <strong>Register for a 30 day free trial using the Android, iOS or web app.</strong></p>
 
-<div class="appGetButtons">
-<a href="https://apps.apple.com/us/app/kee-vault/id1640663427"><img src="/images/badge-pre-order-on-the-app-store.svg" height="48"/></a>
-<a href="https://play.google.com/store/apps/details?id=com.keevault.keevault"><img src="/images/Google_Play_Store_badge_EN.svg" height="46" /></a>
-<div class="vault_button">
-    <a class="btn btn-success" href="https://keevault.pm">Load the web app</a>
-</div>
-</div>
+{{% appLinks %}}
 
 <div class="comparison">
   <table>
@@ -240,10 +234,4 @@ markup: HTML
 
 <p style="text-align: center; padding-top:10px">Subscribers to the Kee Vault Supporter plan get access to both versions so register using the web app now, or you can try out the free Android/iOS app and then follow the sign-up links within the app to sign up later using your Google Play or Apple account.</p>
 
-<div class="appGetButtons">
-<a href="https://apps.apple.com/us/app/kee-vault/id1640663427"><img src="/images/badge-pre-order-on-the-app-store.svg" height="48"/></a>
-<a href="https://play.google.com/store/apps/details?id=com.keevault.keevault"><img src="/images/Google_Play_Store_badge_EN.svg" height="46" /></a>
-<div class="vault_button">
-    <a class="btn btn-success" href="https://keevault.pm">Load the web app</a>
-</div>
-</div>
+{{% appLinks %}}
