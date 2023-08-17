@@ -3,6 +3,13 @@ markup: HTML
 ---
 <h1>Secure passwords, simply</h1>
 
+<p class="h4" style="
+  padding: 10px;
+  border: 1px solid #1a466b;
+  border-radius: 5px;
+  box-shadow: 2px 2px 3px #1a466b;
+  margin-bottom: 15px;">NEW: <span class="text-danger" >iOS app now available!</span> All existing benefits of Kee Vault with added support for TouchId/FaceId and auto-fill into other apps and websites. <a href="https://apps.apple.com/us/app/kee-vault/id1640663427">Get it now on the App Store</a></p>
+
 <p class="headline">Save time and hassle, sign in easily to the websites you use every day and never go through another password reset procedure.</p>
 
 <h2>Kee Vault</h2>
@@ -16,13 +23,7 @@ markup: HTML
 {{% highlight check-square-solid %}}We tick all the boxes! Read about even more <a href="/features">benefits and features</a>{{%/highlight%}}
 </div>
 
-<div class="appGetButtons">
-<a href="https://apps.apple.com/us/app/kee-vault/id1640663427"><img src="/images/badge-pre-order-on-the-app-store.svg" height="48"/></a>
-<a href="https://play.google.com/store/apps/details?id=com.keevault.keevault"><img src="/images/Google_Play_Store_badge_EN.svg" height="46" /></a>
-<div class="vault_button">
-    <a class="btn btn-success" href="https://keevault.pm">Load the web app</a>
-</div>
-</div>
+{{% appLinks %}}
 
 <h3>Versions</h3>
 
@@ -36,13 +37,7 @@ markup: HTML
 
 <p>Start securing your online world now! <strong>Register for a 30 day free trial using the Android, iOS or web app.</strong></p>
 
-<div class="appGetButtons">
-<a href="https://apps.apple.com/us/app/kee-vault/id1640663427"><img src="/images/badge-pre-order-on-the-app-store.svg" height="48"/></a>
-<a href="https://play.google.com/store/apps/details?id=com.keevault.keevault"><img src="/images/Google_Play_Store_badge_EN.svg" height="46" /></a>
-<div class="vault_button">
-    <a class="btn btn-success" href="https://keevault.pm">Load the web app</a>
-</div>
-</div>
+{{% appLinks %}}
 
 <h2>Kee browser extension</h2>
 
